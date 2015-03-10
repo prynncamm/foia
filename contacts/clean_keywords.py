@@ -13,10 +13,16 @@ STOP_WORDS = get_stop_words('english')
 # Threshold set to 25 percentile of scores
 THRESHOLD = np.float64(0.940983)
 
+"""
+This script uses the Term Frequency–Inverse Document Frequency statistic
+(tf-idf) to eliminate the keywords that score in the bottom 25th percentile
+for relevance.
+"""
+
 
 def flatten_keywords(keywords):
     """
-    Converts phases into keywords while removing stop words and parentheses
+    Convert phrases into keywords while removing stop words and parentheses
     """
 
     flattened_keywords = []
@@ -32,7 +38,7 @@ def flatten_keywords(keywords):
 
 def update_keyword_agency_dict(keywords_agency, keywords, agency_name):
     """
-    Generates/updates a dictionary, which maps keywords to agencies
+    Generate/update a dictionary, which maps keywords to agencies
     """
     for keyword in keywords:
         if keyword in keywords_agency:
@@ -43,7 +49,7 @@ def update_keyword_agency_dict(keywords_agency, keywords, agency_name):
 
 def extract_agency_keywords(agency, agency_keywords, keywords_agency):
     """
-    Updates the agency_keywords and keywords_agency dictionaries with data
+    Update the agency_keywords and keywords_agency dictionaries with data
     from a specific agency
     """
 
@@ -67,7 +73,7 @@ def extract_agency_keywords(agency, agency_keywords, keywords_agency):
 
 def get_keyword_dicts(glob_path):
     """
-    Collects a dictionary that maps keywords to agencies and a dictionary that
+    Collect a dictionary that maps keywords to agencies and a dictionary that
     maps agencies to keywords
     """
 
@@ -86,10 +92,10 @@ def get_keyword_dicts(glob_path):
 
 def get_tf_idf(keyword, keywords, agency, agencies, total_agencies):
     """
-    Computes tf_idf score of a given keyword currently tf (term freqency) has
+    Compute tf_idf score of a given keyword currently tf (term frequency) has
     no weighting and idf is a simple inverse frequency.
 
-    for more info http://en.wikipedia.org/wiki/Tf%E2%80%93idf
+    For more info http://en.wikipedia.org/wiki/Tf%E2%80%93idf
     """
 
     idf = math.log(total_agencies / len(keywords.get(keyword)))
@@ -107,7 +113,7 @@ def clean_keywords(keywords, scores):
             threshold = np.median(scores)
         keywords = np.array(keywords)
         keywords = keywords[scores > threshold].tolist()
-
+    keywords.sort()
     return keywords
 
 
@@ -141,7 +147,8 @@ def apply_tf_idf(agency, agencies, keywords, total_agencies):
                     agencies=agencies,
                     total_agencies=total_agencies)
                 tf_idf_scores.append(tf_idf)
-            office['keywords'] = clean_keywords(keyword_set, tf_idf_scores)
+            office['keywords'] = clean_keywords(
+                keyword_set, tf_idf_scores)
     return agency
 
 

@@ -105,7 +105,7 @@ class CleanKeywordsTests(TestCase):
         keywords = ['freedom', 'united', 'states', 'information']
         scores = [0, 0, 1, 4]
         new_keywords = clean_keywords.clean_keywords(keywords, scores)
-        self.assertEqual(new_keywords, ['states', 'information'])
+        self.assertEqual(new_keywords, ['information', 'states'])
 
         # Wont' break if there is only one keyword
         keywords = ['freedom']

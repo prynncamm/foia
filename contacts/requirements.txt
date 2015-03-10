@@ -7,3 +7,5 @@ flake8
 mock
 nose
 vcrpy
+stop-words
+numpy
