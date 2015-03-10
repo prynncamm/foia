@@ -99,11 +99,11 @@ class CleanKeywordsTests(TestCase):
 
     def test_clean_keywords(self):
         """
-        Verify that keywords with scores lower than the median are removed
+        Verify that keywords with scores lower than the threshold are removed
         """
 
         keywords = ['freedom', 'united', 'states', 'information']
-        scores = [1, 2, 3, 4]
+        scores = [0, 0, 1, 4]
         new_keywords = clean_keywords.clean_keywords(keywords, scores)
         self.assertEqual(new_keywords, ['states', 'information'])
 

@@ -10,6 +10,9 @@ from stop_words import get_stop_words
 
 STOP_WORDS = get_stop_words('english')
 
+# Threshold set to 25 percentile of scores
+THRESHOLD = np.float64(0.940983)
+
 
 def flatten_keywords(keywords):
     """
@@ -98,10 +101,12 @@ def get_tf_idf(keyword, keywords, agency, agencies, total_agencies):
 def clean_keywords(keywords, scores):
     """ Removes any keywords that have less than the median tfidf score """
 
-    if len(scores) > 1:
-        median = np.median(scores)
+    threshold = THRESHOLD
+    if len(scores) > 0:
+        if not threshold:
+            threshold = np.median(scores)
         keywords = np.array(keywords)
-        keywords = keywords[scores > median].tolist()
+        keywords = keywords[scores > threshold].tolist()
 
     return keywords
 
@@ -163,7 +168,5 @@ def updated_yamls(glob_path):
                 total_agencies=total_agencies)
         write_yaml(filename=filename, data=agency)
 
-
 if __name__ == "__main__":
-
     updated_yamls("data" + os.sep + "*.yaml")
