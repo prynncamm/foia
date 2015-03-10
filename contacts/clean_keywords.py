@@ -8,7 +8,7 @@ import yaml
 import numpy as np
 from stop_words import get_stop_words
 
-stop_words = get_stop_words('english')
+STOP_WORDS = get_stop_words('english')
 
 
 def flatten_keywords(keywords):
@@ -22,7 +22,7 @@ def flatten_keywords(keywords):
             split_words = list(set(keyword.lower().split(' ')))
             for word in split_words:
                 word = word.strip("()")
-                if word not in stop_words:
+                if word not in STOP_WORDS:
                     flattened_keywords.append(word)
     return flattened_keywords
 
@@ -38,31 +38,46 @@ def update_keyword_agency_dict(keywords_agency, keywords, agency_name):
             keywords_agency[keyword] = [agency_name]
 
 
+def extract_agency_keywords(agency, agency_keywords, keywords_agency):
+    """
+    Updates the agency_keywords and keywords_agency dictionaries with data
+    from a specific agency
+    """
+
+    keywords = flatten_keywords(agency.get('keywords'))
+    if keywords:
+        update_keyword_agency_dict(
+            keywords_agency=keywords_agency,
+            keywords=keywords,
+            agency_name=agency.get('name'))
+        agency_keywords[agency.get('name')] = keywords
+
+    for office in agency['departments']:
+        keywords = flatten_keywords(office.get('keywords'))
+        if keywords:
+            update_keyword_agency_dict(
+                keywords_agency=keywords_agency,
+                keywords=keywords,
+                agency_name=office.get('name'))
+            agency_keywords[office.get('name')] = keywords
+
+
 def get_keyword_dicts(glob_path):
+    """
+    Collects a dictionary that maps keywords to agencies and a dictionary that
+    maps agencies to keywords
+    """
 
     agency_keywords = {}
     keywords_agency = {}
 
     for filename in iglob(glob_path):
         with open(filename) as f:
-            agency = yaml.load(f.read())
+            extract_agency_keywords(
+                agency=yaml.load(f.read()),
+                agency_keywords=agency_keywords,
+                keywords_agency=keywords_agency)
 
-        keywords = flatten_keywords(agency.get('keywords'))
-        if keywords:
-            update_keyword_agency_dict(
-                keywords_agency=keywords_agency,
-                keywords=keywords,
-                agency_name=agency.get('name'))
-            agency_keywords[agency.get('name')] = keywords
-
-        for office in agency['departments']:
-            keywords = flatten_keywords(office.get('keywords'))
-            if keywords:
-                update_keyword_agency_dict(
-                    keywords_agency=keywords_agency,
-                    keywords=keywords,
-                    agency_name=office.get('name'))
-                agency_keywords[office.get('name')] = keywords
     return agency_keywords, keywords_agency
 
 
@@ -81,6 +96,7 @@ def get_tf_idf(keyword, keywords, agency, agencies, total_agencies):
 
 
 def clean_keywords(keywords, scores):
+    """ Removes any keywords that have less than the median tfidf score """
 
     if len(scores) > 1:
         median = np.median(scores)
@@ -90,46 +106,63 @@ def clean_keywords(keywords, scores):
     return keywords
 
 
-def apply_tf_idf(glob_path):
+def apply_tf_idf(agencies, keywords, agency, total_agencies):
+    """
+    Applies tfidf to score keywords and returns updated keywords
+    """
+
+    if 'keywords' in agency:
+        tf_idf_scores = []
+        keyword_set = list(set(agencies.get(agency['name'])))
+        for keyword in keyword_set:
+            tf_idf = get_tf_idf(
+                keyword=keyword,
+                keywords=keywords,
+                agency=agency['name'],
+                agencies=agencies,
+                total_agencies=total_agencies)
+            tf_idf_scores.append(tf_idf)
+        agency['keywords'] = clean_keywords(keyword_set, tf_idf_scores)
+
+    for office in agency['departments']:
+        if 'keywords' in office:
+            keyword_set = list(set(agencies.get(office['name'])))
+            tf_idf_scores = []
+            for keyword in keyword_set:
+                tf_idf = get_tf_idf(
+                    keyword=keyword,
+                    keywords=keywords,
+                    agency=office['name'],
+                    agencies=agencies,
+                    total_agencies=total_agencies)
+            office['keywords'] = clean_keywords(keyword_set, tf_idf_scores)
+    return agency
+
+
+def write_yaml(filename, data):
+    """ Exports the updated yaml file """
+
+    with open(filename, 'w') as f:
+        f.write(yaml.dump(
+            data, default_flow_style=False, allow_unicode=True))
+
+
+def updated_yamls(glob_path):
+    """ Updates the yaml files with cleaned keywords """
 
     agencies, keywords = get_keyword_dicts(glob_path)
     total_agencies = len(agencies.keys())
 
     for filename in iglob(glob_path):
         with open(filename) as f:
-            agency = yaml.load(f.read())
-
-        if 'keywords' in agency:
-            tf_idf_scores = []
-            keyword_set = list(set(agencies.get(agency['name'])))
-            for keyword in keyword_set:
-                tf_idf = get_tf_idf(
-                    keyword=keyword,
-                    keywords=keywords,
-                    agency=agency['name'],
-                    agencies=agencies,
-                    total_agencies=total_agencies)
-                tf_idf_scores.append(tf_idf)
-            agency['keywords'] = clean_keywords(keyword_set, tf_idf_scores)
-
-        for office in agency['departments']:
-            if 'keywords' in office:
-                keyword_set = list(set(agencies.get(office['name'])))
-                tf_idf_scores = []
-                for keyword in keyword_set:
-                    tf_idf = get_tf_idf(
-                        keyword=keyword,
-                        keywords=keywords,
-                        agency=office['name'],
-                        agencies=agencies,
-                        total_agencies=total_agencies)
-                office['keywords'] = clean_keywords(keyword_set, tf_idf_scores)
-
-        with open(filename, 'w') as new_file:
-            new_file.write(yaml.dump(
-                agency, default_flow_style=False, allow_unicode=True))
+            agency = apply_tf_idf(
+                agencies=agencies,
+                keywords=keywords,
+                agency=yaml.load(f.read()),
+                total_agencies=total_agencies)
+        write_yaml(filename=filename, data=agency)
 
 
 if __name__ == "__main__":
 
-    apply_tf_idf("data" + os.sep + "*.yaml")
+    updated_yamls("data" + os.sep + "*.yaml")

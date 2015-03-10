@@ -112,3 +112,53 @@ class CleanKeywordsTests(TestCase):
         scores = [1]
         new_keywords = clean_keywords.clean_keywords(keywords, scores)
         self.assertEqual(new_keywords, keywords)
+
+    def test_extract_agency_keywords(self):
+        """
+        Verify that keywords are transformed into a dict that maps keywords
+        to agencies and a dict that transforms agencies to keywords
+        """
+
+        keywords_agency = {}
+        agency_keywords = {}
+        agency = {'name': 'Agency 1', 'departments': []}
+
+        # Test agency with no keywords
+        clean_keywords.extract_agency_keywords(
+            agency=agency,
+            agency_keywords=agency_keywords,
+            keywords_agency=keywords_agency)
+
+        self.assertEqual(keywords_agency, {})
+        self.assertEqual(agency_keywords, {})
+
+        # Test agency with keywords
+        agency['keywords'] = ['freedom', 'information', 'act']
+        clean_keywords.extract_agency_keywords(
+            agency=agency,
+            agency_keywords=agency_keywords,
+            keywords_agency=keywords_agency)
+
+        self.assertEqual(
+            keywords_agency,
+            {
+                'freedom': ['Agency 1'],
+                'information': ['Agency 1'],
+                'act': ['Agency 1']
+            })
+        self.assertEqual(
+            agency_keywords, {'Agency 1': ['freedom', 'information', 'act']})
+
+        # Test adding another agency that is in departments keywords
+        agency = {'name': 'Agency 2', 'departments': []}
+        agency['departments'] = [
+            {'name': 'Office 1', 'keywords': ['freedom', 'united']}]
+        clean_keywords.extract_agency_keywords(
+            agency=agency,
+            agency_keywords=agency_keywords,
+            keywords_agency=keywords_agency)
+        self.assertTrue('Office 1' in keywords_agency['freedom'])
+        self.assertTrue('Office 1' in keywords_agency['united'])
+        self.assertTrue('united' in agency_keywords['Office 1'])
+        self.assertTrue('freedom' in agency_keywords['Office 1'])
+
