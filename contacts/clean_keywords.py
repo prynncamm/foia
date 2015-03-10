@@ -106,7 +106,7 @@ def clean_keywords(keywords, scores):
     return keywords
 
 
-def apply_tf_idf(agencies, keywords, agency, total_agencies):
+def apply_tf_idf(agency, agencies, keywords, total_agencies):
     """
     Applies tfidf to score keywords and returns updated keywords
     """
@@ -135,6 +135,7 @@ def apply_tf_idf(agencies, keywords, agency, total_agencies):
                     agency=office['name'],
                     agencies=agencies,
                     total_agencies=total_agencies)
+                tf_idf_scores.append(tf_idf)
             office['keywords'] = clean_keywords(keyword_set, tf_idf_scores)
     return agency
 
@@ -156,9 +157,9 @@ def updated_yamls(glob_path):
     for filename in iglob(glob_path):
         with open(filename) as f:
             agency = apply_tf_idf(
+                agency=yaml.load(f.read()),
                 agencies=agencies,
                 keywords=keywords,
-                agency=yaml.load(f.read()),
                 total_agencies=total_agencies)
         write_yaml(filename=filename, data=agency)
 

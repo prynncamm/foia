@@ -162,3 +162,37 @@ class CleanKeywordsTests(TestCase):
         self.assertTrue('united' in agency_keywords['Office 1'])
         self.assertTrue('freedom' in agency_keywords['Office 1'])
 
+    def test_apply_tf_idf(self):
+
+        agency = {
+            'name': 'Agency 1',
+            'keywords': ['united', 'freedom', 'states'],
+            'departments': [{
+                'name': 'Office 1',
+                'keywords': ['freedom', 'united', 'information']
+            }]
+        }
+        # Setup
+        keywords = {
+            'united': ['Agency 1', 'Agency 2', 'Agency 3', 'Office 1'],
+            'freedom': ['Agency 1', 'Agency 2', 'Office 1'],
+            'states': ['Agency 1'],
+            'information': ['Office 1']
+        }
+        agencies = {
+            'Agency 1': ['united', 'freedom', 'states'],
+            'Agency 2': ['united', 'freedom'],
+            'Agency 3': ['united'],
+            'Office 1': ['freedom', 'united', 'information']
+        }
+        total_agencies = 4
+
+        data = clean_keywords.apply_tf_idf(
+            agency=agency,
+            agencies=agencies,
+            keywords=keywords,
+            total_agencies=total_agencies
+        )
+
+        self.assertEqual(data['keywords'], ['states'])
+        self.assertEqual(data['departments'][0]['keywords'], ['information'])
