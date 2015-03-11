@@ -260,32 +260,22 @@ departments:
   - foiarequests@dol.gov
   keywords:
   - Accountants
-  - Accounting
-  - Administrative practice and procedure
   - Advertising
   - Advisory committees
   - Brokers
-  - Claims
   - Consumer protection
   - Employee benefit plans
   - Excise taxes
-  - Government employees
   - Grant programs-health
   - Health care
   - Health insurance
   - Health records
   - Hospitals
-  - Individuals with disabilities
   - Investments
-  - Law enforcement
   - Loan programs-health
   - Medicaid
-  - Organization and functions (Government agencies)
-  - Penalties
   - Public assistance programs
-  - Reporting and recordkeeping requirements
   - Retirement
-  - Securities
   - State and local governments
   - Sunshine Act
   - Surety bonds
@@ -401,43 +391,27 @@ departments:
     assistance with finding jobs and careers.
   fax: 202-693-2844
   keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Aged
   - Agricultural commodities
-  - Agriculture
   - Aliens
   - Australia
-  - Civil rights
-  - Claims
   - Courts
   - Disaster assistance
-  - Education
-  - Employment
   - Employment and Training Administration
   - Employment taxes
   - Equal educational opportunity
-  - Equal employment opportunity
   - Foreign officials
   - Forests and forest products
   - Fraud
-  - Government contracts
-  - Government employees
   - Government procurement
-  - Grant programs
   - Grant programs-Indians
   - Grant programs-labor
   - Guam
   - Hawaiian Natives
-  - Health professions
   - Homeless
   - Housing
   - Housing standards
   - Immigration
   - Indemnity payments
-  - Indians
-  - Individuals with disabilities
-  - Investigations
   - Labor
   - Lobbying
   - Longshore and harbor workers
@@ -446,11 +420,8 @@ departments:
   - Minimum wages
   - Nursery stock
   - Passports and visas
-  - Penalties
-  - Privacy
   - Religious discrimination
   - Relocation assistance
-  - Reporting and recordkeeping requirements
   - Safety
   - Seamen
   - Sex discrimination
@@ -626,8 +597,6 @@ departments:
   - foiarequests@dol.gov
   fax: 202-963-9441
   keywords:
-  - Administrative practice and procedure
-  - Agriculture
   - Aliens
   - Asbestos
   - Black lung benefits
@@ -636,23 +605,16 @@ departments:
   - Coal
   - Colleges and universities
   - Communications equipment
-  - Education
   - Electric power
   - Emergency medical services
   - Employee benefit plans
-  - Employment
   - Environmental impact statements
   - Explosives
   - Fire prevention
   - Gases
   - Hazardous substances
-  - Health professions
   - Housing
-  - Insurance
-  - Intergovernmental relations
-  - Investigations
   - Labeling
-  - Law enforcement
   - Metals
   - Migrant labor
   - Mine safety and health
@@ -660,10 +622,8 @@ departments:
   - Motor vehicle safety
   - Noise control
   - Occupational safety and health
-  - Penalties
   - Radiation protection
   - Radio
-  - Reporting and recordkeeping requirements
   - Research
   - Safety
   - Students
@@ -983,18 +943,10 @@ departments:
   - foiarequests@dol.gov
   fax: 202-693-5538
   keywords:
-  - Administrative practice and procedure
-  - Civil rights
   - Construction industry
-  - Employment
-  - Equal employment opportunity
-  - Government contracts
   - Government procurement
-  - Individuals with disabilities
-  - Investigations
   - Labor
   - Religious discrimination
-  - Reporting and recordkeeping requirements
   - Veterans
   - Women
   name: Office of Federal Contract Compliance Programs
@@ -1083,13 +1035,10 @@ departments:
     street: 200 Constitution Avenue, NW
     zip: '20210'
   keywords:
-  - Administrative practice and procedure
-  - Government contracts
   - Insurance companies
   - Labor management relations
   - Labor unions
   - Mass transportation
-  - Reporting and recordkeeping requirements
   - Surety bonds
   name: Office of Labor-Management Standards
   notes: This office has additional FOIA contact information that can be found by
@@ -1179,23 +1128,17 @@ departments:
     street: 200 Constitution Avenue, NW
     zip: '20210'
   keywords:
-  - Administrative practice and procedure
   - Black lung benefits
   - Cancer
   - Chemicals
-  - Claims
-  - Government employees
   - Health care
-  - Health professions
   - Insurance companies
   - Kidney diseases
   - Labor
   - Longshore and harbor workers
   - Lung diseases
   - Miners
-  - Organization and functions (Government agencies)
   - Radioactive materials
-  - Reporting and recordkeeping requirements
   - Underground mining
   - Uranium
   - Vocational rehabilitation
@@ -1393,9 +1336,7 @@ departments:
     standards, and by providing training, outreach, education and assistance.
   fax: 202-693-1635
   keywords:
-  - Administrative practice and procedure
   - Advisory committees
-  - Agriculture
   - Asbestos
   - Blood
   - Blood diseases
@@ -1406,29 +1347,22 @@ departments:
   - Consumer protection
   - Diving
   - Electric power
-  - Employment
   - Environmental protection
   - Explosives
   - Fire prevention
-  - Freedom of information
   - Freight
   - Gases
-  - Government employees
   - Grant programs-labor
   - Hazardous substances
   - Health
   - Health care
   - Health facilities
-  - Health professions
   - Health records
   - Health statistics
   - Highway safety
   - Hospitals
-  - Intergovernmental relations
-  - Investigations
   - Labeling
   - Laboratories
-  - Law enforcement
   - Longshore and harbor workers
   - Marine safety
   - Mass transportation
@@ -1439,10 +1373,8 @@ departments:
   - Occupational safety and health
   - Pipeline safety
   - Pipelines
-  - Privacy
   - Radiation protection
   - Railroads
-  - Reporting and recordkeeping requirements
   - Safety
   - Seamen
   - Signs and symbols
@@ -1556,13 +1488,8 @@ departments:
   description: VETS provides resources to prepare and assist veterans obtain meaningful
     careers and maximize their employment opportunities.
   keywords:
-  - Administrative practice and procedure
-  - Employment
-  - Government contracts
-  - Grant programs
   - Grant programs-labor
   - Labor
-  - Reporting and recordkeeping requirements
   - Veterans
   name: Veterans' Employment & Training Service
   notes: This office has additional FOIA contact information that can be found by
@@ -1667,9 +1594,7 @@ departments:
     street: 200 Constitution Avenue, N.W.
     zip: '20210'
   keywords:
-  - Administrative practice and procedure
   - Agricultural commodities
-  - Agriculture
   - Aliens
   - American Samoa
   - Black lung benefits
@@ -1679,11 +1604,9 @@ departments:
   - Colleges and universities
   - Communications equipment
   - Construction industry
-  - Education
   - Electric power
   - Emergency medical services
   - Employee benefit plans
-  - Employment
   - Environmental impact statements
   - Explosives
   - Fire prevention
@@ -1691,21 +1614,15 @@ departments:
   - Forests and forest products
   - Fraud
   - Gases
-  - Government contracts
   - Hazardous substances
   - Health
   - Health insurance
-  - Health professions
   - Housing
   - Housing standards
   - Immigration
-  - Insurance
-  - Intergovernmental relations
-  - Investigations
   - Irrigation
   - Labor
   - Labor management relations
-  - Law enforcement
   - Law enforcement officers
   - Maternal and child health
   - Metals
@@ -1717,10 +1634,8 @@ departments:
   - Nursery stock
   - Occupational safety and health
   - Passports and visas
-  - Penalties
   - Radiation protection
   - Radio
-  - Reporting and recordkeeping requirements
   - Research
   - Students
   - Teachers
@@ -1915,14 +1830,10 @@ emails:
 fax: 202-693-5389
 keywords:
 - Accountants
-- Accounting
-- Administrative practice and procedure
 - Adult education
 - Advertising
 - Advisory committees
-- Aged
 - Agricultural commodities
-- Agriculture
 - Airports
 - Aliens
 - American Samoa
@@ -1936,13 +1847,10 @@ keywords:
 - Broadband
 - Brokers
 - Buildings and facilities
-- Business and industry
 - Cancer
 - Carpools
 - Chemicals
 - Child labor
-- Civil rights
-- Claims
 - Classified information
 - Coal
 - Colleges and universities
@@ -1954,11 +1862,9 @@ keywords:
 - Consumer protection
 - Copyright
 - Courts
-- Credit
 - Cultural exchange programs
 - Disaster assistance
 - Diving
-- Education
 - Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
@@ -1970,14 +1876,12 @@ keywords:
 - Elementary and secondary education
 - Emergency medical services
 - Employee benefit plans
-- Employment
 - Employment and Training Administration
 - Employment taxes
 - Environmental impact statements
 - Environmental protection
 - Equal access to justice
 - Equal educational opportunity
-- Equal employment opportunity
 - Excise taxes
 - Explosives
 - Federal buildings and facilities
@@ -1987,14 +1891,10 @@ keywords:
 - Foreign officials
 - Forests and forest products
 - Fraud
-- Freedom of information
 - Freight
 - Gases
-- Government contracts
-- Government employees
 - Government procurement
 - Government property management
-- Grant programs
 - Grant programs-Indians
 - Grant programs-business
 - Grant programs-education
@@ -2008,7 +1908,6 @@ keywords:
 - Health care
 - Health facilities
 - Health insurance
-- Health professions
 - Health records
 - Health statistics
 - Highway safety
@@ -2023,15 +1922,10 @@ keywords:
 - Immigration
 - Income taxes
 - Indemnity payments
-- Indians
 - Indians-education
-- Individuals with disabilities
-- Insurance
 - Insurance companies
-- Intergovernmental relations
 - International organizations
 - Inventions and patents
-- Investigations
 - Investments
 - Iraq
 - Irrigation
@@ -2042,7 +1936,6 @@ keywords:
 - Labor management relations
 - Labor unions
 - Laboratories
-- Law enforcement
 - Law enforcement officers
 - Lawyers
 - Lebanon
@@ -2078,13 +1971,10 @@ keywords:
 - Nursery stock
 - Occupational Safety and Health Administration
 - Occupational safety and health
-- Organization and functions (Government agencies)
 - Pacific Islands Trust Territory
 - Passports and visas
-- Penalties
 - Pipeline safety
 - Pipelines
-- Privacy
 - Private schools
 - Public assistance programs
 - Radiation protection
@@ -2093,7 +1983,6 @@ keywords:
 - Railroads
 - Religious discrimination
 - Relocation assistance
-- Reporting and recordkeeping requirements
 - Research
 - Retirement
 - Rural areas
@@ -2103,7 +1992,6 @@ keywords:
 - Schools
 - Science and technology
 - Seamen
-- Securities
 - Sex discrimination
 - Signs and symbols
 - Small businesses

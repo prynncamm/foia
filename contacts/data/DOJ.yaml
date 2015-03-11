@@ -433,7 +433,6 @@ departments:
   - foiamail@atf.gov
   fax: 202-648-9619
   keywords:
-  - Administrative practice and procedure
   - Advertising
   - Aircraft
   - Alcohol and alcoholic beverages
@@ -447,10 +446,8 @@ departments:
   - Caribbean Basin initiative
   - Chemicals
   - Cigars and cigarettes
-  - Claims
   - Consumer protection
   - Cosmetics
-  - Credit
   - Customs duties and inspection
   - Disaster assistance
   - Domestic violence
@@ -462,25 +459,18 @@ departments:
   - Food additives
   - Foods
   - Foreign trade zones
-  - Freedom of information
   - Fruit juices
   - Fruits
   - Gasohol
-  - Government employees
   - Hazardous substances
   - Health
   - Imports
-  - Intergovernmental relations
   - Labeling
-  - Law enforcement
   - Law enforcement officers
   - Liquors
   - Military personnel
   - Packaging and containers
-  - Penalties
-  - Privacy
   - Puerto Rico
-  - Reporting and recordkeeping requirements
   - Research
   - Safety
   - Science and technology
@@ -920,7 +910,6 @@ departments:
   - dea.foia@usdoj.gov
   fax: 202-307-8556
   keywords:
-  - Administrative practice and procedure
   - Arms and munitions
   - Authority delegations (Government agencies)
   - Chemicals
@@ -932,13 +921,9 @@ departments:
   - Drug traffic control
   - Exports
   - Gambling
-  - Government employees
   - Imports
   - Motor vehicles
-  - Organization and functions (Government agencies)
   - Prescription drugs
-  - Privacy
-  - Reporting and recordkeeping requirements
   - Research
   - Security measures
   - Seizures and forfeitures
@@ -1131,19 +1116,11 @@ departments:
   - EOIR.FOIARequests@usdoj.gov
   fax: 703-605-0570
   keywords:
-  - Administrative practice and procedure
   - Aliens
   - Citizenship and naturalization
-  - Civil rights
-  - Employment
-  - Equal employment opportunity
   - Immigration
-  - Law enforcement
   - Lawyers
   - Legal services
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Reporting and recordkeeping requirements
   misc:
     Senior Associate General Counsel, Office of the General Counsel:
       name: Cecelia Espenoza
@@ -1496,19 +1473,11 @@ departments:
   - foiparequest@ic.fbi.gov
   fax: 540-868-4997
   keywords:
-  - Accounting
-  - Administrative practice and procedure
   - Classified information
   - Computer technology
   - Courts
   - Crime
-  - Intergovernmental relations
-  - Investigations
-  - Law enforcement
   - Law enforcement officers
-  - Penalties
-  - Privacy
-  - Reporting and recordkeeping requirements
   - Security measures
   - Telecommunications
   - Wiretapping and electronic surveillance
@@ -1628,9 +1597,6 @@ departments:
   emails:
   - ogc_efoia@bop.gov
   keywords:
-  - Administrative practice and procedure
-  - Claims
-  - Employment
   - Lawyers
   - Legal services
   - Prisoners
@@ -2359,23 +2325,17 @@ departments:
   - FOIAOJP@usdoj.gov
   fax: 202-307-1419
   keywords:
-  - Administrative practice and procedure
-  - Claims
   - Colleges and universities
   - Crime
   - Disability benefits
-  - Education
   - Educational facilities
   - Educational study programs
   - Emergency medical services
   - Firefighters
-  - Grant programs
   - Grant programs-law
-  - Law enforcement
   - Law enforcement officers
   - Motor vehicle safety
   - Motor vehicles
-  - Reporting and recordkeeping requirements
   - Schools
   - Student aid
   - Transportation
@@ -3507,7 +3467,6 @@ departments:
   emails:
   - USPC.FOIA@usdoj.gov
   keywords:
-  - Administrative practice and procedure
   - Prisoners
   - Probation and parole
   misc:
@@ -3588,11 +3547,7 @@ emails:
 - MRUFOIA.Requests@usdoj.gov
 fax: 301-341-0772
 keywords:
-- Accounting
-- Administrative practice and procedure
 - Adult education
-- Aged
-- Agriculture
 - Air carriers
 - Aircraft
 - Airmen
@@ -3609,13 +3564,10 @@ keywords:
 - Broadband
 - Brokers
 - Buildings and facilities
-- Business and industry
 - Cancer
 - Chemicals
 - Cigars and cigarettes
 - Citizenship and naturalization
-- Civil rights
-- Claims
 - Classified information
 - Clemency
 - Colleges and universities
@@ -3626,7 +3578,6 @@ keywords:
 - Consumer protection
 - Copyright
 - Courts
-- Credit
 - Crime
 - Cultural exchange programs
 - Customs duties and inspection
@@ -3635,7 +3586,6 @@ keywords:
 - Domestic violence
 - Drug abuse
 - Drug traffic control
-- Education
 - Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
@@ -3647,11 +3597,9 @@ keywords:
 - Electric utilities
 - Elementary and secondary education
 - Emergency medical services
-- Employment
 - Environmental impact statements
 - Environmental protection
 - Equal educational opportunity
-- Equal employment opportunity
 - Ethics
 - Excise taxes
 - Explosives
@@ -3662,13 +3610,9 @@ keywords:
 - Foreign officials
 - Foreign relations
 - Fraud
-- Freedom of information
 - Gambling
-- Government contracts
-- Government employees
 - Government property
 - Government property management
-- Grant programs
 - Grant programs-education
 - Grant programs-health
 - Grant programs-law
@@ -3678,7 +3622,6 @@ keywords:
 - Health care
 - Health facilities
 - Health insurance
-- Health professions
 - Highways and roads
 - Historic preservation
 - Home improvement
@@ -3688,18 +3631,12 @@ keywords:
 - Immigration
 - Imports
 - Income taxes
-- Indians
 - Indians-education
-- Individuals with disabilities
-- Insurance
-- Intergovernmental relations
 - International organizations
 - Inventions and patents
-- Investigations
 - Justice Department
 - Juvenile delinquency
 - Labor
-- Law enforcement
 - Law enforcement officers
 - Lawyers
 - Legal services
@@ -3719,22 +3656,18 @@ keywords:
 - Motor vehicles
 - Nonprofit organizations
 - Northern Mariana Islands
-- Organization and functions (Government agencies)
 - Pacific Islands Trust Territory
 - Packaging and containers
 - Passports and visas
-- Penalties
 - Political committees and parties
 - Prescription drugs
 - Prisoners
 - Prisons
-- Privacy
 - Private schools
 - Probation and parole
 - Radioactive materials
 - Railroads
 - Religious discrimination
-- Reporting and recordkeeping requirements
 - Research
 - Rural areas
 - Safety
@@ -3745,7 +3678,6 @@ keywords:
 - Scientific equipment
 - Seals and insignia
 - Search warrants
-- Securities
 - Security measures
 - Seizures and forfeitures
 - Sex discrimination

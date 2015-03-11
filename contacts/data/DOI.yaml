@@ -22,18 +22,13 @@ departments:
     phone:
     - 202-208-4174
   keywords:
-  - Accounting
-  - Administrative practice and procedure
   - Alaska
   - Buildings and facilities
   - Child welfare
-  - Claims
   - Courts
   - Educational facilities
-  - Employment
   - Equal access to justice
   - Estates
-  - Government contracts
   - Government property management
   - Grant programs-Indians
   - Grant programs-housing and community development
@@ -42,7 +37,6 @@ departments:
   - Health care
   - Highways and roads
   - Housing
-  - Indians
   - Indians-business and finance
   - Indians-claims
   - Indians-education
@@ -50,12 +44,9 @@ departments:
   - Indians-law
   - Indians-tribal government
   - Irrigation
-  - Law enforcement
   - Lawyers
   - Livestock
-  - Penalties
   - Public assistance programs
-  - Reporting and recordkeeping requirements
   - Rights-of-way
   - School construction
   - Schools
@@ -159,7 +150,6 @@ departments:
     phone:
     - 202-912-7650
   keywords:
-  - Administrative practice and procedure
   - Airports
   - Airspace
   - Alaska
@@ -176,17 +166,13 @@ departments:
   - Federal Energy Regulatory Commission
   - Forests and forest products
   - Geothermal energy
-  - Government contracts
   - Grant programs-natural resources
   - Grazing lands
   - Highways and roads
   - Homesteads
   - Hydrocarbons
-  - Indians
   - Indians-lands
-  - Intergovernmental relations
   - Land Management Bureau
-  - Law enforcement
   - Livestock
   - Loan programs-natural resources
   - Mineral royalties
@@ -197,12 +183,10 @@ departments:
   - Navigation (air)
   - Oil and gas exploration
   - Oil and gas reserves
-  - Penalties
   - Phosphate
   - Pipelines
   - Public lands
   - Range management
-  - Reporting and recordkeeping requirements
   - Seashores
   - Sulfur
   - Surety bonds
@@ -318,28 +302,20 @@ departments:
   - BOEMFOIA@boem.gov
   fax: 703-787-1209
   keywords:
-  - Administrative practice and procedure
-  - Civil rights
   - Coastal zone
   - Continental shelf
   - Electric power
   - Energy
   - Environmental impact statements
   - Environmental protection
-  - Freedom of information
-  - Government contracts
   - Indians-lands
-  - Intergovernmental relations
-  - Investigations
   - Marine resources
   - Mineral royalties
   - Natural resources
   - Oil and gas exploration
   - Oil pollution
-  - Penalties
   - Pipelines
   - Public lands
-  - Reporting and recordkeeping requirements
   - Research
   - Solar energy
   - Surety bonds
@@ -413,17 +389,12 @@ departments:
     - 303-445-2056
     - 888-231-7779
   keywords:
-  - Administrative practice and procedure
-  - Agriculture
   - Dams
   - Endangered and threatened species
   - Irrigation
-  - Law enforcement
   - Natural resources
-  - Penalties
   - Public lands
   - Reclamation
-  - Reporting and recordkeeping requirements
   - Reservoirs
   - Rural areas
   - Security measures
@@ -538,23 +509,15 @@ departments:
   - BSEEFOIA@bsee.gov
   fax: 703-787-1207
   keywords:
-  - Administrative practice and procedure
-  - Civil rights
   - Continental shelf
   - Environmental impact statements
   - Environmental protection
-  - Freedom of information
-  - Government contracts
   - Indians-lands
-  - Intergovernmental relations
-  - Investigations
   - Mineral royalties
   - Oil and gas exploration
   - Oil pollution
-  - Penalties
   - Pipelines
   - Public lands
-  - Reporting and recordkeeping requirements
   - Research
   - Surety bonds
   misc:
@@ -623,37 +586,28 @@ departments:
     phone:
     - 703-358-2470
   keywords:
-  - Administrative practice and procedure
   - Alaska
   - Alcohol and alcoholic beverages
   - Animal welfare
   - Animals
-  - Business and industry
-  - Civil rights
   - Coastal zone
   - Concessions
-  - Education
   - Endangered and threatened species
   - Environmental protection
-  - Equal employment opportunity
   - Exports
   - Fish
   - Fisheries
   - Fishing
   - Foreign officials
   - Foreign trade
-  - Grant programs
   - Grant programs-natural resources
   - Grant programs-recreation
   - Harbors
   - Historic preservation
   - Hunting
   - Imports
-  - Indians
-  - Intergovernmental relations
   - Intermodal transportation
   - Labeling
-  - Law enforcement
   - Marine mammals
   - Marine resources
   - Marine safety
@@ -664,12 +618,10 @@ departments:
   - Natural resources
   - Navigation (water)
   - Oil and gas exploration
-  - Organization and functions (Government agencies)
   - Plants
   - Public lands
   - Real property acquisition
   - Recordings
-  - Reporting and recordkeeping requirements
   - Research
   - Rivers
   - Safety
@@ -891,15 +843,11 @@ departments:
   - Alaska
   - Alcohol and alcoholic beverages
   - Archives and records
-  - Business and industry
   - Cemeteries
-  - Civil rights
   - Concessions
   - District of Columbia
   - Environmental protection
-  - Equal employment opportunity
   - Foreign relations
-  - Government contracts
   - Grant programs-natural resources
   - Historic preservation
   - Hunting
@@ -911,10 +859,8 @@ departments:
   - Motion pictures
   - Museums
   - National parks
-  - Penalties
   - Public lands
   - Recordings
-  - Reporting and recordkeeping requirements
   - Signs and symbols
   - Small businesses
   - Television
@@ -1128,10 +1074,7 @@ departments:
   - os_foia@ios.doi.gov
   fax: 303-445-4288
   keywords:
-  - Accounting
-  - Administrative practice and procedure
   - Authority delegations (Government agencies)
-  - Civil rights
   - Coal
   - Continental shelf
   - Electronic funds transfers
@@ -1140,24 +1083,18 @@ departments:
   - Equal access to justice
   - Estates
   - Geothermal energy
-  - Government contracts
   - Grazing lands
-  - Indians
   - Indians-lands
-  - Intergovernmental relations
-  - Investigations
   - Lawyers
   - Mineral resources
   - Mineral royalties
   - Mines
   - Natural gas
   - Oil and gas exploration
-  - Penalties
   - Petroleum
   - Phosphate
   - Pipelines
   - Public lands
-  - Reporting and recordkeeping requirements
   - Small businesses
   - Sulfur
   - Surety bonds
@@ -1459,11 +1396,7 @@ description: The Department of the Interior manages public lands and minerals, n
   tribes and Native Alaskans. Additionally, Interior is responsible for endangered
   species conservation and other environmental conservation efforts.
 keywords:
-- Accounting
-- Administrative practice and procedure
 - Adult education
-- Aged
-- Agriculture
 - Airports
 - Airspace
 - Alaska
@@ -1478,11 +1411,8 @@ keywords:
 - Bonds
 - Broadband
 - Buildings and facilities
-- Business and industry
 - Cemeteries
 - Child welfare
-- Civil rights
-- Claims
 - Classified information
 - Coal
 - Coastal zone
@@ -1494,13 +1424,11 @@ keywords:
 - Continental shelf
 - Copyright
 - Courts
-- Credit
 - Cultural exchange programs
 - Customs duties and inspection
 - Dams
 - District of Columbia
 - Drug abuse
-- Education
 - Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
@@ -1511,14 +1439,12 @@ keywords:
 - Electric utilities
 - Electronic funds transfers
 - Elementary and secondary education
-- Employment
 - Endangered and threatened species
 - Energy
 - Environmental impact statements
 - Environmental protection
 - Equal access to justice
 - Equal educational opportunity
-- Equal employment opportunity
 - Estates
 - Exports
 - Federal Energy Regulatory Commission
@@ -1532,14 +1458,10 @@ keywords:
 - Foreign relations
 - Foreign trade
 - Forests and forest products
-- Freedom of information
 - Gambling
 - Geothermal energy
-- Government contracts
-- Government employees
 - Government procurement
 - Government property management
-- Grant programs
 - Grant programs-Indians
 - Grant programs-education
 - Grant programs-health
@@ -1554,7 +1476,6 @@ keywords:
 - Health care
 - Health facilities
 - Health insurance
-- Health professions
 - Highways and roads
 - Historic preservation
 - Home improvement
@@ -1568,7 +1489,6 @@ keywords:
 - Hydrocarbons
 - Imports
 - Income taxes
-- Indians
 - Indians-arts and crafts
 - Indians-business and finance
 - Indians-claims
@@ -1576,19 +1496,14 @@ keywords:
 - Indians-lands
 - Indians-law
 - Indians-tribal government
-- Individuals with disabilities
-- Insurance
-- Intergovernmental relations
 - Intermodal transportation
 - International organizations
 - Inventions and patents
-- Investigations
 - Iraq
 - Irrigation
 - Kuwait
 - Labeling
 - Land Management Bureau
-- Law enforcement
 - Lawyers
 - Lebanon
 - Livestock
@@ -1626,14 +1541,11 @@ keywords:
 - Oil and gas exploration
 - Oil and gas reserves
 - Oil pollution
-- Organization and functions (Government agencies)
 - Pacific Islands Trust Territory
-- Penalties
 - Petroleum
 - Phosphate
 - Pipelines
 - Plants
-- Privacy
 - Private schools
 - Public assistance programs
 - Public lands
@@ -1643,7 +1555,6 @@ keywords:
 - Reclamation
 - Recordings
 - Religious discrimination
-- Reporting and recordkeeping requirements
 - Research
 - Reservoirs
 - Rights-of-way
@@ -1655,7 +1566,6 @@ keywords:
 - Schools
 - Science and technology
 - Seashores
-- Securities
 - Security measures
 - Sewage disposal
 - Sex discrimination

@@ -11,9 +11,6 @@ departments:
   fax: 202-622-3895
   keywords:
   - Courts
-  - Freedom of information
-  - Government employees
-  - Privacy
   misc:
     Director, Disclosure Services:
       name: Ryan Law
@@ -50,7 +47,6 @@ departments:
   - ttbfoia@ttb.gov
   fax: 202-453-2331
   keywords:
-  - Administrative practice and procedure
   - Advertising
   - Aircraft
   - Alcohol and alcoholic beverages
@@ -61,10 +57,8 @@ departments:
   - Caribbean Basin initiative
   - Chemicals
   - Cigars and cigarettes
-  - Claims
   - Consumer protection
   - Cosmetics
-  - Credit
   - Customs duties and inspection
   - Domestic violence
   - Drugs
@@ -74,20 +68,16 @@ departments:
   - Exports
   - Food additives
   - Foreign trade zones
-  - Freedom of information
   - Fruit juices
   - Fruits
   - Gasohol
   - Health
   - Imports
   - Labeling
-  - Law enforcement
   - Liquors
   - Military personnel
   - Packaging and containers
-  - Penalties
   - Puerto Rico
-  - Reporting and recordkeeping requirements
   - Research
   - Safety
   - Scientific equipment
@@ -174,30 +164,20 @@ departments:
   - foia-pa@occ.treas.gov
   keywords:
   - Accountants
-  - Accounting
-  - Administrative practice and procedure
   - Advertising
-  - Aged
-  - Agriculture
   - Antitrust
   - Authority delegations (Government agencies)
   - Bank deposit insurance
   - Brokers
-  - Business and industry
-  - Civil rights
-  - Claims
   - Community development
   - Computer technology
   - Confidential business information
-  - Conflict of interests
   - Consumer protection
-  - Credit
   - Credit unions
   - Crime
   - Currency
   - Electronic funds transfers
   - Equal access to justice
-  - Equal employment opportunity
   - Estates
   - Ethics
   - Exports
@@ -207,17 +187,12 @@ departments:
   - Foreign banking
   - Foreign currencies
   - Foreign trade
-  - Freedom of information
   - Gambling
   - Government securities
   - Holding companies
-  - Individuals with disabilities
-  - Insurance
   - Insurance companies
-  - Investigations
   - Investment companies
   - Investments
-  - Law enforcement
   - Lawyers
   - Loan programs-housing and community development
   - Low and moderate income housing
@@ -227,14 +202,9 @@ departments:
   - Mortgages
   - National banks
   - Nonprofit organizations
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Privacy
   - Religious discrimination
-  - Reporting and recordkeeping requirements
   - Rural areas
   - Savings associations
-  - Securities
   - Security measures
   - Sex discrimination
   - Signs and symbols
@@ -280,7 +250,6 @@ departments:
     authorities.
   fax: 703-905-5126
   keywords:
-  - Administrative practice and procedure
   - Authority delegations (Government agencies)
   - Brokers
   - Currency
@@ -288,12 +257,7 @@ departments:
   - Foreign banking
   - Foreign currencies
   - Gambling
-  - Investigations
-  - Law enforcement
   - Mortgages
-  - Penalties
-  - Reporting and recordkeeping requirements
-  - Securities
   - Terrorism
   misc:
     Disclosure (FOIA) Office:
@@ -326,9 +290,6 @@ departments:
     zip: '20227'
   fax: 202-874-2391
   keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Aged
   - Air traffic controllers
   - Alcoholism
   - Alimony
@@ -339,9 +300,7 @@ departments:
   - Cemeteries
   - Child support
   - Child welfare
-  - Claims
   - Courts
-  - Credit
   - Crime
   - Disability benefits
   - Drug abuse
@@ -352,31 +311,20 @@ departments:
   - Foreign banking
   - Forgery
   - Fraud
-  - Freedom of information
-  - Government contracts
-  - Government employees
   - Government property
   - Government securities
-  - Grant programs
   - Housing
   - Income taxes
-  - Insurance
   - Insurance companies
-  - Intergovernmental relations
   - Inventions and patents
-  - Investigations
   - Law enforcement officers
   - Loan programs
   - Medicaid
   - Parking
-  - Penalties
-  - Privacy
   - Railroad retirement
   - Railroad unemployment insurance
-  - Reporting and recordkeeping requirements
   - Retirement
   - Seals and insignia
-  - Securities
   - Security measures
   - Social security
   - Supplemental Security Income (SSI)
@@ -418,8 +366,6 @@ departments:
     tax laws.
   fax: 877-807-9215
   keywords:
-  - Accounting
-  - Administrative practice and procedure
   - Advertising
   - Advisory committees
   - Alimony
@@ -441,36 +387,25 @@ departments:
   - Fishing vessels
   - Foreign relations
   - Foundations
-  - Freedom of information
   - Gambling
   - Gasoline
   - Gift taxes
-  - Government employees
   - Grant programs-health
   - Health care
   - Health insurance
   - Health records
   - Hospitals
   - Income taxes
-  - Individuals with disabilities
-  - Insurance
-  - Investigations
   - Investments
-  - Law enforcement
   - Loan programs-health
   - Lobbying
   - Medicaid
   - Motor vehicles
   - Nonprofit organizations
   - Oil pollution
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Privacy
   - Public assistance programs
   - Railroad retirement
-  - Reporting and recordkeeping requirements
   - Seals and insignia
-  - Securities
   - Social security
   - State and local governments
   - Statistics
@@ -572,15 +507,11 @@ description: The Department of the Treasury manages Federal finances by collecti
   debt. The Department of the Treasury also enforces finance and tax laws.
 keywords:
 - Accountants
-- Accounting
-- Administrative practice and procedure
 - Adult education
 - Advertising
 - Advisory committees
 - Afghanistan
-- Aged
 - Agricultural commodities
-- Agriculture
 - Air carriers
 - Air pollution control
 - Air traffic controllers
@@ -612,7 +543,6 @@ keywords:
 - Brokers
 - Buildings and facilities
 - Burma
-- Business and industry
 - Cambodia
 - Campaign funds
 - Canada
@@ -623,8 +553,6 @@ keywords:
 - Child support
 - Child welfare
 - Cigars and cigarettes
-- Civil rights
-- Claims
 - Classified information
 - Coastal zone
 - Colleges and universities
@@ -634,14 +562,12 @@ keywords:
 - Community development
 - Computer technology
 - Confidential business information
-- Conflict of interests
 - Consumer protection
 - Continental shelf
 - Copyright
 - Cosmetics
 - Countervailing duties
 - Courts
-- Credit
 - Credit unions
 - Crime
 - Cuba
@@ -655,7 +581,6 @@ keywords:
 - Drug abuse
 - Drug traffic control
 - Drugs
-- Education
 - Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
@@ -668,11 +593,9 @@ keywords:
 - Electronic products
 - Elementary and secondary education
 - Employee benefit plans
-- Employment
 - Employment taxes
 - Equal access to justice
 - Equal educational opportunity
-- Equal employment opportunity
 - Estate taxes
 - Estates
 - Ethics
@@ -700,7 +623,6 @@ keywords:
 - Forgery
 - Foundations
 - Fraud
-- Freedom of information
 - Freight
 - Freight forwarders
 - Fruit juices
@@ -710,12 +632,9 @@ keywords:
 - Gasohol
 - Gasoline
 - Gift taxes
-- Government contracts
-- Government employees
 - Government procurement
 - Government property
 - Government securities
-- Grant programs
 - Grant programs-education
 - Grant programs-health
 - Grant programs-housing and community development
@@ -727,7 +646,6 @@ keywords:
 - Health care
 - Health facilities
 - Health insurance
-- Health professions
 - Health records
 - Holding companies
 - Home improvement
@@ -739,22 +657,16 @@ keywords:
 - Immigration
 - Imports
 - Income taxes
-- Indians
 - Indians-education
-- Individuals with disabilities
-- Insurance
 - Insurance companies
-- Intergovernmental relations
 - International organizations
 - Inventions and patents
-- Investigations
 - Investment companies
 - Investments
 - Iran
 - Iraq
 - Labeling
 - Laboratories
-- Law enforcement
 - Law enforcement officers
 - Lawyers
 - Lebanon
@@ -794,14 +706,11 @@ keywords:
 - Nuclear materials
 - Oil imports
 - Oil pollution
-- Organization and functions (Government agencies)
 - Pacific Islands Trust Territory
 - Packaging and containers
 - Parking
 - Passenger vessels
-- Penalties
 - Petroleum
-- Privacy
 - Private schools
 - Public assistance programs
 - Puerto Rico
@@ -809,7 +718,6 @@ keywords:
 - Railroad unemployment insurance
 - Railroads
 - Religious discrimination
-- Reporting and recordkeeping requirements
 - Research
 - Retirement
 - Rural areas
@@ -822,7 +730,6 @@ keywords:
 - Science and technology
 - Scientific equipment
 - Seals and insignia
-- Securities
 - Security measures
 - Seizures and forfeitures
 - Services

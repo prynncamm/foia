@@ -33,7 +33,7 @@ def flatten_keywords(keywords):
                 word = word.strip("()")
                 if word not in STOP_WORDS:
                     flattened_keywords.append(word)
-    return flattened_keywords
+    return keywords
 
 
 def update_keyword_agency_dict(keywords_agency, keywords, agency_name):

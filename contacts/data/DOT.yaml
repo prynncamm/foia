@@ -207,10 +207,7 @@ departments:
   - 7-AWA-ARC-FOIA@faa.gov
   fax: 202-493-5032
   keywords:
-  - Accounting
-  - Administrative practice and procedure
   - Afghanistan
-  - Agriculture
   - Air carriers
   - Air pollution control
   - Air taxis
@@ -230,7 +227,6 @@ departments:
   - Aviation safety
   - Canada
   - Charter flights
-  - Claims
   - Common carriers
   - Confidential business information
   - Consumer protection
@@ -249,18 +245,13 @@ departments:
   - Fraud
   - Freight
   - Freight forwarders
-  - Government contracts
   - Government property
   - Hazardous materials transportation
   - Health
-  - Health professions
   - Highway safety
   - Imports
   - Indemnity payments
-  - Insurance
-  - Investigations
   - Iraq
-  - Law enforcement
   - Law enforcement officers
   - Lawyers
   - Libya
@@ -270,11 +261,8 @@ departments:
   - National parks
   - Navigation (air)
   - Noise control
-  - Organization and functions (Government agencies)
-  - Penalties
   - Political candidates
   - Puerto Rico
-  - Reporting and recordkeeping requirements
   - Safety
   - Schools
   - Security measures
@@ -403,12 +391,9 @@ departments:
   - foia.officer@fhwa.dot.gov
   fax: 202-366-1380
   keywords:
-  - Accounting
   - Alcohol and alcoholic beverages
   - Bonds
   - Bridges
-  - Civil rights
-  - Claims
   - Communications
   - Communications equipment
   - Electronic products
@@ -416,16 +401,12 @@ departments:
   - Environmental impact statements
   - Environmental protection
   - Flood plains
-  - Government contracts
   - Government procurement
-  - Grant programs
   - Grant programs-transportation
   - Highway safety
   - Highways and roads
   - Historic preservation
   - Indians-lands
-  - Insurance
-  - Intergovernmental relations
   - Intermodal transportation
   - Investments
   - Mass transportation
@@ -440,7 +421,6 @@ departments:
   - Railroads
   - Real property acquisition
   - Relocation assistance
-  - Reporting and recordkeeping requirements
   - Research
   - Rights-of-way
   - Safety
@@ -569,11 +549,9 @@ departments:
   - frafoia@dot.gov
   fax: 202-493-6068
   keywords:
-  - Administrative practice and procedure
   - Alcohol abuse
   - Bridges
   - Buildings and facilities
-  - Civil rights
   - Communications
   - Drug abuse
   - Drug testing
@@ -585,19 +563,16 @@ departments:
   - Hazardous materials transportation
   - Highway safety
   - Highways and roads
-  - Investigations
   - Investments
   - Loan programs-transportation
   - Motor carriers
   - National Transportation Safety Board
   - Noise control
   - Occupational safety and health
-  - Penalties
   - Radio
   - Railroad employees
   - Railroad safety
   - Railroads
-  - Reporting and recordkeeping requirements
   - Safety
   - Security measures
   - Sex discrimination
@@ -681,8 +656,6 @@ departments:
   - FTA.FOIA@dot.gov
   fax: 202-366-7164
   keywords:
-  - Accounting
-  - Administrative practice and procedure
   - Alcohol abuse
   - Buses
   - Disaster assistance
@@ -691,9 +664,6 @@ departments:
   - Energy conservation
   - Environmental impact statements
   - Environmental protection
-  - Freedom of information
-  - Government contracts
-  - Grant programs
   - Grant programs-transportation
   - Highway safety
   - Highways and roads
@@ -702,11 +672,8 @@ departments:
   - Mass transportation
   - Motor carriers
   - Motor vehicle safety
-  - Organization and functions (Government agencies)
-  - Penalties
   - Public lands
   - Railroads
-  - Reporting and recordkeeping requirements
   - Safety
   - Transportation
   - Uniform System of Accounts
@@ -792,33 +759,23 @@ departments:
   - foia@fmcsa.dot.gov
   fax: 202-385-2335
   keywords:
-  - Administrative practice and procedure
   - Advertising
-  - Aged
   - Agricultural commodities
   - Alcohol abuse
   - Blind
   - Brokers
   - Buses
-  - Civil rights
-  - Claims
   - Consumer protection
   - Cooperatives
-  - Credit
   - Drug abuse
   - Drug testing
   - Freight
   - Freight forwarders
-  - Grant programs
   - Grant programs-transportation
   - Hazardous materials transportation
   - Highway safety
   - Highways and roads
-  - Individuals with disabilities
-  - Insurance
-  - Intergovernmental relations
   - Intermodal transportation
-  - Investigations
   - Maritime carriers
   - Mexico
   - Migrant labor
@@ -828,9 +785,7 @@ departments:
   - Noise control
   - Occupational safety and health
   - Parking
-  - Penalties
   - Radioactive materials
-  - Reporting and recordkeeping requirements
   - Safety
   - Seafood
   - Smoking
@@ -958,7 +913,6 @@ departments:
   - mary.sprague@dot.gov
   fax: 202-366-3820
   keywords:
-  - Administrative practice and procedure
   - Air pollution control
   - Alcohol abuse
   - Alcohol and alcoholic beverages
@@ -970,23 +924,16 @@ departments:
   - Electric power
   - Energy conservation
   - Environmental protection
-  - Freedom of information
   - Fuel economy
   - Gasoline
-  - Grant programs
   - Grant programs-transportation
   - Highway safety
   - Imports
-  - Insurance
   - Insurance companies
-  - Intergovernmental relations
   - Labeling
   - Motor vehicle pollution
   - Motor vehicle safety
   - Motor vehicles
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Reporting and recordkeeping requirements
   - Research
   - Rubber and rubber products
   - Telecommunications
@@ -1092,11 +1039,9 @@ departments:
     phone:
     - 202-366-5320
   keywords:
-  - Administrative practice and procedure
   - Antitrust
   - Authority delegations (Government agencies)
   - Citizenship and naturalization
-  - Claims
   - Classified information
   - Common carriers
   - Courts
@@ -1104,30 +1049,21 @@ departments:
   - Equal access to justice
   - Exports
   - Fishing vessels
-  - Freedom of information
   - Freight
   - Freight forwarders
-  - Government contracts
-  - Government employees
   - Grant programs-education
   - Grant programs-transportation
   - Highways and roads
   - Income taxes
-  - Insurance
   - Intermodal transportation
-  - Investigations
   - Investments
   - Lawyers
   - Loan programs-transportation
   - Maritime carriers
   - Mortgages
   - National defense
-  - Organization and functions (Government agencies)
   - Passenger vessels
-  - Penalties
-  - Privacy
   - Railroads
-  - Reporting and recordkeeping requirements
   - Schools
   - Seals and insignia
   - Seamen
@@ -1226,7 +1162,6 @@ departments:
     phone:
     - 202-366-6119
   keywords:
-  - Administrative practice and procedure
   - Air carriers
   - Alcohol abuse
   - Authority delegations (Government agencies)
@@ -1234,11 +1169,9 @@ departments:
   - Disaster assistance
   - Drug abuse
   - Drug testing
-  - Education
   - Environmental protection
   - Exports
   - Fire prevention
-  - Grant programs
   - Grant programs-Indians
   - Grant programs-environmental protection
   - Grant programs-transportation
@@ -1247,7 +1180,6 @@ departments:
   - Hazardous waste
   - Highway safety
   - Imports
-  - Indians
   - Intermodal transportation
   - Labeling
   - Maritime carriers
@@ -1255,15 +1187,12 @@ departments:
   - Motor vehicle safety
   - Natural gas
   - Oil pollution
-  - Organization and functions (Government agencies)
   - Packaging and containers
-  - Penalties
   - Petroleum
   - Pipeline safety
   - Pipelines
   - Radioactive materials
   - Railroad safety
-  - Reporting and recordkeeping requirements
   - Safety
   - Security measures
   - Transportation
@@ -1380,9 +1309,7 @@ departments:
   keywords:
   - Hazardous materials transportation
   - Navigation (water)
-  - Penalties
   - Radio
-  - Reporting and recordkeeping requirements
   - Vessels
   - Waterways
   misc:
@@ -1461,7 +1388,6 @@ departments:
   - FOIA.Privacy@stb.dot.gov
   fax: 202-245-0460
   keywords:
-  - Administrative practice and procedure
   - Agricultural commodities
   - Antitrust
   - Authority delegations (Government agencies)
@@ -1471,16 +1397,12 @@ departments:
   - Communications
   - Confidential business information
   - Environmental impact statements
-  - Freedom of information
   - Freight
   - Freight forwarders
   - Intermodal transportation
-  - Investigations
   - Maritime carriers
   - Motor carriers
-  - Organization and functions (Government agencies)
   - Railroads
-  - Reporting and recordkeeping requirements
   - Statistics
   - Uniform System of Accounts
   misc:
@@ -1556,15 +1478,11 @@ emails:
 - ost.foia@dot.gov
 fax: 202-366-8536
 keywords:
-- Accounting
-- Administrative practice and procedure
 - Adult education
 - Advertising
 - Advisory committees
 - Afghanistan
-- Aged
 - Agricultural commodities
-- Agriculture
 - Air carriers
 - Air pollution control
 - Air rates and fares
@@ -1596,14 +1514,11 @@ keywords:
 - Brokers
 - Buildings and facilities
 - Buses
-- Business and industry
 - Canada
 - Carbon dioxide
 - Cargo vessels
 - Charter flights
 - Citizenship and naturalization
-- Civil rights
-- Claims
 - Code of Federal Regulations
 - Colleges and universities
 - Common carriers
@@ -1612,12 +1527,10 @@ keywords:
 - Community development
 - Concessions
 - Confidential business information
-- Conflict of interests
 - Consumer protection
 - Continental shelf
 - Cooperatives
 - Copyright
-- Credit
 - Crime
 - Cuba
 - Cultural exchange programs
@@ -1627,7 +1540,6 @@ keywords:
 - Drug abuse
 - Drug testing
 - Drugs
-- Education
 - Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
@@ -1638,14 +1550,12 @@ keywords:
 - Electric utilities
 - Electronic products
 - Elementary and secondary education
-- Employment
 - Endangered and threatened species
 - Energy conservation
 - Environmental impact statements
 - Environmental protection
 - Equal access to justice
 - Equal educational opportunity
-- Equal employment opportunity
 - Ethics
 - Ethiopia
 - Explosives
@@ -1659,20 +1569,16 @@ keywords:
 - Flood plains
 - Foreign relations
 - Fraud
-- Freedom of information
 - Freight
 - Freight forwarders
 - Fuel economy
 - Gases
 - Gasoline
 - Glass and glass products
-- Government contracts
-- Government employees
 - Government procurement
 - Government property
 - Government property management
 - Government publications
-- Grant programs
 - Grant programs-Indians
 - Grant programs-education
 - Grant programs-environmental protection
@@ -1690,7 +1596,6 @@ keywords:
 - Health care
 - Health facilities
 - Health insurance
-- Health professions
 - Highway safety
 - Highways and roads
 - Historic preservation
@@ -1702,23 +1607,17 @@ keywords:
 - Imports
 - Income taxes
 - Indemnity payments
-- Indians
 - Indians-education
 - Indians-lands
-- Individuals with disabilities
-- Insurance
 - Insurance companies
-- Intergovernmental relations
 - Intermodal transportation
 - International organizations
 - Inventions and patents
-- Investigations
 - Investments
 - Iraq
 - Kuwait
 - Labeling
 - Laboratories
-- Law enforcement
 - Law enforcement officers
 - Lawyers
 - Lebanon
@@ -1763,17 +1662,14 @@ keywords:
 - Oceanographic research vessels
 - Oil and gas exploration
 - Oil pollution
-- Organization and functions (Government agencies)
 - Pacific Islands Trust Territory
 - Packaging and containers
 - Parking
 - Passenger vessels
-- Penalties
 - Petroleum
 - Pipeline safety
 - Pipelines
 - Political candidates
-- Privacy
 - Private schools
 - Public lands
 - Puerto Rico
@@ -1786,7 +1682,6 @@ keywords:
 - Real property acquisition
 - Religious discrimination
 - Relocation assistance
-- Reporting and recordkeeping requirements
 - Research
 - Rights-of-way
 - Rubber and rubber products
@@ -1798,7 +1693,6 @@ keywords:
 - Science and technology
 - Seafood
 - Seamen
-- Securities
 - Security measures
 - Sewage disposal
 - Sex discrimination

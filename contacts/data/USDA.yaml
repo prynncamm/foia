@@ -28,12 +28,10 @@ departments:
     phone:
     - 202-720-3785
   keywords:
-  - Administrative practice and procedure
   - Advertising
   - Advisory committees
   - Agricultural commodities
   - Agricultural research
-  - Agriculture
   - Almonds
   - Animals
   - Apples
@@ -46,7 +44,6 @@ departments:
   - Cheese
   - Cherries
   - Citrus fruits
-  - Claims
   - Commodity futures
   - Cotton
   - Cranberries
@@ -59,7 +56,6 @@ departments:
   - Food grades and standards
   - Food labeling
   - Food packaging
-  - Freedom of information
   - Frozen foods
   - Fruit juices
   - Fruits
@@ -70,7 +66,6 @@ departments:
   - Hogs
   - Honey
   - Imports
-  - Investigations
   - Kiwifruit
   - Labeling
   - Laboratories
@@ -91,7 +86,6 @@ departments:
   - Peaches
   - Peanuts
   - Pears
-  - Penalties
   - Pistachios
   - Plants
   - Plums
@@ -100,7 +94,6 @@ departments:
   - Poultry and poultry products
   - Prunes
   - Raisins
-  - Reporting and recordkeeping requirements
   - Research
   - Seals and insignia
   - Seeds
@@ -192,7 +185,6 @@ departments:
   - foia.officer@aphis.usda.gov
   fax: 301-734-5941
   keywords:
-  - Administrative practice and procedure
   - Agricultural commodities
   - Agricultural research
   - Animal biologics
@@ -205,7 +197,6 @@ departments:
   - Bison
   - Cattle
   - Cervids
-  - Civil rights
   - Coffee
   - Cotton
   - Cottonseeds
@@ -216,7 +207,6 @@ departments:
   - Exports
   - Fruits
   - Goats
-  - Government employees
   - Guam
   - Hay
   - Hogs
@@ -226,7 +216,6 @@ departments:
   - Indemnity payments
   - Labeling
   - Laboratories
-  - Law enforcement
   - Livestock
   - Marine mammals
   - Meat and meat products
@@ -234,7 +223,6 @@ departments:
   - Medical research
   - Milk
   - Nursery stock
-  - Organization and functions (Government agencies)
   - Packaging and containers
   - Pets
   - Plant diseases and pests
@@ -242,7 +230,6 @@ departments:
   - Poultry and poultry products
   - Puerto Rico
   - Quarantine
-  - Reporting and recordkeeping requirements
   - Research
   - Rice
   - Seeds
@@ -410,13 +397,9 @@ departments:
     phone:
     - 202-720-1598
   keywords:
-  - Accounting
   - Acreage allotments
-  - Administrative practice and procedure
   - Adult education
-  - Aged
   - Agricultural commodities
-  - Agriculture
   - American Samoa
   - Animal feeds
   - Apples
@@ -425,29 +408,23 @@ departments:
   - Beans
   - Blind
   - Broadband
-  - Business and industry
   - Citrus fruits
-  - Civil rights
-  - Claims
   - Coal
   - Colleges and universities
   - Communications
   - Communications equipment
   - Community development
   - Confidential business information
-  - Conflict of interests
   - Cooperatives
   - Copyright
   - Cotton
   - Cottonseeds
   - Cranberries
-  - Credit
   - Crop insurance
   - Cultural exchange programs
   - Dairy products
   - Disaster assistance
   - Drug traffic control
-  - Education
   - Education of disadvantaged
   - Education of individuals with disabilities
   - Educational facilities
@@ -457,7 +434,6 @@ departments:
   - Electric power rates
   - Electric utilities
   - Elementary and secondary education
-  - Employment
   - Energy
   - Energy conservation
   - Environmental impact statements
@@ -472,14 +448,11 @@ departments:
   - Forests and forest products
   - Fraud
   - Fruits
-  - Government contracts
-  - Government employees
   - Government procurement
   - Government property
   - Government property management
   - Government securities
   - Grains
-  - Grant programs
   - Grant programs-Indians
   - Grant programs-agriculture
   - Grant programs-business
@@ -502,10 +475,7 @@ departments:
   - Human research subjects
   - Imports
   - Indemnity payments
-  - Indians
   - Indians-education
-  - Insurance
-  - Intergovernmental relations
   - International organizations
   - Inventions and patents
   - Investments
@@ -542,21 +512,17 @@ departments:
   - Pacific Islands Trust Territory
   - Packaging and containers
   - Peanuts
-  - Penalties
   - Plants
   - Price support programs
-  - Privacy
   - Private schools
   - Public housing
   - Rent subsidies
-  - Reporting and recordkeeping requirements
   - Rice
   - Rural areas
   - Scholarships and fellowships
   - School construction
   - Schools
   - Science and technology
-  - Securities
   - Seeds
   - Sex discrimination
   - Sheep
@@ -759,7 +725,6 @@ departments:
   - fsis.foia@usda.gov
   fax: 202-690-3023
   keywords:
-  - Administrative practice and procedure
   - Animal diseases
   - Animal welfare
   - Confidential business information
@@ -770,12 +735,9 @@ departments:
   - Food grades and standards
   - Food labeling
   - Food packaging
-  - Freedom of information
   - Frozen foods
-  - Government employees
   - Grant programs-agriculture
   - Imports
-  - Intergovernmental relations
   - Laboratories
   - Livestock
   - Meat and meat products
@@ -783,7 +745,6 @@ departments:
   - Nutrition
   - Oils and fats
   - Poultry and poultry products
-  - Reporting and recordkeeping requirements
   - Seizures and forfeitures
   - Signs and symbols
   - Transportation
@@ -881,7 +842,6 @@ departments:
   - Foreign aid
   - Government procurement
   - Imports
-  - Reporting and recordkeeping requirements
   - Trade adjustment assistance
   name: Foreign Agricultural Service
   phone: 202-720-0154
@@ -967,12 +927,9 @@ departments:
   - wo_foia@fs.fed.us
   fax: 202-260-3245
   keywords:
-  - Administrative practice and procedure
-  - Agriculture
   - Alaska
   - Crime
   - Crop insurance
-  - Education
   - Electric power
   - Environmental impact statements
   - Environmental protection
@@ -980,17 +937,10 @@ departments:
   - Fire prevention
   - Fish
   - Forests and forest products
-  - Freedom of information
-  - Government contracts
   - Government procurement
-  - Grant programs
   - Grant programs-natural resources
   - Highways and roads
-  - Indians
   - Indians-lands
-  - Intergovernmental relations
-  - Investigations
-  - Law enforcement
   - Mineral resources
   - Mineral royalties
   - Miners
@@ -1001,12 +951,9 @@ departments:
   - Navigation (air)
   - Nonprofit organizations
   - Oil and gas exploration
-  - Organization and functions (Government agencies)
-  - Penalties
   - Public lands
   - Range management
   - Reclamation
-  - Reporting and recordkeeping requirements
   - Research
   - Rights-of-way
   - Science and technology
@@ -1107,21 +1054,15 @@ departments:
   - joanne.c.peterson@usda.gov
   fax: 202-690-2755
   keywords:
-  - Administrative practice and procedure
   - Agricultural commodities
   - Archives and records
   - Confidential business information
-  - Conflict of interests
   - Exports
-  - Freedom of information
   - Grains
   - Hogs
-  - Intergovernmental relations
   - Livestock
   - Measurement standards
-  - Penalties
   - Poultry and poultry products
-  - Reporting and recordkeeping requirements
   - Rice
   - Scientific equipment
   - Stockyards
@@ -1302,8 +1243,6 @@ departments:
     phone:
     - 202-690-4985
   keywords:
-  - Administrative practice and procedure
-  - Agriculture
   - Animals
   - Disaster assistance
   - Endangered and threatened species
@@ -1312,12 +1251,9 @@ departments:
   - Fishing
   - Flood plains
   - Forests and forest products
-  - Grant programs
   - Hunting
-  - Indians
   - Natural Resources Conservation Service
   - Natural resources
-  - Reporting and recordkeeping requirements
   - Rural areas
   - Soil conservation
   - State and local governments
@@ -1462,23 +1398,15 @@ departments:
     phone:
     - 202-720-0995
   keywords:
-  - Accounting
-  - Administrative practice and procedure
   - Adult education
-  - Aged
-  - Agriculture
   - American Samoa
   - Blind
   - Broadband
-  - Business and industry
-  - Civil rights
   - Colleges and universities
   - Communications
   - Community development
   - Copyright
-  - Credit
   - Cultural exchange programs
-  - Education
   - Education of disadvantaged
   - Education of individuals with disabilities
   - Educational facilities
@@ -1488,11 +1416,8 @@ departments:
   - Electric power rates
   - Electric utilities
   - Elementary and secondary education
-  - Employment
   - Equal educational opportunity
   - Federally affected areas
-  - Government contracts
-  - Grant programs
   - Grant programs-education
   - Grant programs-health
   - Grant programs-social programs
@@ -1501,10 +1426,7 @@ departments:
   - Homeless
   - Hospitals
   - Human research subjects
-  - Indians
   - Indians-education
-  - Insurance
-  - Intergovernmental relations
   - International organizations
   - Inventions and patents
   - Loan programs
@@ -1519,15 +1441,12 @@ departments:
   - Nonprofit organizations
   - Northern Mariana Islands
   - Pacific Islands Trust Territory
-  - Privacy
   - Private schools
-  - Reporting and recordkeeping requirements
   - Rural areas
   - Scholarships and fellowships
   - School construction
   - Schools
   - Science and technology
-  - Securities
   - State and local governments
   - Student aid
   - Teachers
@@ -2071,16 +1990,12 @@ description: The Department of Agriculture provides leadership on food, agricult
 emails:
 - usdafoia@ocio.usda.gov
 keywords:
-- Accounting
 - Acreage allotments
-- Administrative practice and procedure
 - Adult education
 - Advertising
 - Advisory committees
-- Aged
 - Agricultural commodities
 - Agricultural research
-- Agriculture
 - Airports
 - Alaska
 - Aliens
@@ -2107,14 +2022,11 @@ keywords:
 - Broadband
 - Brokers
 - Buildings and facilities
-- Business and industry
 - Cattle
 - Cervids
 - Cheese
 - Cherries
 - Citrus fruits
-- Civil rights
-- Claims
 - Classified information
 - Coal
 - Coffee
@@ -2126,14 +2038,12 @@ keywords:
 - Computer technology
 - Concessions
 - Confidential business information
-- Conflict of interests
 - Cooperatives
 - Copyright
 - Cotton
 - Cottonseeds
 - Courts
 - Cranberries
-- Credit
 - Crime
 - Crop insurance
 - Cultural exchange programs
@@ -2145,7 +2055,6 @@ keywords:
 - District of Columbia
 - Drug abuse
 - Drug traffic control
-- Education
 - Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
@@ -2156,7 +2065,6 @@ keywords:
 - Electric power rates
 - Electric utilities
 - Elementary and secondary education
-- Employment
 - Endangered and threatened species
 - Energy
 - Energy conservation
@@ -2164,7 +2072,6 @@ keywords:
 - Environmental protection
 - Equal access to justice
 - Equal educational opportunity
-- Equal employment opportunity
 - Ethics
 - Exports
 - Fair housing
@@ -2189,22 +2096,18 @@ keywords:
 - Foreign aid
 - Forests and forest products
 - Fraud
-- Freedom of information
 - Frozen foods
 - Fruit juices
 - Fruits
 - Fuel additives
 - Gasohol
 - Goats
-- Government contracts
-- Government employees
 - Government procurement
 - Government property
 - Government property management
 - Government publications
 - Government securities
 - Grains
-- Grant programs
 - Grant programs-Indians
 - Grant programs-agriculture
 - Grant programs-business
@@ -2223,7 +2126,6 @@ keywords:
 - Hazelnuts
 - Health facilities
 - Health insurance
-- Health professions
 - Highways and roads
 - Historic preservation
 - Hogs
@@ -2240,22 +2142,16 @@ keywords:
 - Imports
 - Income taxes
 - Indemnity payments
-- Indians
 - Indians-education
 - Indians-lands
-- Individuals with disabilities
-- Insurance
-- Intergovernmental relations
 - International organizations
 - Inventions and patents
-- Investigations
 - Investments
 - Iraq
 - Kiwifruit
 - Kuwait
 - Labeling
 - Laboratories
-- Law enforcement
 - Lawyers
 - Lebanon
 - Legal services
@@ -2320,13 +2216,11 @@ keywords:
 - Olives
 - Onions
 - Oranges
-- Organization and functions (Government agencies)
 - Pacific Islands Trust Territory
 - Packaging and containers
 - Peaches
 - Peanuts
 - Pears
-- Penalties
 - Pets
 - Pistachios
 - Plant diseases and pests
@@ -2337,7 +2231,6 @@ keywords:
 - Potatoes
 - Poultry and poultry products
 - Price support programs
-- Privacy
 - Private schools
 - Prunes
 - Public assistance programs
@@ -2352,7 +2245,6 @@ keywords:
 - Reclamation
 - Religious discrimination
 - Rent subsidies
-- Reporting and recordkeeping requirements
 - Research
 - Rice
 - Rights-of-way
@@ -2364,7 +2256,6 @@ keywords:
 - Science and technology
 - Scientific equipment
 - Seals and insignia
-- Securities
 - Seeds
 - Seismic safety
 - Seizures and forfeitures

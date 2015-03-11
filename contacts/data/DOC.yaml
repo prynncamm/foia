@@ -24,12 +24,10 @@ departments:
   - census.efoia@census.gov
   fax: 301-763-6239
   keywords:
-  - Administrative practice and procedure
   - Census data
   - Economic statistics
   - Exports
   - Foreign trade
-  - Reporting and recordkeeping requirements
   - Seals and insignia
   - State and local governments
   - Statistics
@@ -262,24 +260,14 @@ departments:
     phone:
     - 202-482-3085
   keywords:
-  - Administrative practice and procedure
-  - Aged
-  - Business and industry
-  - Civil rights
   - Community development
   - Environmental protection
-  - Equal employment opportunity
-  - Freedom of information
-  - Grant programs
   - Grant programs-business
   - Grant programs-housing and community development
-  - Individuals with disabilities
   - Loan programs-business
   - Loan programs-housing and community development
   - Manpower training programs
   - Mortgages
-  - Organization and functions (Government agencies)
-  - Reporting and recordkeeping requirements
   - Research
   - Sex discrimination
   - Technical assistance
@@ -392,26 +380,20 @@ departments:
     phone:
     - 202-482-0953
   keywords:
-  - Administrative practice and procedure
   - Advisory committees
   - Agricultural commodities
   - Arms and munitions
   - Boycotts
-  - Business and industry
   - Chemicals
   - Confidential business information
   - Exports
   - Foreign trade
   - Forests and forest products
-  - Government contracts
   - Horses
   - Imports
   - Inventions and patents
-  - Law enforcement
   - National defense
-  - Penalties
   - Petroleum
-  - Reporting and recordkeeping requirements
   - Research
   - Science and technology
   - Strategic and critical materials
@@ -533,11 +515,9 @@ departments:
     phone:
     - 202-482-7937
   keywords:
-  - Administrative practice and procedure
   - American Samoa
   - Antidumping
   - Australia
-  - Business and industry
   - Canada
   - Cheese
   - Confidential business information
@@ -545,15 +525,12 @@ departments:
   - Customs duties and inspection
   - Educational facilities
   - Emergency powers
-  - Freedom of information
   - Guam
   - Imports
-  - Investigations
   - Marketing quotas
   - Mexico
   - Nonprofit organizations
   - Northern Mariana Islands
-  - Reporting and recordkeeping requirements
   - Scientific equipment
   - Steel
   - Textiles
@@ -774,18 +751,14 @@ departments:
   - foia@nist.gov
   fax: 301-975-5301
   keywords:
-  - Administrative practice and procedure
   - Buildings and facilities
-  - Business and industry
   - Disaster assistance
   - Grant programs-science and technology
   - Imports
   - Inventions and patents
-  - Investigations
   - Laboratories
   - Measurement standards
   - National Institute of Standards and Technology
-  - Reporting and recordkeeping requirements
   - Research
   - Science and technology
   misc:
@@ -1013,7 +986,6 @@ departments:
     phone:
     - 202-482-1816
   keywords:
-  - Administrative practice and procedure
   - Cable television
   - Classified information
   - Communications
@@ -1022,10 +994,8 @@ departments:
   - Defense communications
   - Electronic products
   - Federal buildings and facilities
-  - Government employees
   - Government procurement
   - Government property
-  - Grant programs
   - Radio
   - Satellites
   - Telecommunications
@@ -1141,7 +1111,6 @@ departments:
   - FOIA@noaa.gov
   fax: 301-713-1169
   keywords:
-  - Administrative practice and procedure
   - Alaska
   - American Samoa
   - Antarctica
@@ -1151,7 +1120,6 @@ departments:
   - Confidential business information
   - Courts
   - Disaster assistance
-  - Education
   - Endangered and threatened species
   - Environmental protection
   - Exports
@@ -1161,7 +1129,6 @@ departments:
   - Fishing vessels
   - Food labeling
   - Foreign relations
-  - Government employees
   - Grant programs-business
   - Guam
   - Harbors
@@ -1169,9 +1136,7 @@ departments:
   - Historic preservation
   - Imports
   - Income taxes
-  - Indians
   - Indians-lands
-  - Intergovernmental relations
   - Labeling
   - Loan programs
   - Loan programs-business
@@ -1185,10 +1150,7 @@ departments:
   - Navigation (water)
   - Northern Mariana Islands
   - Oil pollution
-  - Organization and functions (Government agencies)
-  - Penalties
   - Puerto Rico
-  - Reporting and recordkeeping requirements
   - Research
   - Russian Federation
   - Satellites
@@ -1321,18 +1283,13 @@ departments:
   - efoia@uspto.gov
   fax: 571-501-7335
   keywords:
-  - Administrative practice and procedure
   - Biologics
-  - Claims
   - Classified information
   - Courts
   - Exports
   - Foreign relations
-  - Freedom of information
   - Inventions and patents
   - Lawyers
-  - Privacy
-  - Reporting and recordkeeping requirements
   - Science and technology
   - Small businesses
   - Trademarks
@@ -1560,15 +1517,11 @@ departments:
   fax: 202-482-0827
   keywords:
   - Accountants
-  - Accounting
-  - Administrative practice and procedure
   - Adult education
   - Advertising
   - Advisory committees
-  - Aged
   - Agricultural commodities
   - Agricultural research
-  - Agriculture
   - Aid to Families with Dependent Children
   - Air carriers
   - Air rates and fares
@@ -1595,7 +1548,6 @@ departments:
   - Brokers
   - Buildings and facilities
   - Buses
-  - Business and industry
   - Canada
   - Charter flights
   - Cheese
@@ -1604,8 +1556,6 @@ departments:
   - Child support
   - Child welfare
   - Civil defense
-  - Civil rights
-  - Claims
   - Classified information
   - Coal
   - Colleges and universities
@@ -1614,14 +1564,12 @@ departments:
   - Computer technology
   - Concessions
   - Confidential business information
-  - Conflict of interests
   - Conscientious objectors
   - Construction industry
   - Consumer protection
   - Continental shelf
   - Cooperatives
   - Courts
-  - Credit
   - Credit unions
   - Crime
   - Crop insurance
@@ -1634,7 +1582,6 @@ departments:
   - Drug abuse
   - Drug testing
   - Drugs
-  - Education
   - Education of disadvantaged
   - Education of individuals with disabilities
   - Educational study programs
@@ -1643,13 +1590,11 @@ departments:
   - Elementary and secondary education
   - Emergency medical services
   - Employee benefit plans
-  - Employment
   - Energy
   - Environmental impact statements
   - Environmental protection
   - Equal access to justice
   - Equal educational opportunity
-  - Equal employment opportunity
   - Estates
   - Excise taxes
   - Explosives
@@ -1663,15 +1608,11 @@ departments:
   - Foreign relations
   - Forests and forest products
   - Fraud
-  - Freedom of information
   - Freight
   - Gases
-  - Government contracts
-  - Government employees
   - Government procurement
   - Government property
   - Government publications
-  - Grant programs
   - Grant programs-business
   - Grant programs-education
   - Grant programs-health
@@ -1691,7 +1632,6 @@ departments:
   - Health facilities
   - Health insurance
   - Health maintenance organizations (HMO)
-  - Health professions
   - Health records
   - Highway safety
   - Highways and roads
@@ -1703,24 +1643,18 @@ departments:
   - Imports
   - Income taxes
   - Indemnity payments
-  - Indians
   - Indians-claims
   - Indians-lands
   - Indians-law
   - Indians-tribal government
-  - Individuals with disabilities
-  - Insurance
-  - Intergovernmental relations
   - Intermodal transportation
   - International organizations
-  - Investigations
   - Investments
   - Irrigation
   - Labor
   - Labor management relations
   - Laboratories
   - Land Management Bureau
-  - Law enforcement
   - Law enforcement officers
   - Lawyers
   - Life insurance
@@ -1760,13 +1694,10 @@ departments:
   - Nonprofit organizations
   - Nuclear energy
   - Occupational safety and health
-  - Organization and functions (Government agencies)
   - Pacific Islands Trust Territory
   - Passenger vessels
   - Passports and visas
-  - Penalties
   - Price support programs
-  - Privacy
   - Public assistance programs
   - Public health
   - Public lands
@@ -1779,7 +1710,6 @@ departments:
   - Recordings
   - Religious discrimination
   - Relocation assistance
-  - Reporting and recordkeeping requirements
   - Research
   - Rural areas
   - Safety
@@ -1935,13 +1865,9 @@ emails:
 - Efoia@doc.gov
 fax: 202-482-0827
 keywords:
-- Accounting
-- Administrative practice and procedure
 - Adult education
 - Advisory committees
-- Aged
 - Agricultural commodities
-- Agriculture
 - Air carriers
 - Airports
 - Alaska
@@ -1954,14 +1880,11 @@ keywords:
 - Boycotts
 - Broadband
 - Buildings and facilities
-- Business and industry
 - Cable television
 - Canada
 - Census data
 - Cheese
 - Chemicals
-- Civil rights
-- Claims
 - Classified information
 - Coast Guard
 - Coastal zone
@@ -1971,18 +1894,15 @@ keywords:
 - Communications equipment
 - Community development
 - Confidential business information
-- Conflict of interests
 - Copyright
 - Countervailing duties
 - Courts
-- Credit
 - Cultural exchange programs
 - Customs duties and inspection
 - Defense communications
 - Disaster assistance
 - Drug abuse
 - Economic statistics
-- Education
 - Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
@@ -1994,11 +1914,9 @@ keywords:
 - Electronic products
 - Elementary and secondary education
 - Emergency powers
-- Employment
 - Endangered and threatened species
 - Environmental protection
 - Equal educational opportunity
-- Equal employment opportunity
 - Exports
 - Federal buildings and facilities
 - Federally affected areas
@@ -2012,13 +1930,9 @@ keywords:
 - Foreign trade
 - Foreign trade zones
 - Forests and forest products
-- Freedom of information
-- Government contracts
-- Government employees
 - Government procurement
 - Government property
 - Government property management
-- Grant programs
 - Grant programs-business
 - Grant programs-education
 - Grant programs-health
@@ -2030,7 +1944,6 @@ keywords:
 - Hawaiian Natives
 - Health facilities
 - Health insurance
-- Health professions
 - Highways and roads
 - Historic preservation
 - Home improvement
@@ -2041,20 +1954,14 @@ keywords:
 - Human research subjects
 - Imports
 - Income taxes
-- Indians
 - Indians-education
 - Indians-lands
-- Individuals with disabilities
-- Insurance
-- Intergovernmental relations
 - International organizations
 - Inventions and patents
-- Investigations
 - Iraq
 - Kuwait
 - Labeling
 - Laboratories
-- Law enforcement
 - Lawyers
 - Lebanon
 - Libraries
@@ -2085,17 +1992,13 @@ keywords:
 - Nonprofit organizations
 - Northern Mariana Islands
 - Oil pollution
-- Organization and functions (Government agencies)
 - Pacific Islands Trust Territory
-- Penalties
 - Petroleum
-- Privacy
 - Private schools
 - Puerto Rico
 - Radio
 - Railroads
 - Religious discrimination
-- Reporting and recordkeeping requirements
 - Research
 - Rural areas
 - Russian Federation
@@ -2107,7 +2010,6 @@ keywords:
 - Scientific equipment
 - Seafood
 - Seals and insignia
-- Securities
 - Seizures and forfeitures
 - Sex discrimination
 - Small businesses

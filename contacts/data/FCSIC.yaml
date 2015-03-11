@@ -84,10 +84,7 @@ departments:
 description: The Farm Credit System Insurance Corporation ensures timely payment of
   interest and principal on Systemwide and consolidated bonds and other obligations
   issued by Farm Credit System banks.
-keywords:
-- Insurance
-- Penalties
-- Reporting and recordkeeping requirements
+keywords: []
 name: Farm Credit System Insurance Corporation
 request_time_stats:
   '2008':
