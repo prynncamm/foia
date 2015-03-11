@@ -10,7 +10,7 @@ from stop_words import get_stop_words
 
 STOP_WORDS = get_stop_words('english')
 
-# Threshold set to 25 percentile of scores
+# Threshold set to 30ish percentile of scores
 THRESHOLD = np.float64(0.940983)
 
 """
@@ -93,13 +93,13 @@ def get_keyword_dicts(glob_path):
 def get_tf_idf(keyword, keywords, agency, agencies, total_agencies):
     """
     Compute tf_idf score of a given keyword currently tf (term frequency) has
-    no weighting and idf is a simple inverse frequency.
+    log weighting and idf is a simple inverse frequency.
 
     For more info http://en.wikipedia.org/wiki/Tf%E2%80%93idf
     """
 
     idf = math.log(total_agencies / len(keywords.get(keyword)))
-    tf = agencies.get(agency).count(keyword)
+    tf = math.log(1 + agencies.get(agency).count(keyword))
     tf_idf = tf * idf
     return tf_idf
 
@@ -174,6 +174,7 @@ def updated_yamls(glob_path):
                 keywords=keywords,
                 total_agencies=total_agencies)
         write_yaml(filename=filename, data=agency)
+
 
 if __name__ == "__main__":
     updated_yamls("data" + os.sep + "*.yaml")
