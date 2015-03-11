@@ -52,20 +52,11 @@ description: An independent federal agency, the Export-Import Bank assists Ameri
   loan guarantees and insurance. The focus of the Export-Import Bank is on assisting
   small businesses.
 keywords:
-- Administrative practice and procedure
-- Classified information
-- Conflict of interests
-- Exports
-- Government contracts
-- Government employees
-- Government publications
-- Grant programs
-- Health facilities
-- Health insurance
-- Health professions
-- Loan programs
-- Reporting and recordkeeping requirements
-- Sunshine Act
+- act
+- classified
+- exports
+- publications
+- sunshine
 name: Export-Import Bank of the U.S.
 request_time_stats:
   '2008':

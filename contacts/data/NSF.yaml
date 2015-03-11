@@ -34,124 +34,102 @@ departments:
 description: The National Science Foundation supports research and education across
   all fields of science and technology, primarily through grants.
 keywords:
-- Accounting
-- Administrative practice and procedure
-- Adult education
-- Aged
-- Agriculture
-- Airports
-- American Samoa
-- Antarctica
-- Blind
-- Broadband
-- Buildings and facilities
-- Business and industry
-- Civil rights
-- Claims
-- Colleges and universities
-- Communications
-- Community development
-- Conflict of interests
-- Copyright
-- Credit
-- Cultural exchange programs
-- Education
-- Education of disadvantaged
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Electric power
-- Electric power rates
-- Electric utilities
-- Elementary and secondary education
-- Employment
-- Equal educational opportunity
-- Equal employment opportunity
-- Exports
-- Federal buildings and facilities
-- Federally affected areas
-- Fraud
-- Freedom of information
-- Government contracts
-- Government employees
-- Government procurement
-- Government property management
-- Grant programs
-- Grant programs-education
-- Grant programs-health
-- Grant programs-science and technology
-- Grant programs-social programs
-- Guam
-- Health facilities
-- Health insurance
-- Health professions
-- Highways and roads
-- Home improvement
-- Homeless
-- Hospitals
-- Hostages
-- Human research subjects
-- Imports
-- Indians
-- Indians-education
-- Individuals with disabilities
-- Insurance
-- Intergovernmental relations
-- International organizations
-- Inventions and patents
-- Investigations
-- Iraq
-- Kuwait
-- Lebanon
-- Loan programs
-- Loan programs-agriculture
-- Loan programs-communications
-- Loan programs-energy
-- Loan programs-housing and community development
-- Manpower training programs
-- Mass transportation
-- Migrant labor
-- Mortgage insurance
-- Mortgages
-- Nonprofit organizations
-- Northern Mariana Islands
-- Oil pollution
-- Pacific Islands Trust Territory
-- Penalties
-- Plants
-- Privacy
-- Private schools
-- Railroads
-- Religious discrimination
-- Reporting and recordkeeping requirements
-- Research
-- Rural areas
-- Scholarships and fellowships
-- School construction
-- Schools
-- Science and technology
-- Securities
-- Sex discrimination
-- Small businesses
-- State and local governments
-- Student aid
-- Teachers
-- Telecommunications
-- Telephone
-- Urban areas
-- Vessels
-- Veterans
-- Virgin Islands
-- Vocational education
-- Vocational rehabilitation
-- Waste treatment and disposal
-- Water pollution control
-- Water resources
-- Water supply
-- Watersheds
-- Wildlife
-- Women
+- adult
+- affected
+- aid
+- airports
+- american
+- antarctica
+- blind
+- broadband
+- businesses
+- colleges
+- construction
+- copyright
+- cultural
+- disadvantaged
+- disposal
+- elementary
+- exchange
+- exports
+- federally
+- fellowships
+- fraud
+- governments
+- guam
+- highways
+- home
+- homeless
+- hospitals
+- hostages
+- human
+- imports
+- improvement
+- indians-education
+- international
+- inventions
+- iraq
+- kuwait
+- lebanon
+- local
+- manpower
+- mariana
+- mass
+- migrant
+- mortgage
+- mortgages
+- nonprofit
+- northern
+- oil
+- pacific
+- patents
+- plants
+- pollution
+- private
+- procurement
+- programs-agriculture
+- programs-communications
+- programs-education
+- programs-energy
+- programs-science
+- programs-social
+- railroads
+- rates
+- rehabilitation
+- religious
+- roads
+- rural
+- samoa
+- scholarships
+- school
+- schools
+- science
+- secondary
+- sex
+- small
+- state
+- student
+- study
+- subjects
+- supply
+- teachers
+- technology
+- telecommunications
+- telephone
+- territory
+- training
+- treatment
+- trust
+- universities
+- urban
+- utilities
+- veterans
+- virgin
+- vocational
+- waste
+- watersheds
+- wildlife
+- women
 name: National Science Foundation
 request_time_stats:
   '2008':

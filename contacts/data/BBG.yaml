@@ -76,15 +76,13 @@ departments:
 description: The Broadcasting Board of Governors broadcasts news and information about
   the United States and the world to audiences abroad.
 keywords:
-- Administrative practice and procedure
-- Foreign relations
-- Freedom of information
-- News media
-- Privacy
-- Radio
-- Recordings
-- Sunshine Act
-- Television
+- act
+- media
+- news
+- radio
+- recordings
+- sunshine
+- television
 name: Broadcasting Board of Governors
 request_time_stats:
   '2010':

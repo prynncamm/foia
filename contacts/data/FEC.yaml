@@ -111,26 +111,18 @@ description: The Federal Election Commission enforces federal campaign finance l
   including monitoring donation prohibitions and limits and overseeing public funding
   for presidential campaigns.
 keywords:
-- Administrative practice and procedure
-- Archives and records
-- Business and industry
-- Campaign funds
-- Conflict of interests
-- Credit
-- Elections
-- Freedom of information
-- Government contracts
-- Government employees
-- Labor
-- Law enforcement
-- Nonprofit organizations
-- Penalties
-- Political activities (Government employees)
-- Political candidates
-- Political committees and parties
-- Privacy
-- Reporting and recordkeeping requirements
-- Sunshine Act
+- act
+- activities
+- archives
+- campaign
+- candidates
+- committees
+- elections
+- funds
+- nonprofit
+- parties
+- political
+- sunshine
 name: Federal Election Commission
 request_time_stats:
   '2008':

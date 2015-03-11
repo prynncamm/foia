@@ -80,10 +80,7 @@ departments:
 description: 'The Administrative Conference of the United States is an independent
   federal agency dedicated to improving federal agency administrative processes and
   procedures. '
-keywords:
-- Administrative practice and procedure
-- Freedom of information
-- Privacy
+keywords: []
 name: Administrative Conference of the United States
 request_time_stats:
   '2010':

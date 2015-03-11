@@ -60,19 +60,13 @@ departments:
     phone:
     - 800-375-5283
   keywords:
-  - Administrative practice and procedure
-  - Aliens
-  - Authority delegations (Government agencies)
-  - Employment
-  - Foreign officials
-  - Freedom of information
-  - Health professions
-  - Immigration
-  - Penalties
-  - Privacy
-  - Reporting and recordkeeping requirements
-  - Students
-  - Surety bonds
+  - aliens
+  - authority
+  - delegations
+  - immigration
+  - officials
+  - students
+  - surety
   name: U.S. Citizenship & Immigration Services
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -282,117 +276,113 @@ departments:
     phone:
     - 202-475-3522
   keywords:
-  - Administrative practice and procedure
-  - Advertising
-  - Air carriers
-  - Aircraft
-  - Airports
-  - Alaska
-  - Alcohol abuse
-  - Alcohol and alcoholic beverages
-  - Anchorage grounds
-  - Archives and records
-  - Armed forces
-  - Armed forces reserves
-  - Authority delegations (Government agencies)
-  - Aviation safety
-  - Benzene
-  - Bridges
-  - Business and industry
-  - Cargo vessels
-  - Citizenship and naturalization
-  - Civil rights
-  - Claims
-  - Coast Guard
-  - Code of Federal Regulations
-  - Colleges and universities
-  - Communications equipment
-  - Conflict of interests
-  - Continental shelf
-  - Defense Department
-  - Diving
-  - Drug abuse
-  - Drug testing
-  - Drugs
-  - Education
-  - Employment
-  - Endangered and threatened species
-  - Environmental protection
-  - Explosives
-  - Fire prevention
-  - Fishing vessels
-  - Foreign relations
-  - Freedom of information
-  - Freight
-  - Gases
-  - Government employees
-  - Government publications
-  - Grant programs-education
-  - Grant programs-veterans
-  - Great Lakes
-  - Harbors
-  - Hazardous materials transportation
-  - Hazardous substances
-  - Health care
-  - Insurance
-  - Intergovernmental relations
-  - Investigations
-  - Labeling
-  - Laboratories
-  - Law enforcement
-  - Law enforcement officers
-  - Loan programs-education
-  - Loan programs-veterans
-  - Manpower training programs
-  - Marine mammals
-  - Marine resources
-  - Marine safety
-  - Maritime carriers
-  - Maritime security
-  - Measurement standards
-  - Military personnel
-  - Mortgages
-  - Motor carriers
-  - National Transportation Safety Board
-  - Natural gas
-  - Navigation (water)
-  - Nuclear vessels
-  - Occupational safety and health
-  - Oceanographic research vessels
-  - Oil and gas exploration
-  - Oil pollution
-  - Organization and functions (Government agencies)
-  - Packaging and containers
-  - Passenger vessels
-  - Penalties
-  - Petroleum
-  - Radiation protection
-  - Radio
-  - Reporting and recordkeeping requirements
-  - Research
-  - Safety
-  - Schools
-  - Seamen
-  - Security measures
-  - Sewage disposal
-  - Signs and symbols
-  - Surety bonds
-  - Telecommunications
-  - Telephone
-  - Terrorism
-  - Transportation
-  - Travel
-  - Travel and transportation expenses
-  - Treaties
-  - Vessels
-  - Veterans
-  - Vocational education
-  - Vocational rehabilitation
-  - Volunteers
-  - Wages
-  - Water pollution control
-  - Waterways
-  - Whistleblowing
+  - abuse
+  - advertising
+  - aircraft
+  - airports
+  - alaska
+  - alcohol
+  - alcoholic
+  - anchorage
+  - archives
+  - armed
+  - authority
+  - aviation
+  - benzene
+  - beverages
+  - board
+  - bridges
+  - care
+  - cargo
+  - carriers
+  - citizenship
+  - coast
+  - code
+  - colleges
+  - containers
+  - continental
+  - defense
+  - delegations
+  - department
+  - disposal
+  - diving
+  - drug
+  - drugs
+  - endangered
+  - equipment
+  - expenses
+  - exploration
+  - explosives
+  - fire
+  - fishing
+  - forces
+  - freight
+  - gas
+  - gases
+  - great
+  - grounds
+  - guard
+  - harbors
+  - hazardous
+  - labeling
+  - laboratories
+  - lakes
+  - mammals
+  - manpower
+  - marine
+  - maritime
+  - materials
+  - measurement
+  - measures
+  - military
+  - mortgages
+  - natural
+  - naturalization
+  - navigation
+  - nuclear
+  - occupational
+  - oceanographic
+  - officers
+  - oil
+  - packaging
+  - passenger
+  - personnel
+  - petroleum
+  - pollution
+  - prevention
+  - programs-education
+  - programs-veterans
+  - publications
+  - radiation
+  - radio
+  - regulations
+  - rehabilitation
+  - reserves
+  - seamen
+  - security
+  - sewage
+  - shelf
+  - signs
+  - species
+  - standards
+  - substances
+  - surety
+  - symbols
+  - telecommunications
+  - telephone
+  - terrorism
+  - testing
+  - threatened
+  - training
+  - travel
+  - treaties
+  - universities
+  - vessels
+  - veterans
+  - vocational
+  - volunteers
+  - waterways
+  - whistleblowing
   name: U.S. Coast Guard
   phone: 202-475-3522
   public_liaison:
@@ -494,101 +484,108 @@ departments:
     phone:
     - 202-325-0150
   keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Air carriers
-  - Air pollution control
-  - Air transportation
-  - Aircraft
-  - Airmen
-  - Airports
-  - Alcohol and alcoholic beverages
-  - Aliens
-  - American Samoa
-  - Antidumping
-  - Authority delegations (Government agencies)
-  - Bonds
-  - Brokers
-  - Canada
-  - Cargo vessels
-  - Caribbean Basin initiative
-  - Cigars and cigarettes
-  - Claims
-  - Coastal zone
-  - Coffee
-  - Common carriers
-  - Computer technology
-  - Confidential business information
-  - Cotton
-  - Countervailing duties
-  - Courts
-  - Cuba
-  - Cultural exchange programs
-  - Customs duties and inspection
-  - Drug traffic control
-  - Electronic products
-  - Employment
-  - Executive orders
-  - Exports
-  - Fishing vessels
-  - Foreign currencies
-  - Foreign officials
-  - Foreign trade zones
-  - Freedom of information
-  - Freight
-  - Fruit juices
-  - Government contracts
-  - Government employees
-  - Government procurement
-  - Guam
-  - Harbors
-  - Health professions
-  - Immigration
-  - Imports
-  - International organizations
-  - Kingman Reef
-  - Labeling
-  - Laboratories
-  - Law enforcement
-  - Liquors
-  - Lotteries
-  - Maritime carriers
-  - Metals
-  - Mexico
-  - Midway Islands
-  - Motor carriers
-  - Motor vehicles
-  - Oil imports
-  - Oil pollution
-  - Organization and functions (Government agencies)
-  - Packaging and containers
-  - Passenger vessels
-  - Passports and visas
-  - Penalties
-  - Petroleum
-  - Privacy
-  - Puerto Rico
-  - Railroads
-  - Reporting and recordkeeping requirements
-  - Seals and insignia
-  - Seamen
-  - Search warrants
-  - Security measures
-  - Seizures and forfeitures
-  - Students
-  - Sugar
-  - Surety bonds
-  - Taxes
-  - Trade agreements
-  - Trademarks
-  - Travel restrictions
-  - Vessels
-  - Wages
-  - Wake Island
-  - Warehouses
-  - Wheat
-  - Wine
-  - Wool
+  - agreements
+  - air
+  - aircraft
+  - airmen
+  - airports
+  - alcohol
+  - alcoholic
+  - aliens
+  - american
+  - antidumping
+  - authority
+  - basin
+  - beverages
+  - bonds
+  - brokers
+  - canada
+  - cargo
+  - caribbean
+  - carriers
+  - cigarettes
+  - cigars
+  - coastal
+  - coffee
+  - common
+  - computer
+  - confidential
+  - containers
+  - cotton
+  - countervailing
+  - courts
+  - cuba
+  - cultural
+  - currencies
+  - customs
+  - delegations
+  - duties
+  - electronic
+  - exchange
+  - executive
+  - exports
+  - fishing
+  - forfeitures
+  - freight
+  - fruit
+  - guam
+  - harbors
+  - immigration
+  - imports
+  - initiative
+  - insignia
+  - inspection
+  - international
+  - island
+  - juices
+  - kingman
+  - labeling
+  - laboratories
+  - liquors
+  - lotteries
+  - maritime
+  - measures
+  - metals
+  - mexico
+  - midway
+  - motor
+  - officials
+  - oil
+  - orders
+  - packaging
+  - passenger
+  - passports
+  - petroleum
+  - pollution
+  - procurement
+  - puerto
+  - railroads
+  - reef
+  - restrictions
+  - rico
+  - samoa
+  - seals
+  - seamen
+  - search
+  - seizures
+  - students
+  - sugar
+  - surety
+  - trade
+  - trademarks
+  - traffic
+  - travel
+  - vehicles
+  - vessels
+  - visas
+  - wake
+  - warehouses
+  - warrants
+  - wheat
+  - wine
+  - wool
+  - zone
+  - zones
   name: U.S. Customs & Border Protection
   phone: 202-325-0150
   public_liaison:
@@ -698,131 +695,117 @@ departments:
     phone:
     - 202-646-3323
   keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Adult education
-  - Advisory committees
-  - Aged
-  - Agriculture
-  - Airports
-  - Aliens
-  - American Samoa
-  - Blind
-  - Broadband
-  - Buildings and facilities
-  - Business and industry
-  - Civil rights
-  - Claims
-  - Classified information
-  - Coastal zone
-  - Colleges and universities
-  - Communications
-  - Community development
-  - Copyright
-  - Courts
-  - Credit
-  - Cultural exchange programs
-  - Disaster assistance
-  - Drug abuse
-  - Education
-  - Education of disadvantaged
-  - Education of individuals with disabilities
-  - Educational facilities
-  - Educational research
-  - Educational study programs
-  - Electric power
-  - Electric power rates
-  - Electric utilities
-  - Elementary and secondary education
-  - Employment
-  - Environmental impact statements
-  - Equal educational opportunity
-  - Equal employment opportunity
-  - Federal buildings and facilities
-  - Federally affected areas
-  - Fire prevention
-  - Flood insurance
-  - Flood plains
-  - Freedom of information
-  - Government contracts
-  - Government employees
-  - Government property management
-  - Grant programs
-  - Grant programs-education
-  - Grant programs-health
-  - Grant programs-housing and community development
-  - Grant programs-social programs
-  - Guam
-  - Highways and roads
-  - Home improvement
-  - Homeless
-  - Hospitals
-  - Hostages
-  - Housing
-  - Human research subjects
-  - Indians
-  - Indians-education
-  - Indians-lands
-  - Indians-tribal government
-  - Individuals with disabilities
-  - Insurance
-  - Intergovernmental relations
-  - International organizations
-  - Inventions and patents
-  - Investigations
-  - Iraq
-  - Kuwait
-  - Lebanon
-  - Loan programs
-  - Loan programs-agriculture
-  - Loan programs-communications
-  - Loan programs-energy
-  - Loan programs-housing and community development
-  - Manpower training programs
-  - Mass transportation
-  - Migrant labor
-  - Mortgage insurance
-  - Mortgages
-  - Natural resources
-  - Nonprofit organizations
-  - Northern Mariana Islands
-  - Nuclear power plants and reactors
-  - Organization and functions (Government agencies)
-  - Pacific Islands Trust Territory
-  - Penalties
-  - Privacy
-  - Private schools
-  - Public lands
-  - Radiation protection
-  - Railroads
-  - Religious discrimination
-  - Reporting and recordkeeping requirements
-  - Rural areas
-  - Scholarships and fellowships
-  - School construction
-  - Schools
-  - Science and technology
-  - Securities
-  - Sex discrimination
-  - Small businesses
-  - State and local governments
-  - Student aid
-  - Teachers
-  - Technical assistance
-  - Telecommunications
-  - Telephone
-  - Terrorism
-  - Urban areas
-  - Veterans
-  - Virgin Islands
-  - Vocational education
-  - Vocational rehabilitation
-  - Waste treatment and disposal
-  - Water pollution control
-  - Water resources
-  - Water supply
-  - Watersheds
-  - Women
+  - adult
+  - advisory
+  - affected
+  - aid
+  - airports
+  - aliens
+  - american
+  - blind
+  - broadband
+  - businesses
+  - classified
+  - coastal
+  - colleges
+  - committees
+  - construction
+  - copyright
+  - courts
+  - cultural
+  - disadvantaged
+  - disaster
+  - disposal
+  - elementary
+  - exchange
+  - federally
+  - fellowships
+  - fire
+  - flood
+  - governments
+  - guam
+  - highways
+  - home
+  - homeless
+  - hospitals
+  - hostages
+  - human
+  - impact
+  - improvement
+  - indians-education
+  - indians-lands
+  - indians-tribal
+  - international
+  - inventions
+  - iraq
+  - kuwait
+  - lands
+  - lebanon
+  - local
+  - manpower
+  - mariana
+  - mass
+  - migrant
+  - mortgage
+  - mortgages
+  - natural
+  - nonprofit
+  - northern
+  - nuclear
+  - pacific
+  - patents
+  - plains
+  - plants
+  - power
+  - prevention
+  - private
+  - programs-agriculture
+  - programs-communications
+  - programs-education
+  - programs-energy
+  - programs-housing
+  - programs-social
+  - radiation
+  - railroads
+  - rates
+  - reactors
+  - rehabilitation
+  - religious
+  - roads
+  - rural
+  - samoa
+  - scholarships
+  - school
+  - schools
+  - science
+  - secondary
+  - sex
+  - small
+  - state
+  - statements
+  - student
+  - study
+  - subjects
+  - supply
+  - teachers
+  - technical
+  - telecommunications
+  - telephone
+  - territory
+  - terrorism
+  - training
+  - treatment
+  - trust
+  - universities
+  - urban
+  - utilities
+  - veterans
+  - virgin
+  - vocational
+  - waste
+  - watersheds
+  - women
+  - zone
   name: Federal Emergency Management Agency
   phone: 202-646-3323
   public_liaison:
@@ -1013,21 +996,14 @@ departments:
     phone:
     - 202-732-4265
   keywords:
-  - Administrative practice and procedure
-  - Aliens
-  - Authority delegations (Government agencies)
-  - Employment
-  - Foreign officials
-  - Foreign relations
-  - Freedom of information
-  - Health professions
-  - Immigration
-  - Penalties
-  - Privacy
-  - Reporting and recordkeeping requirements
-  - Students
-  - Surety bonds
-  - Treaties
+  - aliens
+  - authority
+  - delegations
+  - immigration
+  - officials
+  - students
+  - surety
+  - treaties
   name: U.S. Immigration & Customs Enforcement
   phone: 202-732-4265
   public_liaison:
@@ -1141,39 +1117,31 @@ departments:
     phone:
     - 202-254-4001
   keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Biologics
-  - Civil rights
-  - Computer technology
-  - Drugs
-  - Education of disadvantaged
-  - Emergency medical services
-  - Fraud
-  - Freedom of information
-  - Grant programs-health
-  - Grant programs-social programs
-  - Health care
-  - Health facilities
-  - Health insurance
-  - Health maintenance organizations (HMO)
-  - Health professions
-  - Health records
-  - Hospitals
-  - Investigations
-  - Kidney diseases
-  - Maternal and child health
-  - Medicaid
-  - Medical devices
-  - Medicare
-  - Packaging and containers
-  - Penalties
-  - Privacy
-  - Reporting and recordkeeping requirements
-  - Rural areas
-  - Social security
-  - Transportation
-  - X-rays
+  - biologics
+  - care
+  - child
+  - computer
+  - containers
+  - devices
+  - disadvantaged
+  - diseases
+  - drugs
+  - emergency
+  - fraud
+  - hmo
+  - hospitals
+  - kidney
+  - maintenance
+  - maternal
+  - medicaid
+  - medical
+  - medicare
+  - packaging
+  - programs-social
+  - rural
+  - services
+  - social
+  - x-rays
   name: Office of the Inspector General
   phone: 202-254-4001
   public_liaison:
@@ -1760,58 +1728,49 @@ departments:
     - 866-364-2872
     - 571-227-2300
   keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Afghanistan
-  - Agriculture
-  - Air carriers
-  - Air taxis
-  - Air traffic control
-  - Air transportation
-  - Aircraft
-  - Airmen
-  - Airports
-  - Alcohol abuse
-  - Aliens
-  - Arms and munitions
-  - Authority delegations (Government agencies)
-  - Aviation safety
-  - Canada
-  - Charter flights
-  - Cuba
-  - Drug abuse
-  - Drug testing
-  - Ethiopia
-  - Explosives
-  - Freight
-  - Freight forwarders
-  - Government employees
-  - Harbors
-  - Hazardous materials transportation
-  - Investigations
-  - Law enforcement
-  - Law enforcement officers
-  - Maritime carriers
-  - Maritime security
-  - Mass transportation
-  - Mexico
-  - Motor carriers
-  - Noise control
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Political candidates
-  - Privacy
-  - Railroad safety
-  - Railroads
-  - Reporting and recordkeeping requirements
-  - Safety
-  - Schools
-  - Seamen
-  - Security measures
-  - Transportation
-  - Vessels
-  - Waterways
-  - Yugoslavia
+  - abuse
+  - afghanistan
+  - air
+  - aircraft
+  - airmen
+  - airports
+  - alcohol
+  - aliens
+  - arms
+  - authority
+  - aviation
+  - canada
+  - candidates
+  - carriers
+  - charter
+  - cuba
+  - delegations
+  - drug
+  - ethiopia
+  - explosives
+  - flights
+  - forwarders
+  - freight
+  - harbors
+  - hazardous
+  - maritime
+  - mass
+  - materials
+  - measures
+  - mexico
+  - munitions
+  - noise
+  - officers
+  - political
+  - railroad
+  - railroads
+  - seamen
+  - security
+  - taxis
+  - testing
+  - traffic
+  - waterways
+  - yugoslavia
   name: Transportation Security Administration
   phone: 866-364-2872
   public_liaison:
@@ -1930,263 +1889,270 @@ emails:
 - foia@hq.dhs.gov
 fax: 202-343-4011
 keywords:
-- Accounting
-- Administrative practice and procedure
-- Adult education
-- Advertising
-- Advisory committees
-- Aged
-- Agriculture
-- Air carriers
-- Air pollution control
-- Air traffic control
-- Air transportation
-- Aircraft
-- Airmen
-- Airports
-- Alaska
-- Alcohol abuse
-- Alcohol and alcoholic beverages
-- Aliens
-- American Samoa
-- Anchorage grounds
-- Antidumping
-- Archives and records
-- Armed forces
-- Armed forces reserves
-- Arms and munitions
-- Authority delegations (Government agencies)
-- Aviation safety
-- Benzene
-- Blind
-- Bonds
-- Bridges
-- Broadband
-- Brokers
-- Business and industry
-- Canada
-- Cargo vessels
-- Caribbean Basin initiative
-- Cigars and cigarettes
-- Citizenship and naturalization
-- Civil rights
-- Claims
-- Classified information
-- Coast Guard
-- Coastal zone
-- Coffee
-- Colleges and universities
-- Common carriers
-- Communications
-- Communications equipment
-- Community development
-- Computer technology
-- Confidential business information
-- Conflict of interests
-- Continental shelf
-- Copyright
-- Cotton
-- Countervailing duties
-- Courts
-- Credit
-- Cuba
-- Cultural exchange programs
-- Customs duties and inspection
-- Defense Department
-- Disaster assistance
-- Diving
-- Drug abuse
-- Drug testing
-- Drug traffic control
-- Education
-- Education of disadvantaged
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Electric power
-- Electric power rates
-- Electric utilities
-- Electronic products
-- Elementary and secondary education
-- Employment
-- Endangered and threatened species
-- Environmental protection
-- Equal educational opportunity
-- Equal employment opportunity
-- Executive orders
-- Explosives
-- Exports
-- Federal buildings and facilities
-- Federally affected areas
-- Fire prevention
-- Fishing vessels
-- Flood insurance
-- Foreign currencies
-- Foreign officials
-- Foreign relations
-- Foreign trade zones
-- Fraud
-- Freedom of information
-- Freight
-- Freight forwarders
-- Fruit juices
-- Gases
-- Government contracts
-- Government employees
-- Government procurement
-- Government property management
-- Government publications
-- Grant programs
-- Grant programs-education
-- Grant programs-health
-- Grant programs-housing and community development
-- Grant programs-social programs
-- Grant programs-veterans
-- Great Lakes
-- Guam
-- Harbors
-- Hazardous materials transportation
-- Hazardous substances
-- Health care
-- Health professions
-- Highways and roads
-- Home improvement
-- Homeless
-- Hospitals
-- Housing
-- Human research subjects
-- Immigration
-- Imports
-- Income taxes
-- Indians
-- Indians-education
-- Individuals with disabilities
-- Insurance
-- Intergovernmental relations
-- International organizations
-- Inventions and patents
-- Investigations
-- Kingman Reef
-- Labeling
-- Labor
-- Labor management relations
-- Labor unions
-- Laboratories
-- Law enforcement
-- Law enforcement officers
-- Lawyers
-- Liquors
-- Loan programs
-- Loan programs-agriculture
-- Loan programs-communications
-- Loan programs-education
-- Loan programs-energy
-- Loan programs-housing and community development
-- Loan programs-veterans
-- Lobbying
-- Lotteries
-- Manpower training programs
-- Marine mammals
-- Marine resources
-- Marine safety
-- Maritime carriers
-- Maritime security
-- Mass transportation
-- Measurement standards
-- Metals
-- Mexico
-- Midway Islands
-- Migrant labor
-- Military personnel
-- Mortgage insurance
-- Mortgages
-- Motor carriers
-- Motor vehicles
-- National Transportation Safety Board
-- Natural gas
-- Natural resources
-- Navigation (water)
-- Nonprofit organizations
-- Northern Mariana Islands
-- Nuclear vessels
-- Occupational safety and health
-- Oceanographic research vessels
-- Oil and gas exploration
-- Oil imports
-- Oil pollution
-- Organization and functions (Government agencies)
-- Pacific Islands Trust Territory
-- Packaging and containers
-- Passenger vessels
-- Passports and visas
-- Penalties
-- Petroleum
-- Privacy
-- Private schools
-- Puerto Rico
-- Radiation protection
-- Radio
-- Railroad safety
-- Railroads
-- Refugees
-- Religious discrimination
-- Reporting and recordkeeping requirements
-- Research
-- Rural areas
-- Safety
-- Scholarships and fellowships
-- School construction
-- Schools
-- Science and technology
-- Seals and insignia
-- Seamen
-- Search warrants
-- Securities
-- Security measures
-- Seizures and forfeitures
-- Sewage disposal
-- Sex discrimination
-- Signs and symbols
-- Small businesses
-- State and local governments
-- Student aid
-- Students
-- Sugar
-- Surety bonds
-- Taxes
-- Teachers
-- Telecommunications
-- Telephone
-- Terrorism
-- Trade agreements
-- Trademarks
-- Transportation
-- Travel
-- Travel and transportation expenses
-- Travel restrictions
-- Treaties
-- Urban areas
-- Vessels
-- Veterans
-- Virgin Islands
-- Vocational education
-- Vocational rehabilitation
-- Volunteers
-- Wages
-- Wake Island
-- Warehouses
-- Waste treatment and disposal
-- Water pollution control
-- Water resources
-- Water supply
-- Watersheds
-- Waterways
-- Wheat
-- Whistleblowing
-- Wine
-- Women
-- Wool
+- abuse
+- adult
+- advertising
+- advisory
+- affected
+- agreements
+- aid
+- air
+- aircraft
+- airmen
+- airports
+- alaska
+- alcohol
+- alcoholic
+- aliens
+- american
+- anchorage
+- antidumping
+- archives
+- armed
+- arms
+- authority
+- aviation
+- basin
+- benzene
+- beverages
+- blind
+- board
+- bonds
+- bridges
+- broadband
+- brokers
+- businesses
+- canada
+- care
+- cargo
+- caribbean
+- carriers
+- cigarettes
+- cigars
+- citizenship
+- classified
+- coast
+- coastal
+- coffee
+- colleges
+- committees
+- common
+- communications
+- computer
+- confidential
+- construction
+- containers
+- continental
+- control
+- copyright
+- cotton
+- countervailing
+- courts
+- cuba
+- cultural
+- currencies
+- customs
+- defense
+- delegations
+- department
+- disadvantaged
+- disaster
+- disposal
+- diving
+- drug
+- duties
+- electronic
+- elementary
+- endangered
+- equipment
+- exchange
+- executive
+- expenses
+- exploration
+- explosives
+- exports
+- federally
+- fellowships
+- fire
+- fishing
+- flood
+- forces
+- foreign
+- forfeitures
+- forwarders
+- fraud
+- freight
+- fruit
+- gas
+- gases
+- governments
+- great
+- grounds
+- guam
+- guard
+- harbors
+- hazardous
+- highways
+- home
+- homeless
+- hospitals
+- human
+- immigration
+- imports
+- improvement
+- indians-education
+- initiative
+- insignia
+- inspection
+- international
+- inventions
+- island
+- juices
+- kingman
+- labeling
+- labor
+- laboratories
+- lakes
+- lawyers
+- liquors
+- lobbying
+- local
+- lotteries
+- mammals
+- management
+- manpower
+- mariana
+- marine
+- maritime
+- mass
+- materials
+- measurement
+- measures
+- metals
+- mexico
+- midway
+- migrant
+- military
+- mortgage
+- mortgages
+- motor
+- munitions
+- natural
+- naturalization
+- navigation
+- nonprofit
+- northern
+- nuclear
+- occupational
+- oceanographic
+- officers
+- officials
+- oil
+- orders
+- pacific
+- packaging
+- passenger
+- passports
+- patents
+- personnel
+- petroleum
+- pollution
+- prevention
+- private
+- procurement
+- programs-agriculture
+- programs-communications
+- programs-education
+- programs-energy
+- programs-housing
+- programs-social
+- programs-veterans
+- publications
+- puerto
+- radiation
+- radio
+- railroad
+- railroads
+- rates
+- reef
+- refugees
+- rehabilitation
+- religious
+- reserves
+- resources
+- restrictions
+- rico
+- roads
+- rural
+- samoa
+- scholarships
+- school
+- schools
+- science
+- seals
+- seamen
+- search
+- secondary
+- security
+- seizures
+- sewage
+- sex
+- shelf
+- signs
+- small
+- species
+- standards
+- state
+- student
+- students
+- study
+- subjects
+- substances
+- sugar
+- supply
+- surety
+- symbols
+- taxes
+- teachers
+- technology
+- telecommunications
+- telephone
+- territory
+- terrorism
+- testing
+- threatened
+- trade
+- trademarks
+- traffic
+- training
+- travel
+- treaties
+- treatment
+- trust
+- unions
+- universities
+- urban
+- utilities
+- vehicles
+- vessels
+- veterans
+- virgin
+- visas
+- vocational
+- volunteers
+- wake
+- warehouses
+- warrants
+- waste
+- watersheds
+- waterways
+- wheat
+- whistleblowing
+- wine
+- women
+- wool
+- zone
+- zones
 name: Department of Homeland Security
 phone: 202-343-1743
 public_liaison:

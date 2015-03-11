@@ -10,10 +10,7 @@ departments:
     zip: '20220'
   fax: 202-622-3895
   keywords:
-  - Courts
-  - Freedom of information
-  - Government employees
-  - Privacy
+  - courts
   misc:
     Director, Disclosure Services:
       name: Ryan Law
@@ -50,60 +47,70 @@ departments:
   - ttbfoia@ttb.gov
   fax: 202-453-2331
   keywords:
-  - Administrative practice and procedure
-  - Advertising
-  - Aircraft
-  - Alcohol and alcoholic beverages
-  - Armed forces
-  - Arms and munitions
-  - Authority delegations (Government agencies)
-  - Beer
-  - Caribbean Basin initiative
-  - Chemicals
-  - Cigars and cigarettes
-  - Claims
-  - Consumer protection
-  - Cosmetics
-  - Credit
-  - Customs duties and inspection
-  - Domestic violence
-  - Drugs
-  - Electronic funds transfers
-  - Excise taxes
-  - Explosives
-  - Exports
-  - Food additives
-  - Foreign trade zones
-  - Freedom of information
-  - Fruit juices
-  - Fruits
-  - Gasohol
-  - Health
-  - Imports
-  - Labeling
-  - Law enforcement
-  - Liquors
-  - Military personnel
-  - Packaging and containers
-  - Penalties
-  - Puerto Rico
-  - Reporting and recordkeeping requirements
-  - Research
-  - Safety
-  - Scientific equipment
-  - Security measures
-  - Seizures and forfeitures
-  - Spices and flavorings
-  - Stills
-  - Surety bonds
-  - Tobacco
-  - Trade practices
-  - Transportation
-  - Vessels
-  - Vinegar
-  - Virgin Islands
-  - Warehouses
-  - Wine
+  - additives
+  - advertising
+  - aircraft
+  - alcohol
+  - alcoholic
+  - armed
+  - arms
+  - authority
+  - basin
+  - beer
+  - beverages
+  - caribbean
+  - chemicals
+  - cigarettes
+  - cigars
+  - consumer
+  - containers
+  - cosmetics
+  - customs
+  - delegations
+  - domestic
+  - drugs
+  - duties
+  - electronic
+  - equipment
+  - excise
+  - explosives
+  - exports
+  - flavorings
+  - food
+  - forces
+  - forfeitures
+  - fruit
+  - fruits
+  - funds
+  - gasohol
+  - imports
+  - initiative
+  - inspection
+  - juices
+  - labeling
+  - liquors
+  - measures
+  - military
+  - munitions
+  - packaging
+  - personnel
+  - practices
+  - puerto
+  - rico
+  - scientific
+  - seizures
+  - spices
+  - stills
+  - surety
+  - tobacco
+  - trade
+  - transfers
+  - vinegar
+  - violence
+  - virgin
+  - warehouses
+  - wine
+  - zones
   misc:
     FOIA Contact, Disclosure Services:
       name: Quinton Mason
@@ -137,7 +144,7 @@ departments:
     amounts of currency and coin are in circulation.
   fax: 202-874-2951
   keywords:
-  - Currency
+  - currency
   misc:
     FOIA Contact, FOIA Office:
       name: Disclosure Officer
@@ -173,78 +180,75 @@ departments:
   emails:
   - foia-pa@occ.treas.gov
   keywords:
-  - Accountants
-  - Accounting
-  - Administrative practice and procedure
-  - Advertising
-  - Aged
-  - Agriculture
-  - Antitrust
-  - Authority delegations (Government agencies)
-  - Bank deposit insurance
-  - Brokers
-  - Business and industry
-  - Civil rights
-  - Claims
-  - Community development
-  - Computer technology
-  - Confidential business information
-  - Conflict of interests
-  - Consumer protection
-  - Credit
-  - Credit unions
-  - Crime
-  - Currency
-  - Electronic funds transfers
-  - Equal access to justice
-  - Equal employment opportunity
-  - Estates
-  - Ethics
-  - Exports
-  - Fair housing
-  - Federal Reserve System
-  - Flood insurance
-  - Foreign banking
-  - Foreign currencies
-  - Foreign trade
-  - Freedom of information
-  - Gambling
-  - Government securities
-  - Holding companies
-  - Individuals with disabilities
-  - Insurance
-  - Insurance companies
-  - Investigations
-  - Investment companies
-  - Investments
-  - Law enforcement
-  - Lawyers
-  - Loan programs-housing and community development
-  - Low and moderate income housing
-  - Manufactured homes
-  - Marital status discrimination
-  - Minority businesses
-  - Mortgages
-  - National banks
-  - Nonprofit organizations
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Privacy
-  - Religious discrimination
-  - Reporting and recordkeeping requirements
-  - Rural areas
-  - Savings associations
-  - Securities
-  - Security measures
-  - Sex discrimination
-  - Signs and symbols
-  - Small businesses
-  - Surety bonds
-  - Trade practices
-  - Trusts and trustees
-  - Truth in lending
-  - United States investments abroad
-  - Women
+  - abroad
+  - access
+  - accountants
+  - advertising
+  - antitrust
+  - associations
+  - authority
+  - bank
+  - banking
+  - banks
+  - brokers
+  - businesses
+  - companies
+  - computer
+  - confidential
+  - consumer
+  - credit
+  - crime
+  - currencies
+  - currency
+  - delegations
+  - deposit
+  - discrimination
+  - electronic
+  - estates
+  - ethics
+  - exports
+  - fair
+  - flood
+  - funds
+  - gambling
+  - holding
+  - homes
+  - housing
+  - investment
+  - investments
+  - justice
+  - lawyers
+  - lending
+  - low
+  - manufactured
+  - marital
+  - measures
+  - minority
+  - moderate
+  - mortgages
+  - nonprofit
+  - practices
+  - religious
+  - reserve
+  - rural
+  - savings
+  - securities
+  - sex
+  - signs
+  - small
+  - states
+  - status
+  - surety
+  - symbols
+  - system
+  - trade
+  - transfers
+  - trustees
+  - trusts
+  - truth
+  - unions
+  - united
+  - women
   misc:
     ? 'Disclosures Services
 
@@ -280,21 +284,17 @@ departments:
     authorities.
   fax: 703-905-5126
   keywords:
-  - Administrative practice and procedure
-  - Authority delegations (Government agencies)
-  - Brokers
-  - Currency
-  - Federal home loan banks
-  - Foreign banking
-  - Foreign currencies
-  - Gambling
-  - Investigations
-  - Law enforcement
-  - Mortgages
-  - Penalties
-  - Reporting and recordkeeping requirements
-  - Securities
-  - Terrorism
+  - authority
+  - banking
+  - banks
+  - brokers
+  - currencies
+  - currency
+  - delegations
+  - gambling
+  - home
+  - mortgages
+  - terrorism
   misc:
     Disclosure (FOIA) Office:
       name: Amanda Michanczyk
@@ -326,68 +326,59 @@ departments:
     zip: '20227'
   fax: 202-874-2391
   keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Aged
-  - Air traffic controllers
-  - Alcoholism
-  - Alimony
-  - Archives and records
-  - Black lung benefits
-  - Blind
-  - Bonds
-  - Cemeteries
-  - Child support
-  - Child welfare
-  - Claims
-  - Courts
-  - Credit
-  - Crime
-  - Disability benefits
-  - Drug abuse
-  - Electronic funds transfers
-  - Federal Reserve System
-  - Firefighters
-  - Flags
-  - Foreign banking
-  - Forgery
-  - Fraud
-  - Freedom of information
-  - Government contracts
-  - Government employees
-  - Government property
-  - Government securities
-  - Grant programs
-  - Housing
-  - Income taxes
-  - Insurance
-  - Insurance companies
-  - Intergovernmental relations
-  - Inventions and patents
-  - Investigations
-  - Law enforcement officers
-  - Loan programs
-  - Medicaid
-  - Parking
-  - Penalties
-  - Privacy
-  - Railroad retirement
-  - Railroad unemployment insurance
-  - Reporting and recordkeeping requirements
-  - Retirement
-  - Seals and insignia
-  - Securities
-  - Security measures
-  - Social security
-  - Supplemental Security Income (SSI)
-  - Surety bonds
-  - Taxes
-  - Travel and transportation expenses
-  - Treaties
-  - Unemployment compensation
-  - Veterans
-  - Vocational rehabilitation
-  - Wages
+  - alcoholism
+  - alimony
+  - archives
+  - banking
+  - benefits
+  - black
+  - blind
+  - bonds
+  - cemeteries
+  - child
+  - companies
+  - compensation
+  - controllers
+  - courts
+  - crime
+  - disability
+  - electronic
+  - expenses
+  - firefighters
+  - flags
+  - forgery
+  - fraud
+  - funds
+  - income
+  - insignia
+  - inventions
+  - lung
+  - measures
+  - medicaid
+  - officers
+  - parking
+  - patents
+  - railroad
+  - rehabilitation
+  - reserve
+  - retirement
+  - seals
+  - securities
+  - security
+  - social
+  - ssi
+  - supplemental
+  - support
+  - surety
+  - system
+  - taxes
+  - traffic
+  - transfers
+  - travel
+  - treaties
+  - unemployment
+  - veterans
+  - welfare
   misc:
     Disclosure Officer:
       name: Cynthia Sydnor/Denise Nelson
@@ -418,71 +409,62 @@ departments:
     tax laws.
   fax: 877-807-9215
   keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Advertising
-  - Advisory committees
-  - Alimony
-  - Bankruptcy
-  - Biologics
-  - Bonds
-  - Brokers
-  - Campaign funds
-  - Child support
-  - Consumer protection
-  - Continental shelf
-  - Courts
-  - Crime
-  - Drugs
-  - Employee benefit plans
-  - Employment taxes
-  - Estate taxes
-  - Excise taxes
-  - Fishing vessels
-  - Foreign relations
-  - Foundations
-  - Freedom of information
-  - Gambling
-  - Gasoline
-  - Gift taxes
-  - Government employees
-  - Grant programs-health
-  - Health care
-  - Health insurance
-  - Health records
-  - Hospitals
-  - Income taxes
-  - Individuals with disabilities
-  - Insurance
-  - Investigations
-  - Investments
-  - Law enforcement
-  - Loan programs-health
-  - Lobbying
-  - Medicaid
-  - Motor vehicles
-  - Nonprofit organizations
-  - Oil pollution
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Privacy
-  - Public assistance programs
-  - Railroad retirement
-  - Reporting and recordkeeping requirements
-  - Seals and insignia
-  - Securities
-  - Social security
-  - State and local governments
-  - Statistics
-  - Sunshine Act
-  - Taxes
-  - Technical assistance
-  - Telephone
-  - Transportation
-  - Trusts and trustees
-  - Unemployment compensation
-  - Women
-  - Youth
+  - act
+  - advertising
+  - advisory
+  - alimony
+  - bankruptcy
+  - benefit
+  - biologics
+  - brokers
+  - campaign
+  - care
+  - child
+  - committees
+  - compensation
+  - consumer
+  - continental
+  - courts
+  - crime
+  - drugs
+  - employee
+  - estate
+  - excise
+  - fishing
+  - foundations
+  - funds
+  - gambling
+  - gasoline
+  - gift
+  - governments
+  - hospitals
+  - insignia
+  - investments
+  - lobbying
+  - local
+  - medicaid
+  - nonprofit
+  - oil
+  - plans
+  - programs-health
+  - railroad
+  - retirement
+  - seals
+  - shelf
+  - social
+  - state
+  - statistics
+  - sunshine
+  - support
+  - taxes
+  - technical
+  - telephone
+  - trustees
+  - trusts
+  - unemployment
+  - vehicles
+  - women
+  - youth
   misc:
     FOIA Contact:
       name: Disclosure Manager
@@ -571,315 +553,344 @@ description: The Department of the Treasury manages Federal finances by collecti
   taxes and paying bills and by managing currency, government accounts and public
   debt. The Department of the Treasury also enforces finance and tax laws.
 keywords:
-- Accountants
-- Accounting
-- Administrative practice and procedure
-- Adult education
-- Advertising
-- Advisory committees
-- Afghanistan
-- Aged
-- Agricultural commodities
-- Agriculture
-- Air carriers
-- Air pollution control
-- Air traffic controllers
-- Air transportation
-- Aircraft
-- Airports
-- Alcohol and alcoholic beverages
-- Alcoholism
-- Aliens
-- Alimony
-- American Samoa
-- Animals
-- Antidumping
-- Antitrust
-- Archives and records
-- Armed forces
-- Arms and munitions
-- Arson
-- Authority delegations (Government agencies)
-- Bank deposit insurance
-- Bankruptcy
-- Beer
-- Biologics
-- Black lung benefits
-- Blind
-- Blocking of assets
-- Bonds
-- Broadband
-- Brokers
-- Buildings and facilities
-- Burma
-- Business and industry
-- Cambodia
-- Campaign funds
-- Canada
-- Cargo vessels
-- Caribbean Basin initiative
-- Cemeteries
-- Chemicals
-- Child support
-- Child welfare
-- Cigars and cigarettes
-- Civil rights
-- Claims
-- Classified information
-- Coastal zone
-- Colleges and universities
-- Commodity futures
-- Common carriers
-- Communications
-- Community development
-- Computer technology
-- Confidential business information
-- Conflict of interests
-- Consumer protection
-- Continental shelf
-- Copyright
-- Cosmetics
-- Countervailing duties
-- Courts
-- Credit
-- Credit unions
-- Crime
-- Cuba
-- Cultural exchange programs
-- Currency
-- Customs duties and inspection
-- Diamonds
-- Disability benefits
-- Disaster assistance
-- Domestic violence
-- Drug abuse
-- Drug traffic control
-- Drugs
-- Education
-- Education of disadvantaged
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Electric power
-- Electric power rates
-- Electric utilities
-- Electronic funds transfers
-- Electronic products
-- Elementary and secondary education
-- Employee benefit plans
-- Employment
-- Employment taxes
-- Equal access to justice
-- Equal educational opportunity
-- Equal employment opportunity
-- Estate taxes
-- Estates
-- Ethics
-- Excise taxes
-- Explosives
-- Exports
-- Fair housing
-- Federal Reserve System
-- Federal home loan banks
-- Federally affected areas
-- Firefighters
-- Fisheries
-- Fishing vessels
-- Flags
-- Flood insurance
-- Food additives
-- Foods
-- Foreign banking
-- Foreign claims
-- Foreign currencies
-- Foreign investments in United States
-- Foreign relations
-- Foreign trade
-- Foreign trade zones
-- Forgery
-- Foundations
-- Fraud
-- Freedom of information
-- Freight
-- Freight forwarders
-- Fruit juices
-- Fruits
-- Furs
-- Gambling
-- Gasohol
-- Gasoline
-- Gift taxes
-- Government contracts
-- Government employees
-- Government procurement
-- Government property
-- Government securities
-- Grant programs
-- Grant programs-education
-- Grant programs-health
-- Grant programs-housing and community development
-- Grant programs-social programs
-- Guam
-- Harbors
-- Hazardous substances
-- Health
-- Health care
-- Health facilities
-- Health insurance
-- Health professions
-- Health records
-- Holding companies
-- Home improvement
-- Homeless
-- Hospitals
-- Housing
-- Human research subjects
-- Humanitarian aid
-- Immigration
-- Imports
-- Income taxes
-- Indians
-- Indians-education
-- Individuals with disabilities
-- Insurance
-- Insurance companies
-- Intergovernmental relations
-- International organizations
-- Inventions and patents
-- Investigations
-- Investment companies
-- Investments
-- Iran
-- Iraq
-- Labeling
-- Laboratories
-- Law enforcement
-- Law enforcement officers
-- Lawyers
-- Lebanon
-- Liberia
-- Libya
-- Liquors
-- Loan programs
-- Loan programs-agriculture
-- Loan programs-communications
-- Loan programs-energy
-- Loan programs-health
-- Loan programs-housing and community development
-- Lobbying
-- Low and moderate income housing
-- Manpower training programs
-- Manufactured homes
-- Marine resources
-- Marital status discrimination
-- Maritime carriers
-- Medicaid
-- Medical devices
-- Mexico
-- Midway Islands
-- Migrant labor
-- Military personnel
-- Minority businesses
-- Mortgage insurance
-- Mortgages
-- Motor carriers
-- Motor vehicles
-- National banks
-- National defense
-- Natural resources
-- New Investment
-- Nonprofit organizations
-- Northern Mariana Islands
-- Nuclear materials
-- Oil imports
-- Oil pollution
-- Organization and functions (Government agencies)
-- Pacific Islands Trust Territory
-- Packaging and containers
-- Parking
-- Passenger vessels
-- Penalties
-- Petroleum
-- Privacy
-- Private schools
-- Public assistance programs
-- Puerto Rico
-- Railroad retirement
-- Railroad unemployment insurance
-- Railroads
-- Religious discrimination
-- Reporting and recordkeeping requirements
-- Research
-- Retirement
-- Rural areas
-- Russian Federation
-- Safety
-- Savings associations
-- Scholarships and fellowships
-- School construction
-- Schools
-- Science and technology
-- Scientific equipment
-- Seals and insignia
-- Securities
-- Security measures
-- Seizures and forfeitures
-- Services
-- Sex discrimination
-- Signs and symbols
-- Small businesses
-- Social security
-- Specially Designated Nationals
-- Spices and flavorings
-- State and local governments
-- Statistics
-- Stills
-- Student aid
-- Sudan
-- Sunshine Act
-- Supplemental Security Income (SSI)
-- Surety bonds
-- Taxes
-- Teachers
-- Technical assistance
-- Telecommunications
-- Telephone
-- Terrorism
-- Tobacco
-- Trade agreements
-- Trade practices
-- Trademarks
-- Transportation
-- Travel and transportation expenses
-- Travel restrictions
-- Treaties
-- Trusts and trustees
-- Truth in lending
-- Unemployment compensation
-- United States investments abroad
-- Uranium
-- Urban areas
-- Vessels
-- Veterans
-- Vietnam
-- Vinegar
-- Virgin Islands
-- Vocational education
-- Vocational rehabilitation
-- Wages
-- Wake Island
-- Warehouses
-- Waste treatment and disposal
-- Water pollution control
-- Water resources
-- Water supply
-- Watersheds
-- Western Balkans
-- Wildlife
-- Wine
-- Women
-- Youth
-- Yugoslavia
+- abroad
+- access
+- accountants
+- act
+- additives
+- adult
+- advertising
+- advisory
+- affected
+- afghanistan
+- agreements
+- agricultural
+- aid
+- air
+- aircraft
+- airports
+- alcohol
+- alcoholic
+- alcoholism
+- aliens
+- alimony
+- american
+- animals
+- antidumping
+- antitrust
+- archives
+- armed
+- arms
+- arson
+- assets
+- assistance
+- associations
+- authority
+- balkans
+- bank
+- banking
+- bankruptcy
+- banks
+- basin
+- beer
+- benefit
+- benefits
+- beverages
+- biologics
+- black
+- blind
+- blocking
+- bonds
+- broadband
+- brokers
+- burma
+- businesses
+- cambodia
+- campaign
+- canada
+- care
+- cargo
+- caribbean
+- carriers
+- cemeteries
+- chemicals
+- child
+- cigarettes
+- cigars
+- classified
+- coastal
+- colleges
+- committees
+- commodities
+- commodity
+- common
+- companies
+- compensation
+- computer
+- confidential
+- construction
+- consumer
+- containers
+- continental
+- control
+- controllers
+- copyright
+- cosmetics
+- countervailing
+- courts
+- credit
+- crime
+- cuba
+- cultural
+- currencies
+- currency
+- customs
+- defense
+- delegations
+- deposit
+- designated
+- devices
+- diamonds
+- disability
+- disadvantaged
+- disaster
+- discrimination
+- disposal
+- domestic
+- drug
+- drugs
+- duties
+- electronic
+- elementary
+- employee
+- equipment
+- estate
+- estates
+- ethics
+- exchange
+- excise
+- expenses
+- explosives
+- exports
+- fair
+- federal
+- federally
+- federation
+- fellowships
+- firefighters
+- fisheries
+- fishing
+- flags
+- flavorings
+- flood
+- food
+- foods
+- forces
+- foreign
+- forfeitures
+- forgery
+- forwarders
+- foundations
+- fraud
+- freight
+- fruit
+- fruits
+- funds
+- furs
+- futures
+- gambling
+- gasohol
+- gasoline
+- gift
+- governments
+- guam
+- harbors
+- hazardous
+- holding
+- home
+- homeless
+- homes
+- hospitals
+- housing
+- human
+- humanitarian
+- immigration
+- imports
+- improvement
+- income
+- indians-education
+- initiative
+- insignia
+- inspection
+- international
+- inventions
+- investment
+- investments
+- iran
+- iraq
+- island
+- juices
+- justice
+- labeling
+- laboratories
+- lawyers
+- lebanon
+- lending
+- liberia
+- libya
+- liquors
+- lobbying
+- local
+- low
+- lung
+- manpower
+- manufactured
+- mariana
+- marine
+- marital
+- maritime
+- materials
+- measures
+- medicaid
+- medical
+- mexico
+- midway
+- migrant
+- military
+- minority
+- moderate
+- mortgage
+- mortgages
+- motor
+- munitions
+- national
+- nationals
+- natural
+- new
+- nonprofit
+- northern
+- nuclear
+- officers
+- oil
+- pacific
+- packaging
+- parking
+- passenger
+- patents
+- personnel
+- petroleum
+- plans
+- pollution
+- practices
+- private
+- procurement
+- programs-agriculture
+- programs-communications
+- programs-education
+- programs-energy
+- programs-health
+- programs-housing
+- programs-social
+- puerto
+- railroad
+- railroads
+- rates
+- records
+- rehabilitation
+- religious
+- reserve
+- resources
+- restrictions
+- retirement
+- rico
+- rural
+- russian
+- samoa
+- savings
+- scholarships
+- school
+- schools
+- science
+- scientific
+- seals
+- secondary
+- securities
+- security
+- seizures
+- services
+- sex
+- shelf
+- signs
+- small
+- social
+- specially
+- spices
+- ssi
+- state
+- states
+- statistics
+- status
+- stills
+- student
+- study
+- subjects
+- substances
+- sudan
+- sunshine
+- supplemental
+- supply
+- support
+- surety
+- symbols
+- system
+- taxes
+- teachers
+- technical
+- technology
+- telecommunications
+- telephone
+- territory
+- terrorism
+- tobacco
+- trade
+- trademarks
+- traffic
+- training
+- transfers
+- travel
+- treaties
+- treatment
+- trust
+- trustees
+- trusts
+- truth
+- unemployment
+- unions
+- united
+- universities
+- uranium
+- urban
+- utilities
+- vehicles
+- vessels
+- veterans
+- vietnam
+- vinegar
+- violence
+- virgin
+- vocational
+- wake
+- warehouses
+- waste
+- watersheds
+- welfare
+- western
+- wildlife
+- wine
+- women
+- youth
+- yugoslavia
+- zone
+- zones
 name: Department of the Treasury
 usa_id: '49034'

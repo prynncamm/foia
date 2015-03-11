@@ -123,88 +123,77 @@ description: An independent federal agency reporting to Congress, the Federal Co
   radio, television, satellite and wire. The goal of the Commission is to promote
   connectivity and ensure a robust and competitive market.
 keywords:
-- Accounting
-- Administrative practice and procedure
-- Advertising
-- Advisory committees
-- Air transportation
-- Airports
-- Alaska
-- Authority delegations (Government agencies)
-- Aviation safety
-- Broadband
-- Business and industry
-- Cable television
-- Civil defense
-- Civil rights
-- Claims
-- Classified information
-- Common carriers
-- Communications
-- Communications common carriers
-- Communications equipment
-- Computer technology
-- Conflict of interests
-- Consumer protection
-- Cuba
-- Defense communications
-- Disaster assistance
-- Drug abuse
-- Education
-- Emergency medical services
-- Environmental impact statements
-- Equal access to justice
-- Equal employment opportunity
-- Federal Communications Commission
-- Federal buildings and facilities
-- Foreign relations
-- Fraud
-- Freedom of information
-- Government employees
-- Government publications
-- Great Lakes
-- Health facilities
-- Household appliances
-- Imports
-- Income taxes
-- Indemnity payments
-- Individuals with disabilities
-- Intergovernmental relations
-- Investigations
-- Labeling
-- Lawyers
-- Libraries
-- Marine safety
-- Medical devices
-- Metric system
-- Mexico
-- Organization and functions (Government agencies)
-- Penalties
-- Political candidates
-- Postal Service
-- Privacy
-- Puerto Rico
-- Radio
-- Recordings
-- Reporting and recordkeeping requirements
-- Research
-- Rural areas
-- Satellites
-- Schools
-- Scientific equipment
-- Securities
-- Security measures
-- Sunshine Act
-- Telecommunications
-- Telegraph
-- Telephone
-- Television
-- Uniform System of Accounts
-- Vessels
-- Volunteers
-- Wages
-- Weather
-- Wiretapping and electronic surveillance
+- access
+- accounts
+- act
+- advertising
+- advisory
+- airports
+- alaska
+- appliances
+- authority
+- aviation
+- broadband
+- cable
+- candidates
+- carriers
+- classified
+- commission
+- committees
+- common
+- communications
+- computer
+- consumer
+- cuba
+- defense
+- delegations
+- devices
+- disaster
+- electronic
+- emergency
+- equipment
+- federal
+- fraud
+- great
+- household
+- impact
+- imports
+- indemnity
+- justice
+- labeling
+- lakes
+- lawyers
+- libraries
+- marine
+- measures
+- medical
+- metric
+- mexico
+- payments
+- political
+- postal
+- publications
+- puerto
+- radio
+- recordings
+- rico
+- rural
+- satellites
+- scientific
+- service
+- services
+- statements
+- sunshine
+- surveillance
+- system
+- telecommunications
+- telegraph
+- telephone
+- television
+- uniform
+- volunteers
+- weather
+- wiretapping
 name: Federal Communications Commission
 request_time_stats:
   '2008':

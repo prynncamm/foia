@@ -128,52 +128,44 @@ departments:
 description: The Railroad Retirement Board administers retirement and survivor, unemployment
   and sickness benefits for U.S. railroad workers and their families.
 keywords:
-- Administrative practice and procedure
-- Aged
-- Air traffic controllers
-- Alcoholism
-- Alimony
-- Archives and records
-- Blind
-- Cemeteries
-- Child support
-- Claims
-- Courts
-- Crime
-- Disability benefits
-- Drug abuse
-- Firefighters
-- Flags
-- Freedom of information
-- Government contracts
-- Government employees
-- Government property
-- Income taxes
-- Insurance
-- Intergovernmental relations
-- Inventions and patents
-- Investigations
-- Law enforcement officers
-- Medicaid
-- Organization and functions (Government agencies)
-- Parking
-- Penalties
-- Privacy
-- Railroad employees
-- Railroad retirement
-- Railroad unemployment insurance
-- Reporting and recordkeeping requirements
-- Retirement
-- Seals and insignia
-- Security measures
-- Social security
-- Sunshine Act
-- Supplemental Security Income (SSI)
-- Travel and transportation expenses
-- Treaties
-- Veterans
-- Vocational rehabilitation
-- Wages
+- act
+- alcoholism
+- alimony
+- archives
+- benefits
+- blind
+- cemeteries
+- child
+- controllers
+- courts
+- crime
+- disability
+- expenses
+- firefighters
+- flags
+- income
+- insignia
+- inventions
+- measures
+- medicaid
+- officers
+- parking
+- patents
+- railroad
+- rehabilitation
+- retirement
+- seals
+- security
+- social
+- ssi
+- sunshine
+- supplemental
+- support
+- traffic
+- travel
+- treaties
+- unemployment
+- veterans
 name: Railroad Retirement Board
 request_form: https://secure.rrb.gov/efoia/
 usa_id: '52657'

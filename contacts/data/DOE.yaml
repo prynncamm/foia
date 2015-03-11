@@ -1160,11 +1160,9 @@ departments:
     phone:
     - 720-962-7010
   keywords:
-  - Electric power
-  - Electric utilities
-  - Energy
-  - Energy conservation
-  - Reporting and recordkeeping requirements
+  - conservation
+  - energy
+  - utilities
   name: Western Area Power Administration
   phone: 720-962-7010
   public_liaison:
@@ -1387,199 +1385,189 @@ description: The Department of Energy manages the United States' nuclear infrast
   and administers the country's energy policy. The Department of Energy also funds
   scientific research in the field.
 keywords:
-- Accounting
-- Administrative practice and procedure
-- Adult education
-- Aged
-- Agriculture
-- Air transportation
-- Aircraft
-- Airports
-- Alaska
-- Alcohol abuse
-- American Samoa
-- Antitrust
-- Authority delegations (Government agencies)
-- Beryllium
-- Blind
-- Broadband
-- Buildings and facilities
-- Business and industry
-- Civil defense
-- Civil rights
-- Claims
-- Classified information
-- Colleges and universities
-- Communications
-- Community development
-- Conduct standards
-- Confidential business information
-- Conflict of interests
-- Continental shelf
-- Copyright
-- Credit
-- Cultural exchange programs
-- Dams
-- Drug abuse
-- Drug testing
-- Education
-- Education of disadvantaged
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Electric power
-- Electric power plants
-- Electric power rates
-- Electric utilities
-- Elementary and secondary education
-- Employment
-- Energy
-- Energy conservation
-- Engineers
-- Environmental impact statements
-- Environmental protection
-- Equal access to justice
-- Equal educational opportunity
-- Equal employment opportunity
-- Exports
-- Federal buildings and facilities
-- Federally affected areas
-- Flood plains
-- Foreign relations
-- Fraud
-- Freedom of information
-- Fuel economy
-- Gases
-- Gasoline
-- Government contracts
-- Government employees
-- Government procurement
-- Government property
-- Government property management
-- Grant programs
-- Grant programs-education
-- Grant programs-energy
-- Grant programs-health
-- Grant programs-housing and community development
-- Grant programs-social programs
-- Guam
-- Hazardous materials transportation
-- Hazardous substances
-- Health
-- Health facilities
-- Health insurance
-- Health professions
-- Highways and roads
-- Historic preservation
-- Home improvement
-- Homeless
-- Hospitals
-- Hostages
-- Household appliances
-- Housing
-- Housing standards
-- Human research subjects
-- Imports
-- Income taxes
-- Indians
-- Indians-education
-- Indians-lands
-- Individuals with disabilities
-- Insurance
-- Intergovernmental relations
-- International organizations
-- Inventions and patents
-- Investigations
-- Iraq
-- Kuwait
-- Law enforcement
-- Lawyers
-- Lebanon
-- Legal services
-- Lie detector tests
-- Livestock
-- Loan programs
-- Loan programs-agriculture
-- Loan programs-communications
-- Loan programs-energy
-- Loan programs-housing and community development
-- Lobbying
-- Lung diseases
-- Manpower training programs
-- Marital status discrimination
-- Maritime carriers
-- Mass transportation
-- Medical research
-- Migrant labor
-- Mortgage insurance
-- Mortgages
-- Motor vehicles
-- National defense
-- Natural gas
-- Natural resources
-- Nonprofit organizations
-- Northern Mariana Islands
-- Nuclear energy
-- Nuclear materials
-- Nuclear power plants and reactors
-- Occupational safety and health
-- Oil and gas reserves
-- Organization and functions (Government agencies)
-- Pacific Islands Trust Territory
-- Penalties
-- Petroleum
-- Pipelines
-- Plutonium
-- Privacy
-- Private schools
-- Public health
-- Public lands
-- Radiation protection
-- Radioactive materials
-- Railroads
-- Reclamation
-- Religious discrimination
-- Reporting and recordkeeping requirements
-- Research
-- Rural areas
-- Safety
-- Scholarships and fellowships
-- School construction
-- Schools
-- Science and technology
-- Scientists
-- Seals and insignia
-- Securities
-- Security measures
-- Sex discrimination
-- Small businesses
-- Solar energy
-- State and local governments
-- Strategic and critical materials
-- Student aid
-- Sunshine Act
-- Teachers
-- Technical assistance
-- Telecommunications
-- Telephone
-- Traffic regulations
-- Treaties
-- Uniform System of Accounts
-- Uranium
-- Urban areas
-- Veterans
-- Virgin Islands
-- Vocational education
-- Vocational rehabilitation
-- Waste treatment and disposal
-- Water pollution control
-- Water resources
-- Water supply
-- Watersheds
-- Whistleblowing
-- Women
-- Workers' compensation
+- abuse
+- access
+- accounts
+- act
+- adult
+- affected
+- aid
+- aircraft
+- airports
+- alaska
+- alcohol
+- american
+- antitrust
+- appliances
+- authority
+- beryllium
+- blind
+- broadband
+- businesses
+- classified
+- colleges
+- compensation
+- conduct
+- confidential
+- conservation
+- construction
+- continental
+- copyright
+- critical
+- cultural
+- dams
+- defense
+- delegations
+- detector
+- disadvantaged
+- discrimination
+- diseases
+- disposal
+- drug
+- economy
+- elementary
+- energy
+- engineers
+- exchange
+- exports
+- federally
+- fellowships
+- flood
+- fraud
+- fuel
+- gas
+- gases
+- gasoline
+- governments
+- guam
+- hazardous
+- highways
+- historic
+- home
+- homeless
+- hospitals
+- hostages
+- household
+- housing
+- human
+- impact
+- imports
+- improvement
+- indians-education
+- indians-lands
+- insignia
+- international
+- inventions
+- iraq
+- justice
+- kuwait
+- lands
+- lawyers
+- lebanon
+- legal
+- lie
+- livestock
+- lobbying
+- local
+- lung
+- manpower
+- mariana
+- marital
+- maritime
+- mass
+- materials
+- measures
+- medical
+- migrant
+- mortgage
+- mortgages
+- natural
+- nonprofit
+- northern
+- nuclear
+- occupational
+- oil
+- pacific
+- patents
+- petroleum
+- pipelines
+- plains
+- plants
+- plutonium
+- power
+- preservation
+- private
+- procurement
+- programs-agriculture
+- programs-communications
+- programs-education
+- programs-energy
+- programs-housing
+- programs-social
+- public
+- radiation
+- radioactive
+- railroads
+- rates
+- reactors
+- reclamation
+- regulations
+- rehabilitation
+- religious
+- reserves
+- roads
+- rural
+- samoa
+- scholarships
+- school
+- schools
+- science
+- scientists
+- seals
+- secondary
+- services
+- sex
+- shelf
+- small
+- solar
+- standards
+- state
+- statements
+- status
+- strategic
+- student
+- study
+- subjects
+- substances
+- sunshine
+- supply
+- system
+- teachers
+- technical
+- telecommunications
+- telephone
+- territory
+- testing
+- tests
+- traffic
+- training
+- treaties
+- treatment
+- trust
+- uniform
+- universities
+- uranium
+- urban
+- utilities
+- vehicles
+- veterans
+- virgin
+- vocational
+- waste
+- watersheds
+- whistleblowing
+- women
+- workers'
 name: Department of Energy
 request_time_stats:
   '2008':

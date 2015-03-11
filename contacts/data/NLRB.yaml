@@ -85,12 +85,7 @@ description: 'The National Labor Relations Board enforces the National Labor Rel
   Act by: investigating allegations of wrong-doing brought by workers, unions, or
   employers; conducting elections; and deciding and resolving cases.'
 keywords:
-- Administrative practice and procedure
-- Freedom of information
-- Labor management relations
-- Labor unions
-- Privacy
-- Reporting and recordkeeping requirements
+- unions
 name: National Labor Relations Board
 request_time_stats:
   '2010':

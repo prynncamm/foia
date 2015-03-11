@@ -76,24 +76,21 @@ departments:
 description: The Federal Retirement Thrift Investment Board administers the Thrift
   Savings Plan, a tax-deferred retirement account similar to a 401(k).
 keywords:
-- Administrative practice and procedure
-- Alimony
-- Child support
-- Claims
-- Courts
-- Credit
-- District of Columbia
-- Employee benefit plans
-- Freedom of information
-- Government employees
-- Income taxes
-- Military personnel
-- Privacy
-- Reporting and recordkeeping requirements
-- Retirement
-- Sunshine Act
-- Taxes
-- Wages
+- act
+- alimony
+- benefit
+- child
+- columbia
+- courts
+- district
+- employee
+- military
+- personnel
+- plans
+- retirement
+- sunshine
+- support
+- taxes
 name: Federal Retirement Thrift Investment Board
 request_time_stats:
   '2010':

@@ -82,10 +82,8 @@ departments:
 description: Under the Executive Office of the President, the U.S. Trade Representative
   negotiates with foreign governments to craft trade agreements and resolve disputes.
 keywords:
-- Administrative practice and procedure
-- Confidential business information
-- Foreign trade
-- Imports
+- confidential
+- imports
 name: Office of the United States Trade Representative
 request_time_stats:
   '2010':

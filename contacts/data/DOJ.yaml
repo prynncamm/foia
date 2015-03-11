@@ -433,71 +433,79 @@ departments:
   - foiamail@atf.gov
   fax: 202-648-9619
   keywords:
-  - Administrative practice and procedure
-  - Advertising
-  - Aircraft
-  - Alcohol and alcoholic beverages
-  - Antitrust
-  - Armed forces
-  - Arms and munitions
-  - Arson
-  - Authority delegations (Government agencies)
-  - Bankruptcy
-  - Beer
-  - Caribbean Basin initiative
-  - Chemicals
-  - Cigars and cigarettes
-  - Claims
-  - Consumer protection
-  - Cosmetics
-  - Credit
-  - Customs duties and inspection
-  - Disaster assistance
-  - Domestic violence
-  - Drugs
-  - Electronic funds transfers
-  - Excise taxes
-  - Explosives
-  - Exports
-  - Food additives
-  - Foods
-  - Foreign trade zones
-  - Freedom of information
-  - Fruit juices
-  - Fruits
-  - Gasohol
-  - Government employees
-  - Hazardous substances
-  - Health
-  - Imports
-  - Intergovernmental relations
-  - Labeling
-  - Law enforcement
-  - Law enforcement officers
-  - Liquors
-  - Military personnel
-  - Packaging and containers
-  - Penalties
-  - Privacy
-  - Puerto Rico
-  - Reporting and recordkeeping requirements
-  - Research
-  - Safety
-  - Science and technology
-  - Scientific equipment
-  - Security measures
-  - Seizures and forfeitures
-  - Spices and flavorings
-  - Stills
-  - Surety bonds
-  - Tobacco
-  - Trade practices
-  - Transportation
-  - Vessels
-  - Vinegar
-  - Virgin Islands
-  - Warehouses
-  - Wine
+  - additives
+  - advertising
+  - aircraft
+  - alcohol
+  - alcoholic
+  - antitrust
+  - armed
+  - arms
+  - arson
+  - authority
+  - bankruptcy
+  - basin
+  - beer
+  - beverages
+  - caribbean
+  - chemicals
+  - cigarettes
+  - cigars
+  - consumer
+  - containers
+  - cosmetics
+  - customs
+  - delegations
+  - disaster
+  - domestic
+  - drugs
+  - duties
+  - electronic
+  - equipment
+  - excise
+  - explosives
+  - exports
+  - flavorings
+  - food
+  - foods
+  - forces
+  - forfeitures
+  - fruit
+  - fruits
+  - funds
+  - gasohol
+  - hazardous
+  - imports
+  - initiative
+  - inspection
+  - juices
+  - labeling
+  - liquors
+  - measures
+  - military
+  - munitions
+  - officers
+  - packaging
+  - personnel
+  - practices
+  - puerto
+  - rico
+  - science
+  - scientific
+  - seizures
+  - spices
+  - stills
+  - substances
+  - surety
+  - tobacco
+  - trade
+  - transfers
+  - vinegar
+  - violence
+  - virgin
+  - warehouses
+  - wine
+  - zones
   misc:
     Division Chief:
       name: Stephanie Boucher
@@ -920,30 +928,30 @@ departments:
   - dea.foia@usdoj.gov
   fax: 202-307-8556
   keywords:
-  - Administrative practice and procedure
-  - Arms and munitions
-  - Authority delegations (Government agencies)
-  - Chemicals
-  - Communications equipment
-  - Copyright
-  - Courts
-  - Crime
-  - Drug abuse
-  - Drug traffic control
-  - Exports
-  - Gambling
-  - Government employees
-  - Imports
-  - Motor vehicles
-  - Organization and functions (Government agencies)
-  - Prescription drugs
-  - Privacy
-  - Reporting and recordkeeping requirements
-  - Research
-  - Security measures
-  - Seizures and forfeitures
-  - Whistleblowing
-  - Wiretapping and electronic surveillance
+  - arms
+  - authority
+  - chemicals
+  - copyright
+  - courts
+  - crime
+  - delegations
+  - drug
+  - drugs
+  - electronic
+  - equipment
+  - exports
+  - forfeitures
+  - gambling
+  - imports
+  - measures
+  - munitions
+  - prescription
+  - seizures
+  - surveillance
+  - traffic
+  - vehicles
+  - whistleblowing
+  - wiretapping
   misc:
     Chief, Freedom of Information/Privacy Act Unit, FOI/Records Management Section:
       name: Katherine L. Myrick
@@ -1131,19 +1139,13 @@ departments:
   - EOIR.FOIARequests@usdoj.gov
   fax: 703-605-0570
   keywords:
-  - Administrative practice and procedure
-  - Aliens
-  - Citizenship and naturalization
-  - Civil rights
-  - Employment
-  - Equal employment opportunity
-  - Immigration
-  - Law enforcement
-  - Lawyers
-  - Legal services
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Reporting and recordkeeping requirements
+  - aliens
+  - citizenship
+  - immigration
+  - lawyers
+  - legal
+  - naturalization
+  - services
   misc:
     Senior Associate General Counsel, Office of the General Counsel:
       name: Cecelia Espenoza
@@ -1496,22 +1498,16 @@ departments:
   - foiparequest@ic.fbi.gov
   fax: 540-868-4997
   keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Classified information
-  - Computer technology
-  - Courts
-  - Crime
-  - Intergovernmental relations
-  - Investigations
-  - Law enforcement
-  - Law enforcement officers
-  - Penalties
-  - Privacy
-  - Reporting and recordkeeping requirements
-  - Security measures
-  - Telecommunications
-  - Wiretapping and electronic surveillance
+  - classified
+  - computer
+  - courts
+  - crime
+  - electronic
+  - measures
+  - officers
+  - surveillance
+  - telecommunications
+  - wiretapping
   misc:
     Chief, Record/Information Dissemination Section, Records Management Division:
       name: David M. Hardy
@@ -1628,12 +1624,10 @@ departments:
   emails:
   - ogc_efoia@bop.gov
   keywords:
-  - Administrative practice and procedure
-  - Claims
-  - Employment
-  - Lawyers
-  - Legal services
-  - Prisoners
+  - lawyers
+  - legal
+  - prisoners
+  - services
   misc:
     Chief, FOIA/PA Section:
       name: Wanda M. Hunt
@@ -2359,27 +2353,25 @@ departments:
   - FOIAOJP@usdoj.gov
   fax: 202-307-1419
   keywords:
-  - Administrative practice and procedure
-  - Claims
-  - Colleges and universities
-  - Crime
-  - Disability benefits
-  - Education
-  - Educational facilities
-  - Educational study programs
-  - Emergency medical services
-  - Firefighters
-  - Grant programs
-  - Grant programs-law
-  - Law enforcement
-  - Law enforcement officers
-  - Motor vehicle safety
-  - Motor vehicles
-  - Reporting and recordkeeping requirements
-  - Schools
-  - Student aid
-  - Transportation
-  - Victim compensation
+  - aid
+  - benefits
+  - colleges
+  - compensation
+  - crime
+  - disability
+  - emergency
+  - firefighters
+  - medical
+  - motor
+  - officers
+  - programs-law
+  - services
+  - student
+  - study
+  - universities
+  - vehicle
+  - vehicles
+  - victim
   misc:
     Government Information Specialist:
       name: Dorothy Lee
@@ -3507,9 +3499,9 @@ departments:
   emails:
   - USPC.FOIA@usdoj.gov
   keywords:
-  - Administrative practice and procedure
-  - Prisoners
-  - Probation and parole
+  - parole
+  - prisoners
+  - probation
   misc:
     FOIA/PA Specialist:
       name: Anissa Banks
@@ -3588,201 +3580,204 @@ emails:
 - MRUFOIA.Requests@usdoj.gov
 fax: 301-341-0772
 keywords:
-- Accounting
-- Administrative practice and procedure
-- Adult education
-- Aged
-- Agriculture
-- Air carriers
-- Aircraft
-- Airmen
-- Airports
-- Alcoholism
-- Aliens
-- American Samoa
-- Antitrust
-- Archives and records
-- Arms and munitions
-- Authority delegations (Government agencies)
-- Bankruptcy
-- Blind
-- Broadband
-- Brokers
-- Buildings and facilities
-- Business and industry
-- Cancer
-- Chemicals
-- Cigars and cigarettes
-- Citizenship and naturalization
-- Civil rights
-- Claims
-- Classified information
-- Clemency
-- Colleges and universities
-- Communications
-- Communications equipment
-- Community development
-- Computer technology
-- Consumer protection
-- Copyright
-- Courts
-- Credit
-- Crime
-- Cultural exchange programs
-- Customs duties and inspection
-- Disability benefits
-- Disaster assistance
-- Domestic violence
-- Drug abuse
-- Drug traffic control
-- Education
-- Education of disadvantaged
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Elections
-- Electric power
-- Electric power rates
-- Electric utilities
-- Elementary and secondary education
-- Emergency medical services
-- Employment
-- Environmental impact statements
-- Environmental protection
-- Equal educational opportunity
-- Equal employment opportunity
-- Ethics
-- Excise taxes
-- Explosives
-- Exports
-- Federal buildings and facilities
-- Federally affected areas
-- Firefighters
-- Foreign officials
-- Foreign relations
-- Fraud
-- Freedom of information
-- Gambling
-- Government contracts
-- Government employees
-- Government property
-- Government property management
-- Grant programs
-- Grant programs-education
-- Grant programs-health
-- Grant programs-law
-- Grant programs-social programs
-- Guam
-- Hazardous substances
-- Health care
-- Health facilities
-- Health insurance
-- Health professions
-- Highways and roads
-- Historic preservation
-- Home improvement
-- Homeless
-- Hospitals
-- Human research subjects
-- Immigration
-- Imports
-- Income taxes
-- Indians
-- Indians-education
-- Individuals with disabilities
-- Insurance
-- Intergovernmental relations
-- International organizations
-- Inventions and patents
-- Investigations
-- Justice Department
-- Juvenile delinquency
-- Labor
-- Law enforcement
-- Law enforcement officers
-- Lawyers
-- Legal services
-- Loan programs
-- Loan programs-agriculture
-- Loan programs-communications
-- Loan programs-energy
-- Loan programs-housing and community development
-- Manpower training programs
-- Maritime carriers
-- Mass transportation
-- Migrant labor
-- Military personnel
-- Mortgage insurance
-- Mortgages
-- Motor vehicle safety
-- Motor vehicles
-- Nonprofit organizations
-- Northern Mariana Islands
-- Organization and functions (Government agencies)
-- Pacific Islands Trust Territory
-- Packaging and containers
-- Passports and visas
-- Penalties
-- Political committees and parties
-- Prescription drugs
-- Prisoners
-- Prisons
-- Privacy
-- Private schools
-- Probation and parole
-- Radioactive materials
-- Railroads
-- Religious discrimination
-- Reporting and recordkeeping requirements
-- Research
-- Rural areas
-- Safety
-- Scholarships and fellowships
-- School construction
-- Schools
-- Science and technology
-- Scientific equipment
-- Seals and insignia
-- Search warrants
-- Securities
-- Security measures
-- Seizures and forfeitures
-- Sex discrimination
-- Small businesses
-- State and local governments
-- Student aid
-- Students
-- Sunshine Act
-- Surety bonds
-- Teachers
-- Technical assistance
-- Telecommunications
-- Telephone
-- Terrorism
-- Tobacco
-- Transportation
-- Treaties
-- Trusts and trustees
-- Underground mining
-- Uranium
-- Urban areas
-- Vessels
-- Veterans
-- Victim compensation
-- Virgin Islands
-- Vocational education
-- Vocational rehabilitation
-- Wages
-- Warehouses
-- Waste treatment and disposal
-- Water pollution control
-- Water resources
-- Water supply
-- Watersheds
-- Whistleblowing
-- Wiretapping and electronic surveillance
-- Women
+- act
+- adult
+- affected
+- aid
+- aircraft
+- airmen
+- airports
+- alcoholism
+- aliens
+- american
+- antitrust
+- archives
+- arms
+- authority
+- bankruptcy
+- benefits
+- blind
+- broadband
+- brokers
+- businesses
+- cancer
+- care
+- carriers
+- chemicals
+- cigarettes
+- cigars
+- citizenship
+- classified
+- clemency
+- colleges
+- committees
+- communications
+- compensation
+- computer
+- construction
+- consumer
+- containers
+- copyright
+- courts
+- crime
+- cultural
+- customs
+- delegations
+- delinquency
+- department
+- disability
+- disadvantaged
+- disaster
+- disposal
+- domestic
+- drug
+- drugs
+- duties
+- elections
+- electronic
+- elementary
+- emergency
+- equipment
+- ethics
+- exchange
+- excise
+- explosives
+- exports
+- federally
+- fellowships
+- firefighters
+- forfeitures
+- fraud
+- gambling
+- governments
+- guam
+- hazardous
+- highways
+- historic
+- home
+- homeless
+- hospitals
+- human
+- immigration
+- impact
+- imports
+- improvement
+- indians-education
+- insignia
+- inspection
+- international
+- inventions
+- justice
+- juvenile
+- lawyers
+- legal
+- local
+- manpower
+- mariana
+- maritime
+- mass
+- materials
+- measures
+- medical
+- migrant
+- military
+- mining
+- mortgage
+- mortgages
+- motor
+- munitions
+- naturalization
+- nonprofit
+- northern
+- officers
+- officials
+- pacific
+- packaging
+- parole
+- parties
+- passports
+- patents
+- personnel
+- political
+- prescription
+- preservation
+- prisoners
+- prisons
+- private
+- probation
+- programs-agriculture
+- programs-communications
+- programs-education
+- programs-energy
+- programs-law
+- programs-social
+- radioactive
+- railroads
+- rates
+- rehabilitation
+- religious
+- roads
+- rural
+- samoa
+- scholarships
+- school
+- schools
+- science
+- scientific
+- seals
+- search
+- secondary
+- seizures
+- services
+- sex
+- small
+- state
+- statements
+- student
+- students
+- study
+- subjects
+- substances
+- sunshine
+- supply
+- surety
+- surveillance
+- taxes
+- teachers
+- technical
+- technology
+- telecommunications
+- telephone
+- territory
+- terrorism
+- tobacco
+- traffic
+- training
+- treaties
+- treatment
+- trust
+- trustees
+- trusts
+- underground
+- universities
+- uranium
+- urban
+- utilities
+- vehicle
+- vehicles
+- veterans
+- victim
+- violence
+- virgin
+- visas
+- vocational
+- warehouses
+- warrants
+- waste
+- watersheds
+- whistleblowing
+- wiretapping
+- women
 name: Department of Justice
 phone: 301-583-7354
 public_liaison:

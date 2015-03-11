@@ -40,146 +40,153 @@ description: The General Services Administration manages federal property, inclu
   operating and maintaining buildings, supplies and transportation acquisition, and
   communications management.
 keywords:
-- Accounting
-- Administrative practice and procedure
-- Advisory committees
-- Aged
-- Agriculture
-- Aircraft
-- Airports
-- Antitrust
-- Architecture
-- Archives and records
-- Artwork in Government Buildings
-- Assisted Acquisition
-- Aviation safety
-- Blind
-- Building Maintenance Reports
-- Building Performance
-- Buildings and facilities
-- Child Care Centers
-- Civil rights
-- Claims
-- Colleges and universities
-- Computer technology
-- Concessions
-- Conflict of interests
-- Construction
-- Construction or Renovation Costs
-- Contract Task Orders
-- Contracts
-- Contractual Awards and selection
-- Courthouses
-- Crime
-- Donation Program
-- Education
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Elevator Service Reports
-- Energy Efficiency
-- Energy conservation
-- Equal educational opportunity
-- Equal employment opportunity
-- Federal Acquisition Regulation (FAR)
-- Federal Building Sales
-- Federal Buildings
-- Federal Management Regulation (FMR)
-- Federal Travel Regulation (FTR)
-- Federal buildings and facilities
-- Fire prevention
-- First Class/Premium Travel
-- Fleet Management
-- Foreign relations
-- Fraud
-- Freight
-- Freight forwarders
-- GSA Advantage Program
-- GSA Global Supply
-- GSA Multiple Award Schedule
-- GSA Pricing of goods and services offered
-- GSA Prospectus
-- GSA Schedules Program
-- GSA/Congressional and Intergovernmental Affairs Communications
-- GSA/Federal Government Per Diem Program
-- General Schedule Contracts
-- General Services Acquisition Manual (GSAM)
-- Government Purchase Card Program
-- Government Social Media
-- Government Travel Card Program
-- Government Travel Charge Cards
-- Government Travel Information - Premium Travel
-- Government contracts
-- Government employees
-- Government procurement
-- Government property
-- Government property management
-- Governmentwide Policies and Regulations
-- Governmentwide Policy and Regulation
-- Grant programs
-- Grant programs-education
-- Grant programs-social programs
-- Green Buildings
-- Health care
-- Health facilities
-- Health insurance
-- Health professions
-- Highways and roads
-- Historical Building Preservation
-- Homeless
-- Hostages
-- Incident/Accident Reports
-- Income taxes
-- Individuals with disabilities
-- Intergovernmental relations
-- Investigations
-- Iraq
-- Kuwait
-- LEED Certified Buildings
-- Land Port of Entry Construction/Modifications
-- Leased Vehicle Fleet
-- Lebanon
-- Loan programs
-- Mass transportation
-- Monuments - Historical Preservation
-- Motor vehicles
-- Moving of household goods
-- Occupational safety and health
-- Operation and Maintenance Costs
-- Owned Vehicle Fleet
-- Parking
-- Personal Property Management
-- Privacy
-- Procurement
-- Property Auction - Buildings/land/lighthouses
-- Property Disposal
-- Property Donation
-- Railroads
-- Real property acquisition
-- Religious discrimination
-- Renovation
-- Reporting and recordkeeping requirements
-- Security measures
-- Sex discrimination
-- Small Business
-- Small businesses
-- Student aid
-- Supply Auction
-- Surplus Government property
-- Taxes
-- Telecommunications
-- Transportation
-- Travel
-- Travel Program Information
-- Travel and transportation expenses
-- Utilities
-- Veterans
-- Wages
-- Women
-- federal contracts
-- government forms
-- purchase cards
+- '-'
+- acquisition
+- advantage
+- advisory
+- affairs
+- aid
+- aircraft
+- airports
+- antitrust
+- architecture
+- archives
+- artwork
+- assisted
+- auction
+- aviation
+- award
+- awards
+- blind
+- building
+- buildings
+- buildings/land/lighthouses
+- businesses
+- card
+- cards
+- care
+- centers
+- certified
+- charge
+- child
+- class/premium
+- colleges
+- committees
+- computer
+- concessions
+- conservation
+- construction
+- construction/modifications
+- contract
+- contracts
+- contractual
+- costs
+- courthouses
+- crime
+- diem
+- disposal
+- donation
+- efficiency
+- elevator
+- energy
+- entry
+- expenses
+- far
+- federal
+- fire
+- first
+- fleet
+- fmr
+- forms
+- forwarders
+- fraud
+- freight
+- ftr
+- general
+- global
+- goods
+- governmentwide
+- green
+- gsa
+- gsa/congressional
+- gsa/federal
+- gsam
+- highways
+- historical
+- homeless
+- hostages
+- household
+- incident/accident
+- intergovernmental
+- iraq
+- kuwait
+- land
+- leased
+- lebanon
+- leed
+- maintenance
+- management
+- manual
+- mass
+- measures
+- media
+- monuments
+- moving
+- multiple
+- occupational
+- offered
+- operation
+- orders
+- owned
+- parking
+- per
+- performance
+- personal
+- policies
+- policy
+- port
+- premium
+- preservation
+- prevention
+- pricing
+- procurement
+- program
+- programs-education
+- programs-social
+- property
+- prospectus
+- purchase
+- railroads
+- real
+- regulation
+- regulations
+- religious
+- renovation
+- reports
+- roads
+- sales
+- schedule
+- schedules
+- selection
+- service
+- services
+- sex
+- small
+- social
+- student
+- study
+- supply
+- surplus
+- task
+- taxes
+- telecommunications
+- travel
+- universities
+- utilities
+- vehicle
+- vehicles
+- veterans
+- women
 name: General Services Administration
 request_time_stats:
   '2008':

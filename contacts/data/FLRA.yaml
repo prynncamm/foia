@@ -816,11 +816,8 @@ emails:
 - solmail@flra.gov
 fax: 202-343-1007
 keywords:
-- Administrative practice and procedure
-- Conflict of interests
-- Equal access to justice
-- Government employees
-- Labor management relations
+- access
+- justice
 name: Federal Labor Relations Authority
 phone: 202-218-7770
 public_liaison:

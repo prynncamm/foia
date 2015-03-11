@@ -37,122 +37,102 @@ departments:
 description: The mission of the Department of Education is to foster educational excellence
   and to ensure equal access to educational opportunity for all.
 keywords:
-- Accounting
-- Administrative practice and procedure
-- Adult education
-- Aged
-- Agriculture
-- Aliens
-- American Samoa
-- Armed forces
-- Blind
-- Broadband
-- Business and industry
-- Civil rights
-- Claims
-- Classified information
-- Colleges and universities
-- Communications
-- Community development
-- Consumer protection
-- Copyright
-- Courts
-- Credit
-- Cultural exchange programs
-- Drug abuse
-- Education
-- Education Department
-- Education of disadvantaged
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Electric power
-- Electric power rates
-- Electric utilities
-- Elementary and secondary education
-- Employment
-- Equal educational opportunity
-- Equal employment opportunity
-- Federally affected areas
-- Foreign relations
-- Fraud
-- Freedom of information
-- Government contracts
-- Government employees
-- Government procurement
-- Grant programs
-- Grant programs-Indians
-- Grant programs-education
-- Grant programs-health
-- Grant programs-social programs
-- Guam
-- Health facilities
-- Health insurance
-- Health professions
-- Home improvement
-- Homeless
-- Hospitals
-- Hostages
-- Human research subjects
-- Indians
-- Indians-education
-- Individuals with disabilities
-- Insurance
-- Intergovernmental relations
-- International organizations
-- Inventions and patents
-- Iraq
-- Juvenile delinquency
-- Kuwait
-- Lebanon
-- Libraries
-- Loan programs
-- Loan programs-agriculture
-- Loan programs-communications
-- Loan programs-education
-- Loan programs-energy
-- Loan programs-housing and community development
-- Manpower training programs
-- Migrant labor
-- Mortgage insurance
-- Mortgages
-- Nonprofit organizations
-- Northern Mariana Islands
-- Pacific Islands Trust Territory
-- Penalties
-- Privacy
-- Private schools
-- Public housing
-- Reporting and recordkeeping requirements
-- Research
-- Rural areas
-- Scholarships and fellowships
-- School construction
-- Schools
-- Science and technology
-- Seals and insignia
-- Securities
-- Selective Service System
-- Sex discrimination
-- State and local governments
-- Student aid
-- Students
-- Teachers
-- Telecommunications
-- Telephone
-- Urban areas
-- Veterans
-- Virgin Islands
-- Vocational education
-- Vocational rehabilitation
-- Wages
-- Waste treatment and disposal
-- Water pollution control
-- Water resources
-- Water supply
-- Watersheds
-- Women
+- adult
+- affected
+- aid
+- aliens
+- american
+- armed
+- blind
+- broadband
+- classified
+- colleges
+- construction
+- consumer
+- copyright
+- courts
+- cultural
+- delinquency
+- department
+- disadvantaged
+- disposal
+- elementary
+- exchange
+- federally
+- fellowships
+- forces
+- fraud
+- governments
+- guam
+- home
+- homeless
+- hospitals
+- hostages
+- human
+- improvement
+- indians-education
+- insignia
+- international
+- inventions
+- iraq
+- juvenile
+- kuwait
+- lebanon
+- libraries
+- local
+- manpower
+- mariana
+- migrant
+- mortgage
+- mortgages
+- nonprofit
+- northern
+- pacific
+- patents
+- private
+- procurement
+- programs-agriculture
+- programs-communications
+- programs-education
+- programs-energy
+- programs-indians
+- programs-social
+- rates
+- rehabilitation
+- rural
+- samoa
+- scholarships
+- school
+- schools
+- science
+- seals
+- secondary
+- selective
+- service
+- sex
+- state
+- student
+- students
+- study
+- subjects
+- supply
+- system
+- teachers
+- telecommunications
+- telephone
+- territory
+- training
+- treatment
+- trust
+- universities
+- urban
+- utilities
+- veterans
+- virgin
+- vocational
+- waste
+- watersheds
+- women
 name: Department of Education
 request_time_stats:
   '2008':

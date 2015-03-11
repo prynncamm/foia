@@ -114,16 +114,14 @@ description: The Postal Regulatory Commission is responsible for oversight of th
   U.S. Postal Service, including oversight of rates and services, and ensuring the
   Postal Service meets all of its legal requirements.
 keywords:
-- Administrative practice and procedure
-- Confidential business information
-- Freedom of information
-- Organization and functions (Government agencies)
-- Postal Service
-- Privacy
-- Reporting and recordkeeping requirements
-- Seals and insignia
-- Sunshine Act
-- Trademarks
+- act
+- confidential
+- insignia
+- postal
+- seals
+- service
+- sunshine
+- trademarks
 name: Postal Regulatory Commission
 request_time_stats:
   '2008':

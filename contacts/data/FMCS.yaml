@@ -116,19 +116,10 @@ description: The Federal Mediation and Conciliation Service is an independent ag
   that provides mediation and other conflict resolution services for managing and
   enhancing labor-management relationships.
 keywords:
-- Administrative practice and procedure
-- Freedom of information
-- Government employees
-- Grant programs
-- Health facilities
-- Health insurance
-- Health professions
-- Hostages
-- Iraq
-- Kuwait
-- Labor management relations
-- Lebanon
-- Loan programs
+- hostages
+- iraq
+- kuwait
+- lebanon
 name: Federal Mediation and Conciliation Service
 request_time_stats:
   '2008':

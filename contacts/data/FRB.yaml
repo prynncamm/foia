@@ -113,80 +113,72 @@ departments:
 description: The Federal Reserve is the central bank of the United States. It formulates
   and administers credit and monetary policy.
 keywords:
-- Accountants
-- Accounting
-- Administrative practice and procedure
-- Advertising
-- Aged
-- Agriculture
-- Antitrust
-- Authority delegations (Government agencies)
-- Bank deposit insurance
-- Brokers
-- Business and industry
-- Civil rights
-- Claims
-- Commodity futures
-- Community development
-- Confidential business information
-- Conflict of interests
-- Consumer protection
-- Credit
-- Credit unions
-- Crime
-- Currency
-- Electronic funds transfers
-- Equal access to justice
-- Equal employment opportunity
-- Ethics
-- Exports
-- Federal Open Market Committee
-- Federal Reserve System
-- Federal buildings and facilities
-- Flood insurance
-- Foreign banking
-- Foreign currencies
-- Foreign relations
-- Foreign trade
-- Freedom of information
-- Gambling
-- Government employees
-- Government property
-- Government securities
-- Holding companies
-- Individuals with disabilities
-- Insurance
-- Insurance companies
-- Intergovernmental relations
-- Investigations
-- Investment companies
-- Investments
-- Law enforcement
-- Lawyers
-- Loan programs-housing and community development
-- Manufactured homes
-- Marital status discrimination
-- Mortgages
-- National banks
-- Nonprofit organizations
-- Organization and functions (Government agencies)
-- Penalties
-- Privacy
-- Religious discrimination
-- Reporting and recordkeeping requirements
-- Rural areas
-- Savings associations
-- Securities
-- Security measures
-- Sex discrimination
-- Sunshine Act
-- Surety bonds
-- Trade practices
-- Trusts and trustees
-- Truth in lending
-- Truth in savings
-- United States investments abroad
-- Wages
+- abroad
+- access
+- accountants
+- act
+- advertising
+- antitrust
+- associations
+- authority
+- bank
+- banking
+- banks
+- brokers
+- committee
+- commodity
+- companies
+- confidential
+- consumer
+- credit
+- crime
+- currencies
+- currency
+- delegations
+- deposit
+- discrimination
+- electronic
+- ethics
+- exports
+- federal
+- flood
+- foreign
+- funds
+- futures
+- gambling
+- holding
+- homes
+- investment
+- investments
+- justice
+- lawyers
+- lending
+- manufactured
+- marital
+- market
+- measures
+- mortgages
+- nonprofit
+- open
+- practices
+- religious
+- reserve
+- rural
+- savings
+- securities
+- sex
+- states
+- status
+- sunshine
+- surety
+- system
+- trade
+- transfers
+- trustees
+- trusts
+- truth
+- unions
+- united
 name: Federal Reserve System
 request_time_stats:
   '2008':

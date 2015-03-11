@@ -112,47 +112,44 @@ description: The Federal Energy Regulatory Commission regulates interstate trans
   of electricity, natural gas, and oil, and also regulates hydropower projects and
   natural gas terminals.
 keywords:
-- Accounting
-- Administrative practice and procedure
-- Alaska
-- Authority delegations (Government agencies)
-- Civil defense
-- Classified information
-- Confidential business information
-- Conflict of interests
-- Continental shelf
-- Dams
-- Electric power
-- Electric power plants
-- Electric power rates
-- Electric utilities
-- Environmental impact statements
-- Environmental protection
-- Exports
-- Freedom of information
-- Government employees
-- Hazardous substances
-- Historic preservation
-- Imports
-- Indians-lands
-- Investigations
-- Livestock
-- Maritime carriers
-- Natural gas
-- Natural resources
-- Organization and functions (Government agencies)
-- Penalties
-- Pipelines
-- Privacy
-- Public lands
-- Reporting and recordkeeping requirements
-- Seals and insignia
-- Securities
-- Sunshine Act
-- Uniform System of Accounts
-- Waste treatment and disposal
-- Water pollution control
-- Water resources
+- accounts
+- act
+- alaska
+- authority
+- classified
+- confidential
+- continental
+- dams
+- defense
+- delegations
+- disposal
+- exports
+- gas
+- hazardous
+- historic
+- impact
+- imports
+- indians-lands
+- insignia
+- lands
+- livestock
+- maritime
+- natural
+- pipelines
+- plants
+- power
+- preservation
+- rates
+- seals
+- shelf
+- statements
+- substances
+- sunshine
+- system
+- treatment
+- uniform
+- utilities
+- waste
 name: Federal Energy Regulatory Commission
 request_time_stats:
   '2008':

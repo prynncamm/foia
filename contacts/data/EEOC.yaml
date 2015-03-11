@@ -1323,25 +1323,17 @@ emails:
 - FOIA@EEOC.gov
 fax: 202-663-4639
 keywords:
-- Administrative practice and procedure
-- Advertising
-- Aged
-- Civil rights
-- Conflict of interests
-- Employee benefit plans
-- Equal employment opportunity
-- Ethics
-- Federal buildings and facilities
-- Freedom of information
-- Government employees
-- Individuals with disabilities
-- Intergovernmental relations
-- Investigations
-- Religious discrimination
-- Reporting and recordkeeping requirements
-- Retirement
-- Sex discrimination
-- State and local governments
+- advertising
+- benefit
+- employee
+- ethics
+- governments
+- local
+- plans
+- religious
+- retirement
+- sex
+- state
 name: Equal Employment Opportunity Commission
 phone: 202-663-4634
 public_liaison:

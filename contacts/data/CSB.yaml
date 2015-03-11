@@ -107,16 +107,9 @@ departments:
 description: The Chemical Safety and Hazard Investigation Board investigates industrial
   chemical accidents.
 keywords:
-- Administrative practice and procedure
-- Archives and records
-- Claims
-- Freedom of information
-- Government employees
-- Investigations
-- Organization and functions (Government agencies)
-- Privacy
-- Reporting and recordkeeping requirements
-- Sunshine Act
+- act
+- archives
+- sunshine
 name: Chemical Safety and Hazard Investigation Board
 request_time_stats:
   '2008':

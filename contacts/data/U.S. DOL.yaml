@@ -259,40 +259,33 @@ departments:
   emails:
   - foiarequests@dol.gov
   keywords:
-  - Accountants
-  - Accounting
-  - Administrative practice and procedure
-  - Advertising
-  - Advisory committees
-  - Brokers
-  - Claims
-  - Consumer protection
-  - Employee benefit plans
-  - Excise taxes
-  - Government employees
-  - Grant programs-health
-  - Health care
-  - Health insurance
-  - Health records
-  - Hospitals
-  - Individuals with disabilities
-  - Investments
-  - Law enforcement
-  - Loan programs-health
-  - Medicaid
-  - Organization and functions (Government agencies)
-  - Penalties
-  - Public assistance programs
-  - Reporting and recordkeeping requirements
-  - Retirement
-  - Securities
-  - State and local governments
-  - Sunshine Act
-  - Surety bonds
-  - Technical assistance
-  - Trusts and trustees
-  - Women
-  - Youth
+  - accountants
+  - act
+  - advertising
+  - advisory
+  - benefit
+  - brokers
+  - care
+  - committees
+  - consumer
+  - employee
+  - excise
+  - governments
+  - hospitals
+  - investments
+  - local
+  - medicaid
+  - plans
+  - programs-health
+  - retirement
+  - state
+  - sunshine
+  - surety
+  - technical
+  - trustees
+  - trusts
+  - women
+  - youth
   name: Employee Benefits Security Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -401,70 +394,56 @@ departments:
     assistance with finding jobs and careers.
   fax: 202-693-2844
   keywords:
-  - Accounting
-  - Administrative practice and procedure
-  - Aged
-  - Agricultural commodities
-  - Agriculture
-  - Aliens
-  - Australia
-  - Civil rights
-  - Claims
-  - Courts
-  - Disaster assistance
-  - Education
-  - Employment
-  - Employment and Training Administration
-  - Employment taxes
-  - Equal educational opportunity
-  - Equal employment opportunity
-  - Foreign officials
-  - Forests and forest products
-  - Fraud
-  - Government contracts
-  - Government employees
-  - Government procurement
-  - Grant programs
-  - Grant programs-Indians
-  - Grant programs-labor
-  - Guam
-  - Hawaiian Natives
-  - Health professions
-  - Homeless
-  - Housing
-  - Housing standards
-  - Immigration
-  - Indemnity payments
-  - Indians
-  - Individuals with disabilities
-  - Investigations
-  - Labor
-  - Lobbying
-  - Longshore and harbor workers
-  - Manpower training programs
-  - Migrant labor
-  - Minimum wages
-  - Nursery stock
-  - Passports and visas
-  - Penalties
-  - Privacy
-  - Religious discrimination
-  - Relocation assistance
-  - Reporting and recordkeeping requirements
-  - Safety
-  - Seamen
-  - Sex discrimination
-  - Statistics
-  - Students
-  - Trade adjustment assistance
-  - Transportation
-  - Unemployment compensation
-  - Veterans
-  - Virgin Islands
-  - Vocational education
-  - Wages
-  - Workers' compensation
-  - Youth
+  - adjustment
+  - administration
+  - agricultural
+  - aliens
+  - assistance
+  - australia
+  - commodities
+  - compensation
+  - courts
+  - disaster
+  - forest
+  - forests
+  - fraud
+  - guam
+  - harbor
+  - hawaiian
+  - homeless
+  - housing
+  - immigration
+  - indemnity
+  - lobbying
+  - longshore
+  - manpower
+  - migrant
+  - minimum
+  - natives
+  - nursery
+  - officials
+  - passports
+  - payments
+  - procurement
+  - programs-indians
+  - programs-labor
+  - religious
+  - relocation
+  - seamen
+  - sex
+  - standards
+  - statistics
+  - stock
+  - students
+  - training
+  - unemployment
+  - veterans
+  - virgin
+  - visas
+  - wages
+  - workers
+  - workers'
+  - youth
   name: Employment & Training Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -626,54 +605,51 @@ departments:
   - foiarequests@dol.gov
   fax: 202-963-9441
   keywords:
-  - Administrative practice and procedure
-  - Agriculture
-  - Aliens
-  - Asbestos
-  - Black lung benefits
-  - Chemicals
-  - Child labor
-  - Coal
-  - Colleges and universities
-  - Communications equipment
-  - Education
-  - Electric power
-  - Emergency medical services
-  - Employee benefit plans
-  - Employment
-  - Environmental impact statements
-  - Explosives
-  - Fire prevention
-  - Gases
-  - Hazardous substances
-  - Health professions
-  - Housing
-  - Insurance
-  - Intergovernmental relations
-  - Investigations
-  - Labeling
-  - Law enforcement
-  - Metals
-  - Migrant labor
-  - Mine safety and health
-  - Minimum wages
-  - Motor vehicle safety
-  - Noise control
-  - Occupational safety and health
-  - Penalties
-  - Radiation protection
-  - Radio
-  - Reporting and recordkeeping requirements
-  - Research
-  - Safety
-  - Students
-  - Surface mining
-  - Television
-  - Trusts and trustees
-  - Underground mining
-  - Wages
-  - Water supply
-  - Whistleblowing
+  - aliens
+  - asbestos
+  - benefit
+  - benefits
+  - black
+  - chemicals
+  - child
+  - coal
+  - colleges
+  - emergency
+  - employee
+  - equipment
+  - explosives
+  - fire
+  - gases
+  - hazardous
+  - impact
+  - labeling
+  - lung
+  - medical
+  - metals
+  - migrant
+  - mine
+  - minimum
+  - mining
+  - noise
+  - occupational
+  - plans
+  - prevention
+  - radiation
+  - radio
+  - services
+  - statements
+  - students
+  - substances
+  - supply
+  - surface
+  - television
+  - trustees
+  - trusts
+  - underground
+  - universities
+  - vehicle
+  - wages
+  - whistleblowing
   name: Mine Safety & Health Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -983,20 +959,11 @@ departments:
   - foiarequests@dol.gov
   fax: 202-693-5538
   keywords:
-  - Administrative practice and procedure
-  - Civil rights
-  - Construction industry
-  - Employment
-  - Equal employment opportunity
-  - Government contracts
-  - Government procurement
-  - Individuals with disabilities
-  - Investigations
-  - Labor
-  - Religious discrimination
-  - Reporting and recordkeeping requirements
-  - Veterans
-  - Women
+  - construction
+  - procurement
+  - religious
+  - veterans
+  - women
   name: Office of Federal Contract Compliance Programs
   phone: 202-693-5500
   public_liaison:
@@ -1083,14 +1050,10 @@ departments:
     street: 200 Constitution Avenue, NW
     zip: '20210'
   keywords:
-  - Administrative practice and procedure
-  - Government contracts
-  - Insurance companies
-  - Labor management relations
-  - Labor unions
-  - Mass transportation
-  - Reporting and recordkeeping requirements
-  - Surety bonds
+  - companies
+  - mass
+  - surety
+  - unions
   name: Office of Labor-Management Standards
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -1179,29 +1142,29 @@ departments:
     street: 200 Constitution Avenue, NW
     zip: '20210'
   keywords:
-  - Administrative practice and procedure
-  - Black lung benefits
-  - Cancer
-  - Chemicals
-  - Claims
-  - Government employees
-  - Health care
-  - Health professions
-  - Insurance companies
-  - Kidney diseases
-  - Labor
-  - Longshore and harbor workers
-  - Lung diseases
-  - Miners
-  - Organization and functions (Government agencies)
-  - Radioactive materials
-  - Reporting and recordkeeping requirements
-  - Underground mining
-  - Uranium
-  - Vocational rehabilitation
-  - Whistleblowing
-  - Workers' compensation
-  - X-rays
+  - benefits
+  - black
+  - cancer
+  - care
+  - chemicals
+  - companies
+  - compensation
+  - diseases
+  - harbor
+  - kidney
+  - longshore
+  - lung
+  - materials
+  - miners
+  - mining
+  - radioactive
+  - rehabilitation
+  - underground
+  - uranium
+  - whistleblowing
+  - workers
+  - workers'
+  - x-rays
   name: Office of Workers' Compensation Programs
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -1393,64 +1356,52 @@ departments:
     standards, and by providing training, outreach, education and assistance.
   fax: 202-693-1635
   keywords:
-  - Administrative practice and procedure
-  - Advisory committees
-  - Agriculture
-  - Asbestos
-  - Blood
-  - Blood diseases
-  - Cancer
-  - Chemicals
-  - Confidential business information
-  - Construction industry
-  - Consumer protection
-  - Diving
-  - Electric power
-  - Employment
-  - Environmental protection
-  - Explosives
-  - Fire prevention
-  - Freedom of information
-  - Freight
-  - Gases
-  - Government employees
-  - Grant programs-labor
-  - Hazardous substances
-  - Health
-  - Health care
-  - Health facilities
-  - Health professions
-  - Health records
-  - Health statistics
-  - Highway safety
-  - Hospitals
-  - Intergovernmental relations
-  - Investigations
-  - Labeling
-  - Laboratories
-  - Law enforcement
-  - Longshore and harbor workers
-  - Marine safety
-  - Mass transportation
-  - Motor carriers
-  - Motor vehicle safety
-  - National parks
-  - Occupational Safety and Health Administration
-  - Occupational safety and health
-  - Pipeline safety
-  - Pipelines
-  - Privacy
-  - Radiation protection
-  - Railroads
-  - Reporting and recordkeeping requirements
-  - Safety
-  - Seamen
-  - Signs and symbols
-  - Small businesses
-  - Technical assistance
-  - Transportation
-  - Vessels
-  - Whistleblowing
+  - administration
+  - advisory
+  - asbestos
+  - blood
+  - businesses
+  - cancer
+  - care
+  - chemicals
+  - committees
+  - confidential
+  - construction
+  - consumer
+  - diseases
+  - diving
+  - explosives
+  - fire
+  - freight
+  - gases
+  - harbor
+  - hazardous
+  - highway
+  - hospitals
+  - labeling
+  - laboratories
+  - longshore
+  - marine
+  - mass
+  - motor
+  - occupational
+  - parks
+  - pipeline
+  - pipelines
+  - prevention
+  - programs-labor
+  - radiation
+  - railroads
+  - seamen
+  - signs
+  - small
+  - statistics
+  - substances
+  - symbols
+  - technical
+  - vehicle
+  - whistleblowing
+  - workers
   name: Occupational Safety & Health Administration
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -1556,14 +1507,8 @@ departments:
   description: VETS provides resources to prepare and assist veterans obtain meaningful
     careers and maximize their employment opportunities.
   keywords:
-  - Administrative practice and procedure
-  - Employment
-  - Government contracts
-  - Grant programs
-  - Grant programs-labor
-  - Labor
-  - Reporting and recordkeeping requirements
-  - Veterans
+  - programs-labor
+  - veterans
   name: Veterans' Employment & Training Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -1667,69 +1612,67 @@ departments:
     street: 200 Constitution Avenue, N.W.
     zip: '20210'
   keywords:
-  - Administrative practice and procedure
-  - Agricultural commodities
-  - Agriculture
-  - Aliens
-  - American Samoa
-  - Black lung benefits
-  - Chemicals
-  - Child labor
-  - Coal
-  - Colleges and universities
-  - Communications equipment
-  - Construction industry
-  - Education
-  - Electric power
-  - Emergency medical services
-  - Employee benefit plans
-  - Employment
-  - Environmental impact statements
-  - Explosives
-  - Fire prevention
-  - Firefighters
-  - Forests and forest products
-  - Fraud
-  - Gases
-  - Government contracts
-  - Hazardous substances
-  - Health
-  - Health insurance
-  - Health professions
-  - Housing
-  - Housing standards
-  - Immigration
-  - Insurance
-  - Intergovernmental relations
-  - Investigations
-  - Irrigation
-  - Labor
-  - Labor management relations
-  - Law enforcement
-  - Law enforcement officers
-  - Maternal and child health
-  - Metals
-  - Migrant labor
-  - Mine safety and health
-  - Minimum wages
-  - Motor vehicle safety
-  - Noise control
-  - Nursery stock
-  - Occupational safety and health
-  - Passports and visas
-  - Penalties
-  - Radiation protection
-  - Radio
-  - Reporting and recordkeeping requirements
-  - Research
-  - Students
-  - Teachers
-  - Television
-  - Transportation
-  - Trusts and trustees
-  - Wages
-  - Water supply
-  - Whistleblowing
+  - agricultural
+  - aliens
+  - american
+  - benefit
+  - benefits
+  - black
+  - chemicals
+  - child
+  - coal
+  - colleges
+  - commodities
+  - construction
+  - emergency
+  - employee
+  - equipment
+  - explosives
+  - fire
+  - firefighters
+  - forest
+  - forests
+  - fraud
+  - gases
+  - hazardous
+  - housing
+  - immigration
+  - impact
+  - irrigation
+  - labor
+  - lung
+  - maternal
+  - medical
+  - metals
+  - migrant
+  - mine
+  - minimum
+  - noise
+  - nursery
+  - occupational
+  - officers
+  - passports
+  - plans
+  - prevention
+  - radiation
+  - radio
+  - samoa
+  - services
+  - standards
+  - statements
+  - stock
+  - students
+  - substances
+  - supply
+  - teachers
+  - television
+  - trustees
+  - trusts
+  - universities
+  - vehicle
+  - visas
+  - wages
+  - whistleblowing
   name: Wage and Hour Division
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -1914,234 +1857,225 @@ emails:
 - foiarequests@dol.gov
 fax: 202-693-5389
 keywords:
-- Accountants
-- Accounting
-- Administrative practice and procedure
-- Adult education
-- Advertising
-- Advisory committees
-- Aged
-- Agricultural commodities
-- Agriculture
-- Airports
-- Aliens
-- American Samoa
-- Asbestos
-- Australia
-- Black lung benefits
-- Blind
-- Blood
-- Blood diseases
-- Bonds
-- Broadband
-- Brokers
-- Buildings and facilities
-- Business and industry
-- Cancer
-- Carpools
-- Chemicals
-- Child labor
-- Civil rights
-- Claims
-- Classified information
-- Coal
-- Colleges and universities
-- Communications
-- Communications equipment
-- Community development
-- Confidential business information
-- Construction industry
-- Consumer protection
-- Copyright
-- Courts
-- Credit
-- Cultural exchange programs
-- Disaster assistance
-- Diving
-- Education
-- Education of disadvantaged
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Electric power
-- Electric power rates
-- Electric utilities
-- Elementary and secondary education
-- Emergency medical services
-- Employee benefit plans
-- Employment
-- Employment and Training Administration
-- Employment taxes
-- Environmental impact statements
-- Environmental protection
-- Equal access to justice
-- Equal educational opportunity
-- Equal employment opportunity
-- Excise taxes
-- Explosives
-- Federal buildings and facilities
-- Federally affected areas
-- Fire prevention
-- Firefighters
-- Foreign officials
-- Forests and forest products
-- Fraud
-- Freedom of information
-- Freight
-- Gases
-- Government contracts
-- Government employees
-- Government procurement
-- Government property management
-- Grant programs
-- Grant programs-Indians
-- Grant programs-business
-- Grant programs-education
-- Grant programs-health
-- Grant programs-labor
-- Grant programs-social programs
-- Guam
-- Hawaiian Natives
-- Hazardous substances
-- Health
-- Health care
-- Health facilities
-- Health insurance
-- Health professions
-- Health records
-- Health statistics
-- Highway safety
-- Highways and roads
-- Home improvement
-- Homeless
-- Hospitals
-- Hostages
-- Housing
-- Housing standards
-- Human research subjects
-- Immigration
-- Income taxes
-- Indemnity payments
-- Indians
-- Indians-education
-- Individuals with disabilities
-- Insurance
-- Insurance companies
-- Intergovernmental relations
-- International organizations
-- Inventions and patents
-- Investigations
-- Investments
-- Iraq
-- Irrigation
-- Kidney diseases
-- Kuwait
-- Labeling
-- Labor
-- Labor management relations
-- Labor unions
-- Laboratories
-- Law enforcement
-- Law enforcement officers
-- Lawyers
-- Lebanon
-- Loan programs
-- Loan programs-agriculture
-- Loan programs-business
-- Loan programs-communications
-- Loan programs-energy
-- Loan programs-health
-- Loan programs-housing and community development
-- Lobbying
-- Longshore and harbor workers
-- Lung diseases
-- Manpower training programs
-- Marine safety
-- Mass transportation
-- Maternal and child health
-- Medicaid
-- Metals
-- Migrant labor
-- Mine safety and health
-- Miners
-- Mines
-- Minimum wages
-- Mortgage insurance
-- Mortgages
-- Motor carriers
-- Motor vehicle safety
-- National parks
-- Noise control
-- Nonprofit organizations
-- Northern Mariana Islands
-- Nursery stock
-- Occupational Safety and Health Administration
-- Occupational safety and health
-- Organization and functions (Government agencies)
-- Pacific Islands Trust Territory
-- Passports and visas
-- Penalties
-- Pipeline safety
-- Pipelines
-- Privacy
-- Private schools
-- Public assistance programs
-- Radiation protection
-- Radio
-- Radioactive materials
-- Railroads
-- Religious discrimination
-- Relocation assistance
-- Reporting and recordkeeping requirements
-- Research
-- Retirement
-- Rural areas
-- Safety
-- Scholarships and fellowships
-- School construction
-- Schools
-- Science and technology
-- Seamen
-- Securities
-- Sex discrimination
-- Signs and symbols
-- Small businesses
-- State and local governments
-- Statistics
-- Student aid
-- Students
-- Sunshine Act
-- Surety bonds
-- Surface mining
-- Teachers
-- Technical assistance
-- Telecommunications
-- Telephone
-- Television
-- Trade adjustment assistance
-- Transportation
-- Trusts and trustees
-- Underground mining
-- Unemployment compensation
-- Uranium
-- Urban areas
-- Vessels
-- Veterans
-- Virgin Islands
-- Vocational education
-- Vocational rehabilitation
-- Wages
-- Waste treatment and disposal
-- Water pollution control
-- Water resources
-- Water supply
-- Watersheds
-- Whistleblowing
-- Women
-- Workers' compensation
-- X-rays
-- Youth
+- access
+- accountants
+- act
+- adjustment
+- administration
+- adult
+- advertising
+- advisory
+- affected
+- agricultural
+- aid
+- airports
+- aliens
+- american
+- asbestos
+- assistance
+- australia
+- benefit
+- benefits
+- black
+- blind
+- blood
+- bonds
+- broadband
+- brokers
+- businesses
+- cancer
+- care
+- carpools
+- chemicals
+- child
+- classified
+- coal
+- colleges
+- committees
+- commodities
+- communications
+- companies
+- compensation
+- confidential
+- construction
+- consumer
+- copyright
+- courts
+- cultural
+- disadvantaged
+- disaster
+- diseases
+- disposal
+- diving
+- elementary
+- emergency
+- employee
+- equipment
+- exchange
+- excise
+- explosives
+- federally
+- fellowships
+- fire
+- firefighters
+- forest
+- forests
+- fraud
+- freight
+- gases
+- governments
+- guam
+- harbor
+- hawaiian
+- hazardous
+- highway
+- highways
+- home
+- homeless
+- hospitals
+- hostages
+- housing
+- human
+- immigration
+- impact
+- improvement
+- indemnity
+- indians-education
+- industry
+- international
+- inventions
+- investments
+- iraq
+- irrigation
+- justice
+- kidney
+- kuwait
+- labeling
+- labor
+- laboratories
+- lawyers
+- lebanon
+- lobbying
+- local
+- longshore
+- lung
+- management
+- manpower
+- mariana
+- marine
+- mass
+- materials
+- maternal
+- medicaid
+- medical
+- metals
+- migrant
+- mine
+- miners
+- mines
+- minimum
+- mining
+- mortgage
+- mortgages
+- motor
+- natives
+- noise
+- nonprofit
+- northern
+- nursery
+- occupational
+- officers
+- officials
+- pacific
+- parks
+- passports
+- patents
+- payments
+- pipeline
+- pipelines
+- plans
+- prevention
+- private
+- procurement
+- programs-agriculture
+- programs-business
+- programs-communications
+- programs-education
+- programs-energy
+- programs-health
+- programs-indians
+- programs-labor
+- programs-social
+- radiation
+- radio
+- radioactive
+- railroads
+- rates
+- rehabilitation
+- religious
+- relocation
+- retirement
+- roads
+- rural
+- samoa
+- scholarships
+- school
+- schools
+- science
+- seamen
+- secondary
+- services
+- sex
+- signs
+- small
+- standards
+- state
+- statements
+- statistics
+- stock
+- student
+- students
+- study
+- subjects
+- substances
+- sunshine
+- supply
+- surety
+- surface
+- symbols
+- taxes
+- teachers
+- technical
+- telecommunications
+- telephone
+- television
+- territory
+- training
+- treatment
+- trust
+- trustees
+- trusts
+- underground
+- unemployment
+- unions
+- universities
+- uranium
+- urban
+- utilities
+- vehicle
+- veterans
+- virgin
+- visas
+- vocational
+- wages
+- waste
+- watersheds
+- whistleblowing
+- women
+- workers
+- workers'
+- x-rays
+- youth
 name: Department of Labor
 phone: 202-693-5391
 public_liaison:

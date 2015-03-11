@@ -113,32 +113,34 @@ description: The CPSC protects the public from unreasonable risks of serious inj
   products that pose a fire, electrical, chemical, or mechanical hazard or can injure
   children.
 keywords:
-- Administrative practice and procedure
-- Business and industry
-- Clothing
-- Consumer protection
-- Drugs
-- Fire prevention
-- Flammable materials
-- Hazardous substances
-- Household appliances
-- Human research subjects
-- Imports
-- Investigations
-- Labeling
-- Law enforcement
-- Lead poisoning
-- Mattresses and mattress pads
-- Organization and functions (Government agencies)
-- Packaging and containers
-- Poison prevention
-- Reporting and recordkeeping requirements
-- Research
-- Safety
-- Textiles
-- Toys
-- Voluntary standards
-- Youth
+- appliances
+- clothing
+- consumer
+- containers
+- drugs
+- fire
+- flammable
+- hazardous
+- household
+- human
+- imports
+- labeling
+- lead
+- materials
+- mattress
+- mattresses
+- packaging
+- pads
+- poison
+- poisoning
+- prevention
+- standards
+- subjects
+- substances
+- textiles
+- toys
+- voluntary
+- youth
 name: Consumer Product Safety Commission
 request_time_stats:
   '2008':

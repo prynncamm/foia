@@ -193,145 +193,130 @@ description: The Department of State advises the President and leads the nation 
   foreign policy issues. The State Department negotiates treaties and agreements with
   foreign entities, and represents the United States at the United Nations.
 keywords:
-- Accounting
-- Administrative practice and procedure
-- Adoption and foster care
-- Adult education
-- Aged
-- Agriculture
-- Airports
-- Alien property
-- Aliens
-- American Samoa
-- Arms and munitions
-- Blind
-- Broadband
-- Brokers
-- Buildings and facilities
-- Business and industry
-- Campaign funds
-- Child welfare
-- Civil rights
-- Claims
-- Classified information
-- Colleges and universities
-- Communications
-- Community development
-- Confidential business information
-- Copyright
-- Credit
-- Crime
-- Cultural exchange programs
-- Drug traffic control
-- Education
-- Education of disadvantaged
-- Education of individuals with disabilities
-- Educational facilities
-- Educational research
-- Educational study programs
-- Electric power
-- Electric power rates
-- Electric utilities
-- Elementary and secondary education
-- Employment
-- Equal educational opportunity
-- Equal employment opportunity
-- Estates
-- Exports
-- Federal buildings and facilities
-- Federally affected areas
-- Foreign Service
-- Foreign officials
-- Foreign relations
-- Freedom of information
-- Government contracts
-- Government employees
-- Government procurement
-- Government property management
-- Grant programs
-- Grant programs-education
-- Grant programs-health
-- Grant programs-social programs
-- Guam
-- Health facilities
-- Health insurance
-- Health professions
-- Highways and roads
-- Home improvement
-- Homeless
-- Hospitals
-- Hostages
-- Human research subjects
-- Immigration
-- Indians
-- Indians-education
-- Individuals with disabilities
-- Insurance
-- Intergovernmental relations
-- International organizations
-- Inventions and patents
-- Investigations
-- Iraq
-- Kuwait
-- Labor
-- Law enforcement
-- Law enforcement officers
-- Lebanon
-- Loan programs
-- Loan programs-agriculture
-- Loan programs-communications
-- Loan programs-energy
-- Loan programs-housing and community development
-- Longshore and harbor workers
-- Manpower training programs
-- Mass transportation
-- Mexico
-- Migrant labor
-- Mortgage insurance
-- Mortgages
-- Nonprofit organizations
-- Northern Mariana Islands
-- Pacific Islands Trust Territory
-- Passports and visas
-- Penalties
-- Privacy
-- Private schools
-- Radio
-- Railroads
-- Religious discrimination
-- Reporting and recordkeeping requirements
-- Retirement
-- Rural areas
-- Scholarships and fellowships
-- School construction
-- Schools
-- Science and technology
-- Seamen
-- Securities
-- Seizures and forfeitures
-- Sex discrimination
-- Small businesses
-- State and local governments
-- Student aid
-- Students
-- Teachers
-- Technical assistance
-- Telecommunications
-- Telephone
-- Travel restrictions
-- Treaties
-- Urban areas
-- Veterans
-- Virgin Islands
-- Vocational education
-- Vocational rehabilitation
-- Wages
-- Waste treatment and disposal
-- Water pollution control
-- Water resources
-- Water supply
-- Watersheds
-- Women
+- adoption
+- adult
+- affected
+- aid
+- airports
+- alien
+- aliens
+- american
+- arms
+- blind
+- broadband
+- brokers
+- businesses
+- campaign
+- care
+- child
+- classified
+- colleges
+- confidential
+- construction
+- copyright
+- crime
+- cultural
+- disadvantaged
+- disposal
+- elementary
+- estates
+- exchange
+- exports
+- federally
+- fellowships
+- forfeitures
+- foster
+- funds
+- governments
+- guam
+- harbor
+- highways
+- home
+- homeless
+- hospitals
+- hostages
+- human
+- immigration
+- improvement
+- indians-education
+- international
+- inventions
+- iraq
+- kuwait
+- lebanon
+- local
+- longshore
+- manpower
+- mariana
+- mass
+- mexico
+- migrant
+- mortgage
+- mortgages
+- munitions
+- nonprofit
+- northern
+- officers
+- officials
+- pacific
+- passports
+- patents
+- private
+- procurement
+- programs-agriculture
+- programs-communications
+- programs-education
+- programs-energy
+- programs-social
+- radio
+- railroads
+- rates
+- rehabilitation
+- religious
+- restrictions
+- retirement
+- roads
+- rural
+- samoa
+- scholarships
+- school
+- schools
+- science
+- seamen
+- secondary
+- seizures
+- service
+- sex
+- small
+- state
+- student
+- students
+- study
+- subjects
+- supply
+- teachers
+- technical
+- telecommunications
+- telephone
+- territory
+- traffic
+- training
+- travel
+- treaties
+- treatment
+- trust
+- universities
+- urban
+- utilities
+- veterans
+- virgin
+- visas
+- vocational
+- waste
+- watersheds
+- welfare
+- women
+- workers
 name: Department of State
 request_time_stats:
   '2008':

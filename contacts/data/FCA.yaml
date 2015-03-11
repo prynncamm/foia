@@ -93,58 +93,45 @@ description: The Farm Credit Administration is an independent financial regulato
   agency that oversees the various lending institutions and banks serving agricultural
   and rural America.
 keywords:
-- Accounting
-- Administrative practice and procedure
-- Advertising
-- Aged
-- Agriculture
-- Archives and records
-- Bank deposit insurance
-- Civil rights
-- Claims
-- Classified information
-- Confidential business information
-- Conflict of interests
-- Consumer protection
-- Courts
-- Credit
-- Credit unions
-- Crime
-- Currency
-- Equal employment opportunity
-- Exports
-- Fair housing
-- Federal Reserve System
-- Federal buildings and facilities
-- Flood insurance
-- Foreign banking
-- Foreign trade
-- Freedom of information
-- Government employees
-- Government securities
-- Holding companies
-- Individuals with disabilities
-- Insurance
-- Investigations
-- Investments
-- Loan programs-housing and community development
-- Marital status discrimination
-- Mortgages
-- National banks
-- Organization and functions (Government agencies)
-- Penalties
-- Privacy
-- Religious discrimination
-- Reporting and recordkeeping requirements
-- Rural areas
-- Savings associations
-- Securities
-- Sex discrimination
-- Signs and symbols
-- Sunshine Act
-- Surety bonds
-- Technical assistance
-- Wages
+- act
+- advertising
+- archives
+- associations
+- bank
+- banking
+- banks
+- classified
+- companies
+- confidential
+- consumer
+- courts
+- credit
+- crime
+- currency
+- deposit
+- discrimination
+- exports
+- fair
+- federal
+- flood
+- holding
+- investments
+- marital
+- mortgages
+- religious
+- reserve
+- rural
+- savings
+- securities
+- sex
+- signs
+- status
+- sunshine
+- surety
+- symbols
+- system
+- technical
+- unions
 name: Farm Credit Administration
 request_time_stats:
   '2008':

@@ -61,9 +61,9 @@ departments:
 description: The Gulfport and Washington campuses of the Armed Forces Retirement Home
   are retirement centers for veterans of the U.S. military.
 keywords:
-- Armed forces
-- Environmental protection
-- Retirement
+- armed
+- forces
+- retirement
 name: Armed Forces Retirement Home
 request_time_stats:
   '2011':
