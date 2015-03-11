@@ -5,20 +5,6 @@ import clean_keywords
 
 class CleanKeywordsTests(TestCase):
 
-    def test_flatten_keywords(self):
-        """ Verify that list items are flattend into a list of words """
-
-        test_list = ['freedom of information', 'Information', '(United)']
-        result = clean_keywords.flatten_keywords(test_list)
-
-        self.assertEqual(len(result), 4)
-        # Phrases broken into words
-        self.assertEqual(result.count('information'), 2)
-        # Stop words removed
-        self.assertEqual(result.count('of'), 0)
-        # Parentheses are removed and words in lowercase
-        self.assertEqual(result.count('united'), 1)
-
     def test_update_keyword_agency_dict(self):
         """ Verify that a dictionary of keywords to agencies is updated """
 

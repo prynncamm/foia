@@ -6,9 +6,6 @@ import os
 import yaml
 
 import numpy as np
-from stop_words import get_stop_words
-
-STOP_WORDS = get_stop_words('english')
 
 # Threshold set to 30ish percentile of scores
 THRESHOLD = np.float64(0.940983)
@@ -18,22 +15,6 @@ This script uses the Term Frequency–Inverse Document Frequency statistic
 (tf-idf) to eliminate the keywords that score in the bottom 25th percentile
 for relevance.
 """
-
-
-def flatten_keywords(keywords):
-    """
-    Convert phrases into keywords while removing stop words and parentheses
-    """
-
-    flattened_keywords = []
-    if keywords:
-        for keyword in keywords:
-            split_words = list(set(keyword.lower().split(' ')))
-            for word in split_words:
-                word = word.strip("()")
-                if word not in STOP_WORDS:
-                    flattened_keywords.append(word)
-    return keywords
 
 
 def update_keyword_agency_dict(keywords_agency, keywords, agency_name):
@@ -53,7 +34,7 @@ def extract_agency_keywords(agency, agency_keywords, keywords_agency):
     from a specific agency
     """
 
-    keywords = flatten_keywords(agency.get('keywords'))
+    keywords = agency.get('keywords')
     if keywords:
         update_keyword_agency_dict(
             keywords_agency=keywords_agency,
@@ -62,7 +43,7 @@ def extract_agency_keywords(agency, agency_keywords, keywords_agency):
         agency_keywords[agency.get('name')] = keywords
 
     for office in agency['departments']:
-        keywords = flatten_keywords(office.get('keywords'))
+        keywords = office.get('keywords')
         if keywords:
             update_keyword_agency_dict(
                 keywords_agency=keywords_agency,
