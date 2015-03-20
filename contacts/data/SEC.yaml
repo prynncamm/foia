@@ -84,22 +84,17 @@ description: The Securities and Exchange Commission oversees securities exchange
   prevent fraud.
 keywords:
 - Accountants
-- Advertising
-- Authority delegations (Government agencies)
 - Brokers
 - Classified information
 - Commodity futures
-- Confidential business information
 - Consumer protection
 - Credit unions
 - Currency
 - Electric utilities
 - Electronic funds transfers
-- Environmental impact statements
 - Equal access to justice
 - Foreign banking
 - Foreign currencies
-- Fraud
 - Gambling
 - Government securities
 - Holding companies
@@ -107,9 +102,7 @@ keywords:
 - Insurance companies
 - Investment companies
 - Investments
-- Lawyers
 - Life insurance
-- Mortgages
 - National banks
 - Natural gas
 - Savings associations
@@ -118,7 +111,6 @@ keywords:
 - Trade practices
 - Trusts and trustees
 - Uniform System of Accounts
-- Wages
 name: Securities and Exchange Commission
 request_time_stats:
   '2008':

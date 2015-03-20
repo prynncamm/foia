@@ -223,12 +223,10 @@ departments:
   - Alcoholism
   - Armed forces
   - Arms and munitions
-  - Authority delegations (Government agencies)
   - Aviation safety
   - Canada
   - Charter flights
   - Common carriers
-  - Confidential business information
   - Consumer protection
   - Cuba
   - Drug abuse
@@ -238,11 +236,8 @@ departments:
   - Equal access to justice
   - Ethiopia
   - Explosives
-  - Exports
   - Federal Aviation Administration
-  - Federal buildings and facilities
   - Flammable materials
-  - Fraud
   - Freight
   - Freight forwarders
   - Government property
@@ -253,7 +248,6 @@ departments:
   - Indemnity payments
   - Iraq
   - Law enforcement officers
-  - Lawyers
   - Libya
   - Mexico
   - Motor carriers
@@ -263,7 +257,6 @@ departments:
   - Noise control
   - Political candidates
   - Puerto Rico
-  - Safety
   - Schools
   - Security measures
   - Signs and symbols
@@ -271,7 +264,6 @@ departments:
   - Space transportation and exploration
   - Students
   - Teachers
-  - Transportation
   - Weather
   - X-rays
   - Yugoslavia
@@ -398,7 +390,6 @@ departments:
   - Communications equipment
   - Electronic products
   - Energy conservation
-  - Environmental impact statements
   - Environmental protection
   - Flood plains
   - Government procurement
@@ -421,14 +412,11 @@ departments:
   - Railroads
   - Real property acquisition
   - Relocation assistance
-  - Research
   - Rights-of-way
-  - Safety
   - Signs and symbols
   - Soil conservation
   - Taxes
   - Traffic regulations
-  - Transportation
   - Travel
   - Travel restrictions
   - Utilities
@@ -573,12 +561,8 @@ departments:
   - Railroad employees
   - Railroad safety
   - Railroads
-  - Safety
   - Security measures
   - Sex discrimination
-  - State and local governments
-  - Telephone
-  - Transportation
   - Whistleblowing
   misc:
     FOIA/PA Contact, Office of the Chief Counsel:
@@ -662,7 +646,6 @@ departments:
   - Drug abuse
   - Drug testing
   - Energy conservation
-  - Environmental impact statements
   - Environmental protection
   - Grant programs-transportation
   - Highway safety
@@ -674,8 +657,6 @@ departments:
   - Motor vehicle safety
   - Public lands
   - Railroads
-  - Safety
-  - Transportation
   - Uniform System of Accounts
   - Wildlife refuges
   misc:
@@ -759,7 +740,6 @@ departments:
   - foia@fmcsa.dot.gov
   fax: 202-385-2335
   keywords:
-  - Advertising
   - Agricultural commodities
   - Alcohol abuse
   - Blind
@@ -778,7 +758,6 @@ departments:
   - Intermodal transportation
   - Maritime carriers
   - Mexico
-  - Migrant labor
   - Motor carriers
   - Motor vehicle safety
   - Moving of household goods
@@ -786,12 +765,10 @@ departments:
   - Occupational safety and health
   - Parking
   - Radioactive materials
-  - Safety
   - Seafood
   - Smoking
   - Surety bonds
   - Tires
-  - Transportation
   misc:
     FOIA/PA Contact (MC-MMI):
       name: Tiffanie C. Coleman
@@ -916,8 +893,6 @@ departments:
   - Air pollution control
   - Alcohol abuse
   - Alcohol and alcoholic beverages
-  - Authority delegations (Government agencies)
-  - Confidential business information
   - Consumer protection
   - Crime
   - Drug abuse
@@ -934,11 +909,9 @@ departments:
   - Motor vehicle pollution
   - Motor vehicle safety
   - Motor vehicles
-  - Research
   - Rubber and rubber products
   - Telecommunications
   - Tires
-  - Transportation
   - Vessels
   misc:
     NHTSA Executive Secretariat:
@@ -1040,14 +1013,11 @@ departments:
     - 202-366-5320
   keywords:
   - Antitrust
-  - Authority delegations (Government agencies)
   - Citizenship and naturalization
   - Classified information
   - Common carriers
-  - Courts
   - Disability benefits
   - Equal access to justice
-  - Exports
   - Fishing vessels
   - Freight
   - Freight forwarders
@@ -1057,10 +1027,8 @@ departments:
   - Income taxes
   - Intermodal transportation
   - Investments
-  - Lawyers
   - Loan programs-transportation
   - Maritime carriers
-  - Mortgages
   - National defense
   - Passenger vessels
   - Railroads
@@ -1069,7 +1037,6 @@ departments:
   - Seamen
   - Sunshine Act
   - Surety bonds
-  - Transportation
   - Trusts and trustees
   - Uniform System of Accounts
   - Vessels
@@ -1164,13 +1131,11 @@ departments:
   keywords:
   - Air carriers
   - Alcohol abuse
-  - Authority delegations (Government agencies)
   - Carbon dioxide
   - Disaster assistance
   - Drug abuse
   - Drug testing
   - Environmental protection
-  - Exports
   - Fire prevention
   - Grant programs-Indians
   - Grant programs-environmental protection
@@ -1193,9 +1158,7 @@ departments:
   - Pipelines
   - Radioactive materials
   - Railroad safety
-  - Safety
   - Security measures
-  - Transportation
   - Uranium
   - Water pollution control
   name: Pipeline and Hazardous Materials Safety Administration
@@ -1390,13 +1353,10 @@ departments:
   keywords:
   - Agricultural commodities
   - Antitrust
-  - Authority delegations (Government agencies)
   - Bankruptcy
   - Brokers
   - Common carriers
   - Communications
-  - Confidential business information
-  - Environmental impact statements
   - Freight
   - Freight forwarders
   - Intermodal transportation
@@ -1479,7 +1439,6 @@ emails:
 fax: 202-366-8536
 keywords:
 - Adult education
-- Advertising
 - Advisory committees
 - Afghanistan
 - Agricultural commodities
@@ -1501,10 +1460,8 @@ keywords:
 - American Samoa
 - Anchorage grounds
 - Antitrust
-- Archives and records
 - Armed forces
 - Arms and munitions
-- Authority delegations (Government agencies)
 - Aviation safety
 - Bankruptcy
 - Blind
@@ -1526,7 +1483,6 @@ keywords:
 - Communications equipment
 - Community development
 - Concessions
-- Confidential business information
 - Consumer protection
 - Continental shelf
 - Cooperatives
@@ -1540,11 +1496,9 @@ keywords:
 - Drug abuse
 - Drug testing
 - Drugs
-- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
-- Educational study programs
 - Electric power
 - Electric power rates
 - Electric utilities
@@ -1552,23 +1506,18 @@ keywords:
 - Elementary and secondary education
 - Endangered and threatened species
 - Energy conservation
-- Environmental impact statements
 - Environmental protection
 - Equal access to justice
-- Equal educational opportunity
 - Ethics
 - Ethiopia
 - Explosives
-- Exports
 - Federal Aviation Administration
-- Federal buildings and facilities
 - Federally affected areas
 - Fire prevention
 - Fishing vessels
 - Flammable materials
 - Flood plains
 - Foreign relations
-- Fraud
 - Freight
 - Freight forwarders
 - Fuel economy
@@ -1594,7 +1543,6 @@ keywords:
 - Hazardous waste
 - Health
 - Health care
-- Health facilities
 - Health insurance
 - Highway safety
 - Highways and roads
@@ -1619,10 +1567,8 @@ keywords:
 - Labeling
 - Laboratories
 - Law enforcement officers
-- Lawyers
 - Lebanon
 - Libya
-- Loan programs
 - Loan programs-agriculture
 - Loan programs-communications
 - Loan programs-education
@@ -1630,18 +1576,15 @@ keywords:
 - Loan programs-housing and community development
 - Loan programs-transportation
 - Loan programs-veterans
-- Manpower training programs
 - Manufactured homes
 - Marine mammals
 - Marine safety
 - Maritime carriers
 - Mass transportation
 - Mexico
-- Migrant labor
 - Military personnel
 - Minority businesses
 - Mortgage insurance
-- Mortgages
 - Motor carriers
 - Motor vehicle pollution
 - Motor vehicle safety
@@ -1680,13 +1623,9 @@ keywords:
 - Railroad safety
 - Railroads
 - Real property acquisition
-- Religious discrimination
 - Relocation assistance
-- Research
 - Rights-of-way
 - Rubber and rubber products
-- Rural areas
-- Safety
 - Scholarships and fellowships
 - School construction
 - Schools
@@ -1701,21 +1640,17 @@ keywords:
 - Smoking
 - Soil conservation
 - Space transportation and exploration
-- State and local governments
 - Statistics
 - Strategic and critical materials
-- Student aid
 - Students
 - Surety bonds
 - Taxes
 - Teachers
 - Telecommunications
-- Telephone
 - Terrorism
 - Time
 - Tires
 - Traffic regulations
-- Transportation
 - Transportation Department
 - Travel
 - Travel and transportation expenses
@@ -1728,16 +1663,12 @@ keywords:
 - Urban areas
 - Utilities
 - Vessels
-- Veterans
 - Virgin Islands
 - Vocational education
-- Vocational rehabilitation
 - Volunteers
-- Wages
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
-- Water supply
 - Watersheds
 - Waterways
 - Weather

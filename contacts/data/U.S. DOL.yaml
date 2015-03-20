@@ -260,7 +260,6 @@ departments:
   - foiarequests@dol.gov
   keywords:
   - Accountants
-  - Advertising
   - Advisory committees
   - Brokers
   - Consumer protection
@@ -276,7 +275,6 @@ departments:
   - Medicaid
   - Public assistance programs
   - Retirement
-  - State and local governments
   - Sunshine Act
   - Surety bonds
   - Technical assistance
@@ -394,14 +392,11 @@ departments:
   - Agricultural commodities
   - Aliens
   - Australia
-  - Courts
   - Disaster assistance
   - Employment and Training Administration
   - Employment taxes
-  - Equal educational opportunity
   - Foreign officials
   - Forests and forest products
-  - Fraud
   - Government procurement
   - Grant programs-Indians
   - Grant programs-labor
@@ -415,25 +410,18 @@ departments:
   - Labor
   - Lobbying
   - Longshore and harbor workers
-  - Manpower training programs
-  - Migrant labor
   - Minimum wages
   - Nursery stock
   - Passports and visas
-  - Religious discrimination
   - Relocation assistance
-  - Safety
   - Seamen
   - Sex discrimination
   - Statistics
   - Students
   - Trade adjustment assistance
-  - Transportation
   - Unemployment compensation
-  - Veterans
   - Virgin Islands
   - Vocational education
-  - Wages
   - Workers' compensation
   - Youth
   name: Employment & Training Administration
@@ -608,7 +596,6 @@ departments:
   - Electric power
   - Emergency medical services
   - Employee benefit plans
-  - Environmental impact statements
   - Explosives
   - Fire prevention
   - Gases
@@ -616,7 +603,6 @@ departments:
   - Housing
   - Labeling
   - Metals
-  - Migrant labor
   - Mine safety and health
   - Minimum wages
   - Motor vehicle safety
@@ -624,15 +610,11 @@ departments:
   - Occupational safety and health
   - Radiation protection
   - Radio
-  - Research
-  - Safety
   - Students
   - Surface mining
   - Television
   - Trusts and trustees
   - Underground mining
-  - Wages
-  - Water supply
   - Whistleblowing
   name: Mine Safety & Health Administration
   notes: This office has additional FOIA contact information that can be found by
@@ -946,8 +928,6 @@ departments:
   - Construction industry
   - Government procurement
   - Labor
-  - Religious discrimination
-  - Veterans
   - Women
   name: Office of Federal Contract Compliance Programs
   phone: 202-693-5500
@@ -1141,7 +1121,6 @@ departments:
   - Radioactive materials
   - Underground mining
   - Uranium
-  - Vocational rehabilitation
   - Whistleblowing
   - Workers' compensation
   - X-rays
@@ -1342,7 +1321,6 @@ departments:
   - Blood diseases
   - Cancer
   - Chemicals
-  - Confidential business information
   - Construction industry
   - Consumer protection
   - Diving
@@ -1356,7 +1334,6 @@ departments:
   - Hazardous substances
   - Health
   - Health care
-  - Health facilities
   - Health records
   - Health statistics
   - Highway safety
@@ -1375,12 +1352,10 @@ departments:
   - Pipelines
   - Radiation protection
   - Railroads
-  - Safety
   - Seamen
   - Signs and symbols
   - Small businesses
   - Technical assistance
-  - Transportation
   - Vessels
   - Whistleblowing
   name: Occupational Safety & Health Administration
@@ -1490,7 +1465,6 @@ departments:
   keywords:
   - Grant programs-labor
   - Labor
-  - Veterans
   name: Veterans' Employment & Training Service
   notes: This office has additional FOIA contact information that can be found by
     visiting its website.
@@ -1607,12 +1581,10 @@ departments:
   - Electric power
   - Emergency medical services
   - Employee benefit plans
-  - Environmental impact statements
   - Explosives
   - Fire prevention
   - Firefighters
   - Forests and forest products
-  - Fraud
   - Gases
   - Hazardous substances
   - Health
@@ -1626,7 +1598,6 @@ departments:
   - Law enforcement officers
   - Maternal and child health
   - Metals
-  - Migrant labor
   - Mine safety and health
   - Minimum wages
   - Motor vehicle safety
@@ -1636,14 +1607,10 @@ departments:
   - Passports and visas
   - Radiation protection
   - Radio
-  - Research
   - Students
   - Teachers
   - Television
-  - Transportation
   - Trusts and trustees
-  - Wages
-  - Water supply
   - Whistleblowing
   name: Wage and Hour Division
   notes: This office has additional FOIA contact information that can be found by
@@ -1831,7 +1798,6 @@ fax: 202-693-5389
 keywords:
 - Accountants
 - Adult education
-- Advertising
 - Advisory committees
 - Agricultural commodities
 - Airports
@@ -1857,19 +1823,15 @@ keywords:
 - Communications
 - Communications equipment
 - Community development
-- Confidential business information
 - Construction industry
 - Consumer protection
 - Copyright
-- Courts
 - Cultural exchange programs
 - Disaster assistance
 - Diving
-- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
-- Educational study programs
 - Electric power
 - Electric power rates
 - Electric utilities
@@ -1878,19 +1840,15 @@ keywords:
 - Employee benefit plans
 - Employment and Training Administration
 - Employment taxes
-- Environmental impact statements
 - Environmental protection
 - Equal access to justice
-- Equal educational opportunity
 - Excise taxes
 - Explosives
-- Federal buildings and facilities
 - Federally affected areas
 - Fire prevention
 - Firefighters
 - Foreign officials
 - Forests and forest products
-- Fraud
 - Freight
 - Gases
 - Government procurement
@@ -1906,7 +1864,6 @@ keywords:
 - Hazardous substances
 - Health
 - Health care
-- Health facilities
 - Health insurance
 - Health records
 - Health statistics
@@ -1937,9 +1894,7 @@ keywords:
 - Labor unions
 - Laboratories
 - Law enforcement officers
-- Lawyers
 - Lebanon
-- Loan programs
 - Loan programs-agriculture
 - Loan programs-business
 - Loan programs-communications
@@ -1949,19 +1904,16 @@ keywords:
 - Lobbying
 - Longshore and harbor workers
 - Lung diseases
-- Manpower training programs
 - Marine safety
 - Mass transportation
 - Maternal and child health
 - Medicaid
 - Metals
-- Migrant labor
 - Mine safety and health
 - Miners
 - Mines
 - Minimum wages
 - Mortgage insurance
-- Mortgages
 - Motor carriers
 - Motor vehicle safety
 - National parks
@@ -1981,12 +1933,8 @@ keywords:
 - Radio
 - Radioactive materials
 - Railroads
-- Religious discrimination
 - Relocation assistance
-- Research
 - Retirement
-- Rural areas
-- Safety
 - Scholarships and fellowships
 - School construction
 - Schools
@@ -1995,9 +1943,7 @@ keywords:
 - Sex discrimination
 - Signs and symbols
 - Small businesses
-- State and local governments
 - Statistics
-- Student aid
 - Students
 - Sunshine Act
 - Surety bonds
@@ -2005,25 +1951,19 @@ keywords:
 - Teachers
 - Technical assistance
 - Telecommunications
-- Telephone
 - Television
 - Trade adjustment assistance
-- Transportation
 - Trusts and trustees
 - Underground mining
 - Unemployment compensation
 - Uranium
 - Urban areas
 - Vessels
-- Veterans
 - Virgin Islands
 - Vocational education
-- Vocational rehabilitation
-- Wages
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
-- Water supply
 - Watersheds
 - Whistleblowing
 - Women

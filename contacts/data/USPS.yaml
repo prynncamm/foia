@@ -215,20 +215,13 @@ departments:
 description: The Postal Service provides mail processing and delivery services to
   individuals and businesses in the U.S.
 keywords:
-- Advertising
 - Air carriers
-- Archives and records
-- Authority delegations (Government agencies)
 - Buildings and facilities
 - Classified information
 - Computer technology
-- Courts
 - Crime
-- Environmental impact statements
 - Equal access to justice
-- Federal buildings and facilities
 - Foreign relations
-- Fraud
 - Government procurement
 - Government property
 - Law enforcement officers
@@ -237,8 +230,6 @@ keywords:
 - Postal Service
 - Security measures
 - Seizures and forfeitures
-- State and local governments
-- Wages
 name: United States Postal Service
 request_time_stats:
   '2010':

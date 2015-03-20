@@ -103,8 +103,8 @@ def add_results(results, keywords):
         topics = result['topics'] or []
         for agency, topic in itertools.product(agencies, topics):
             if agency not in keywords:
-                keywords[agency] = set()
-            keywords[agency].add(topic)
+                keywords[agency] = []
+            keywords[agency].append(topic)
 
 
 def subtract_month(cursor):
@@ -159,10 +159,10 @@ def new_keywords(agency_data, fr_keywords):
     data"""
     name = normalize_name(agency_data['name'])
     if name in fr_keywords:
-        original_keywords = set(agency_data.get('keywords', []))
-        keywords = original_keywords | fr_keywords[name]
-        return len(keywords), dict(agency_data,
-                                   keywords=list(sorted(keywords)))
+        keywords = agency_data.get('keywords', [])
+        if fr_keywords.get(name):
+            keywords.extend(fr_keywords.get(name))
+        return len(keywords), dict(agency_data, keywords=keywords)
     return 0, agency_data
 
 

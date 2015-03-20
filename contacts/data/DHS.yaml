@@ -61,7 +61,6 @@ departments:
     - 800-375-5283
   keywords:
   - Aliens
-  - Authority delegations (Government agencies)
   - Foreign officials
   - Immigration
   - Students
@@ -275,7 +274,6 @@ departments:
     phone:
     - 202-475-3522
   keywords:
-  - Advertising
   - Air carriers
   - Aircraft
   - Airports
@@ -283,10 +281,8 @@ departments:
   - Alcohol abuse
   - Alcohol and alcoholic beverages
   - Anchorage grounds
-  - Archives and records
   - Armed forces
   - Armed forces reserves
-  - Authority delegations (Government agencies)
   - Aviation safety
   - Benzene
   - Bridges
@@ -323,7 +319,6 @@ departments:
   - Law enforcement officers
   - Loan programs-education
   - Loan programs-veterans
-  - Manpower training programs
   - Marine mammals
   - Marine resources
   - Marine safety
@@ -331,7 +326,6 @@ departments:
   - Maritime security
   - Measurement standards
   - Military personnel
-  - Mortgages
   - Motor carriers
   - National Transportation Safety Board
   - Natural gas
@@ -346,8 +340,6 @@ departments:
   - Petroleum
   - Radiation protection
   - Radio
-  - Research
-  - Safety
   - Schools
   - Seamen
   - Security measures
@@ -355,18 +347,13 @@ departments:
   - Signs and symbols
   - Surety bonds
   - Telecommunications
-  - Telephone
   - Terrorism
-  - Transportation
   - Travel
   - Travel and transportation expenses
   - Treaties
   - Vessels
-  - Veterans
   - Vocational education
-  - Vocational rehabilitation
   - Volunteers
-  - Wages
   - Water pollution control
   - Waterways
   - Whistleblowing
@@ -481,7 +468,6 @@ departments:
   - Aliens
   - American Samoa
   - Antidumping
-  - Authority delegations (Government agencies)
   - Bonds
   - Brokers
   - Canada
@@ -492,17 +478,14 @@ departments:
   - Coffee
   - Common carriers
   - Computer technology
-  - Confidential business information
   - Cotton
   - Countervailing duties
-  - Courts
   - Cuba
   - Cultural exchange programs
   - Customs duties and inspection
   - Drug traffic control
   - Electronic products
   - Executive orders
-  - Exports
   - Fishing vessels
   - Foreign currencies
   - Foreign officials
@@ -547,7 +530,6 @@ departments:
   - Trademarks
   - Travel restrictions
   - Vessels
-  - Wages
   - Wake Island
   - Warehouses
   - Wheat
@@ -676,22 +658,16 @@ departments:
   - Communications
   - Community development
   - Copyright
-  - Courts
   - Cultural exchange programs
   - Disaster assistance
   - Drug abuse
-  - Education of disadvantaged
   - Education of individuals with disabilities
   - Educational facilities
   - Educational research
-  - Educational study programs
   - Electric power
   - Electric power rates
   - Electric utilities
   - Elementary and secondary education
-  - Environmental impact statements
-  - Equal educational opportunity
-  - Federal buildings and facilities
   - Federally affected areas
   - Fire prevention
   - Flood insurance
@@ -717,16 +693,12 @@ departments:
   - Iraq
   - Kuwait
   - Lebanon
-  - Loan programs
   - Loan programs-agriculture
   - Loan programs-communications
   - Loan programs-energy
   - Loan programs-housing and community development
-  - Manpower training programs
   - Mass transportation
-  - Migrant labor
   - Mortgage insurance
-  - Mortgages
   - Natural resources
   - Nonprofit organizations
   - Northern Mariana Islands
@@ -736,30 +708,22 @@ departments:
   - Public lands
   - Radiation protection
   - Railroads
-  - Religious discrimination
-  - Rural areas
   - Scholarships and fellowships
   - School construction
   - Schools
   - Science and technology
   - Sex discrimination
   - Small businesses
-  - State and local governments
-  - Student aid
   - Teachers
   - Technical assistance
   - Telecommunications
-  - Telephone
   - Terrorism
   - Urban areas
-  - Veterans
   - Virgin Islands
   - Vocational education
-  - Vocational rehabilitation
   - Waste treatment and disposal
   - Water pollution control
   - Water resources
-  - Water supply
   - Watersheds
   - Women
   name: Federal Emergency Management Agency
@@ -953,7 +917,6 @@ departments:
     - 202-732-4265
   keywords:
   - Aliens
-  - Authority delegations (Government agencies)
   - Foreign officials
   - Foreign relations
   - Immigration
@@ -1076,13 +1039,10 @@ departments:
   - Biologics
   - Computer technology
   - Drugs
-  - Education of disadvantaged
   - Emergency medical services
-  - Fraud
   - Grant programs-health
   - Grant programs-social programs
   - Health care
-  - Health facilities
   - Health insurance
   - Health maintenance organizations (HMO)
   - Health records
@@ -1093,9 +1053,7 @@ departments:
   - Medical devices
   - Medicare
   - Packaging and containers
-  - Rural areas
   - Social security
-  - Transportation
   - X-rays
   name: Office of the Inspector General
   phone: 202-254-4001
@@ -1694,7 +1652,6 @@ departments:
   - Alcohol abuse
   - Aliens
   - Arms and munitions
-  - Authority delegations (Government agencies)
   - Aviation safety
   - Canada
   - Charter flights
@@ -1717,11 +1674,9 @@ departments:
   - Political candidates
   - Railroad safety
   - Railroads
-  - Safety
   - Schools
   - Seamen
   - Security measures
-  - Transportation
   - Vessels
   - Waterways
   - Yugoslavia
@@ -1844,7 +1799,6 @@ emails:
 fax: 202-343-4011
 keywords:
 - Adult education
-- Advertising
 - Advisory committees
 - Air carriers
 - Air pollution control
@@ -1860,11 +1814,9 @@ keywords:
 - American Samoa
 - Anchorage grounds
 - Antidumping
-- Archives and records
 - Armed forces
 - Armed forces reserves
 - Arms and munitions
-- Authority delegations (Government agencies)
 - Aviation safety
 - Benzene
 - Blind
@@ -1887,12 +1839,10 @@ keywords:
 - Communications equipment
 - Community development
 - Computer technology
-- Confidential business information
 - Continental shelf
 - Copyright
 - Cotton
 - Countervailing duties
-- Courts
 - Cuba
 - Cultural exchange programs
 - Customs duties and inspection
@@ -1902,11 +1852,9 @@ keywords:
 - Drug abuse
 - Drug testing
 - Drug traffic control
-- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
-- Educational study programs
 - Electric power
 - Electric power rates
 - Electric utilities
@@ -1914,11 +1862,8 @@ keywords:
 - Elementary and secondary education
 - Endangered and threatened species
 - Environmental protection
-- Equal educational opportunity
 - Executive orders
 - Explosives
-- Exports
-- Federal buildings and facilities
 - Federally affected areas
 - Fire prevention
 - Fishing vessels
@@ -1927,7 +1872,6 @@ keywords:
 - Foreign officials
 - Foreign relations
 - Foreign trade zones
-- Fraud
 - Freight
 - Freight forwarders
 - Fruit juices
@@ -1965,9 +1909,7 @@ keywords:
 - Labor unions
 - Laboratories
 - Law enforcement officers
-- Lawyers
 - Liquors
-- Loan programs
 - Loan programs-agriculture
 - Loan programs-communications
 - Loan programs-education
@@ -1976,7 +1918,6 @@ keywords:
 - Loan programs-veterans
 - Lobbying
 - Lotteries
-- Manpower training programs
 - Marine mammals
 - Marine resources
 - Marine safety
@@ -1987,10 +1928,8 @@ keywords:
 - Metals
 - Mexico
 - Midway Islands
-- Migrant labor
 - Military personnel
 - Mortgage insurance
-- Mortgages
 - Motor carriers
 - Motor vehicles
 - National Transportation Safety Board
@@ -2017,10 +1956,6 @@ keywords:
 - Railroad safety
 - Railroads
 - Refugees
-- Religious discrimination
-- Research
-- Rural areas
-- Safety
 - Scholarships and fellowships
 - School construction
 - Schools
@@ -2034,37 +1969,29 @@ keywords:
 - Sex discrimination
 - Signs and symbols
 - Small businesses
-- State and local governments
-- Student aid
 - Students
 - Sugar
 - Surety bonds
 - Taxes
 - Teachers
 - Telecommunications
-- Telephone
 - Terrorism
 - Trade agreements
 - Trademarks
-- Transportation
 - Travel
 - Travel and transportation expenses
 - Travel restrictions
 - Treaties
 - Urban areas
 - Vessels
-- Veterans
 - Virgin Islands
 - Vocational education
-- Vocational rehabilitation
 - Volunteers
-- Wages
 - Wake Island
 - Warehouses
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
-- Water supply
 - Watersheds
 - Waterways
 - Wheat

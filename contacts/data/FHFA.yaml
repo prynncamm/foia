@@ -64,12 +64,8 @@ description: The Federal Housing Finance Agency provides supervision, regulation
   and housing mission oversight of Fannie Mae, Freddie Mac and the Federal Home Loan
   Banks.
 keywords:
-- Advertising
-- Archives and records
 - Community development
-- Confidential business information
 - Consumer protection
-- Courts
 - Credit unions
 - Crime
 - Currency
@@ -85,7 +81,6 @@ keywords:
 - Housing
 - Investments
 - Minority businesses
-- Mortgages
 - National banks
 - Nonprofit organizations
 - Savings associations
@@ -93,7 +88,6 @@ keywords:
 - Sunshine Act
 - Trade practices
 - Truth in lending
-- Wages
 name: Federal Housing Finance Agency
 request_time_stats:
   '2009':

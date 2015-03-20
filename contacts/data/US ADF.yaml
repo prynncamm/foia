@@ -83,13 +83,11 @@ departments:
 description: The African Development Foundation provides grants to community groups
   and small enterprises that benefit under-served and marginalized groups in Africa.
 keywords:
-- Health facilities
 - Health insurance
 - Hostages
 - Iraq
 - Kuwait
 - Lebanon
-- Loan programs
 name: United States African Development Foundation
 request_time_stats:
   '2010':

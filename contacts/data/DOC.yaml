@@ -26,10 +26,8 @@ departments:
   keywords:
   - Census data
   - Economic statistics
-  - Exports
   - Foreign trade
   - Seals and insignia
-  - State and local governments
   - Statistics
   misc:
     Freedom of Information Act Officer:
@@ -266,9 +264,6 @@ departments:
   - Grant programs-housing and community development
   - Loan programs-business
   - Loan programs-housing and community development
-  - Manpower training programs
-  - Mortgages
-  - Research
   - Sex discrimination
   - Technical assistance
   - Trade adjustment assistance
@@ -385,8 +380,6 @@ departments:
   - Arms and munitions
   - Boycotts
   - Chemicals
-  - Confidential business information
-  - Exports
   - Foreign trade
   - Forests and forest products
   - Horses
@@ -394,7 +387,6 @@ departments:
   - Inventions and patents
   - National defense
   - Petroleum
-  - Research
   - Science and technology
   - Strategic and critical materials
   - Terrorism
@@ -520,11 +512,11 @@ departments:
   - Australia
   - Canada
   - Cheese
-  - Confidential business information
   - Countervailing duties
   - Customs duties and inspection
   - Educational facilities
   - Emergency powers
+  - Foreign trade
   - Guam
   - Imports
   - Marketing quotas
@@ -759,7 +751,6 @@ departments:
   - Laboratories
   - Measurement standards
   - National Institute of Standards and Technology
-  - Research
   - Science and technology
   misc:
     FOIA & Privacy Act Officer:
@@ -993,13 +984,11 @@ departments:
   - Communications equipment
   - Defense communications
   - Electronic products
-  - Federal buildings and facilities
   - Government procurement
   - Government property
   - Radio
   - Satellites
   - Telecommunications
-  - Telephone
   - Television
   name: National Telecommunications and Information Administration
   phone: 202-482-1816
@@ -1117,12 +1106,9 @@ departments:
   - Canada
   - Coast Guard
   - Coastal zone
-  - Confidential business information
-  - Courts
   - Disaster assistance
   - Endangered and threatened species
   - Environmental protection
-  - Exports
   - Fish
   - Fisheries
   - Fishing
@@ -1138,7 +1124,6 @@ departments:
   - Income taxes
   - Indians-lands
   - Labeling
-  - Loan programs
   - Loan programs-business
   - Marine mammals
   - Marine resources
@@ -1151,7 +1136,6 @@ departments:
   - Northern Mariana Islands
   - Oil pollution
   - Puerto Rico
-  - Research
   - Russian Federation
   - Satellites
   - Science and technology
@@ -1160,7 +1144,6 @@ departments:
   - Seizures and forfeitures
   - Space transportation and exploration
   - Statistics
-  - Transportation
   - Treaties
   - Virgin Islands
   - Water pollution control
@@ -1285,11 +1268,8 @@ departments:
   keywords:
   - Biologics
   - Classified information
-  - Courts
-  - Exports
   - Foreign relations
   - Inventions and patents
-  - Lawyers
   - Science and technology
   - Small businesses
   - Trademarks
@@ -1518,7 +1498,6 @@ departments:
   keywords:
   - Accountants
   - Adult education
-  - Advertising
   - Advisory committees
   - Agricultural commodities
   - Agricultural research
@@ -1537,11 +1516,9 @@ departments:
   - Aliens
   - Alimony
   - Antitrust
-  - Archives and records
   - Armed forces
   - Armed forces reserves
   - Arms and munitions
-  - Authority delegations (Government agencies)
   - Aviation safety
   - Black lung benefits
   - Blind
@@ -1563,13 +1540,11 @@ departments:
   - Community development
   - Computer technology
   - Concessions
-  - Confidential business information
   - Conscientious objectors
   - Construction industry
   - Consumer protection
   - Continental shelf
   - Cooperatives
-  - Courts
   - Credit unions
   - Crime
   - Crop insurance
@@ -1582,24 +1557,18 @@ departments:
   - Drug abuse
   - Drug testing
   - Drugs
-  - Education of disadvantaged
   - Education of individuals with disabilities
-  - Educational study programs
   - Elections
   - Electric power
   - Elementary and secondary education
   - Emergency medical services
   - Employee benefit plans
   - Energy
-  - Environmental impact statements
   - Environmental protection
   - Equal access to justice
-  - Equal educational opportunity
   - Estates
   - Excise taxes
   - Explosives
-  - Exports
-  - Federal buildings and facilities
   - Federally affected areas
   - Fire prevention
   - Firefighters
@@ -1607,7 +1576,6 @@ departments:
   - Food assistance programs
   - Foreign relations
   - Forests and forest products
-  - Fraud
   - Freight
   - Gases
   - Government procurement
@@ -1629,7 +1597,6 @@ departments:
   - Hazardous substances
   - Health
   - Health care
-  - Health facilities
   - Health insurance
   - Health maintenance organizations (HMO)
   - Health records
@@ -1656,10 +1623,8 @@ departments:
   - Laboratories
   - Land Management Bureau
   - Law enforcement officers
-  - Lawyers
   - Life insurance
   - Livestock
-  - Loan programs
   - Loan programs-agriculture
   - Loan programs-business
   - Loan programs-communications
@@ -1667,7 +1632,6 @@ departments:
   - Loan programs-health
   - Loan programs-natural resources
   - Lobbying
-  - Manpower training programs
   - Manufactured homes
   - Mass transportation
   - Maternal and child health
@@ -1675,7 +1639,6 @@ departments:
   - Medical research
   - Medicare
   - Metals
-  - Migrant labor
   - Military law
   - Military personnel
   - Mine safety and health
@@ -1708,11 +1671,7 @@ departments:
   - Range management
   - Real property acquisition
   - Recordings
-  - Religious discrimination
   - Relocation assistance
-  - Research
-  - Rural areas
-  - Safety
   - Science and technology
   - Seamen
   - Security measures
@@ -1722,10 +1681,8 @@ departments:
   - Smoking
   - Social security
   - Soil conservation
-  - State and local governments
   - Statistics
   - Strategic and critical materials
-  - Student aid
   - Students
   - Sunshine Act
   - Supplemental Security Income (SSI)
@@ -1738,17 +1695,14 @@ departments:
   - Telecommunications
   - Television
   - Time
-  - Transportation
   - Transportation Department
   - Travel restrictions
   - Trusts and trustees
   - Truth in lending
   - Uniform System of Accounts
   - Virgin Islands
-  - Wages
   - Waste treatment and disposal
   - Water resources
-  - Water supply
   - Waterways
   - Whistleblowing
   - Wildlife
@@ -1893,21 +1847,17 @@ keywords:
 - Communications common carriers
 - Communications equipment
 - Community development
-- Confidential business information
 - Copyright
 - Countervailing duties
-- Courts
 - Cultural exchange programs
 - Customs duties and inspection
 - Defense communications
 - Disaster assistance
 - Drug abuse
 - Economic statistics
-- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
-- Educational study programs
 - Electric power
 - Electric power rates
 - Electric utilities
@@ -1916,9 +1866,6 @@ keywords:
 - Emergency powers
 - Endangered and threatened species
 - Environmental protection
-- Equal educational opportunity
-- Exports
-- Federal buildings and facilities
 - Federally affected areas
 - Fish
 - Fisheries
@@ -1942,7 +1889,6 @@ keywords:
 - Guam
 - Harbors
 - Hawaiian Natives
-- Health facilities
 - Health insurance
 - Highways and roads
 - Historic preservation
@@ -1962,16 +1908,13 @@ keywords:
 - Kuwait
 - Labeling
 - Laboratories
-- Lawyers
 - Lebanon
 - Libraries
-- Loan programs
 - Loan programs-agriculture
 - Loan programs-business
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
-- Manpower training programs
 - Marine mammals
 - Marine resources
 - Marine safety
@@ -1979,10 +1922,8 @@ keywords:
 - Marketing quotas
 - Mass transportation
 - Measurement standards
-- Migrant labor
 - Monuments and memorials
 - Mortgage insurance
-- Mortgages
 - National Institute of Standards and Technology
 - National defense
 - National forests
@@ -1998,9 +1939,6 @@ keywords:
 - Puerto Rico
 - Radio
 - Railroads
-- Religious discrimination
-- Research
-- Rural areas
 - Russian Federation
 - Satellites
 - Scholarships and fellowships
@@ -2014,34 +1952,26 @@ keywords:
 - Sex discrimination
 - Small businesses
 - Space transportation and exploration
-- State and local governments
 - Statistics
 - Steel
 - Strategic and critical materials
-- Student aid
 - Teachers
 - Technical assistance
 - Telecommunications
-- Telephone
 - Television
 - Terrorism
 - Textiles
 - Trade adjustment assistance
 - Trademarks
-- Transportation
 - Treaties
 - United States investments abroad
 - Urban areas
-- Veterans
 - Virgin Islands
 - Vocational education
-- Vocational rehabilitation
-- Wages
 - Waste treatment and disposal
 - Watches and jewelry
 - Water pollution control
 - Water resources
-- Water supply
 - Watersheds
 - Waterways
 - Wildlife

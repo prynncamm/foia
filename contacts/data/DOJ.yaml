@@ -433,14 +433,12 @@ departments:
   - foiamail@atf.gov
   fax: 202-648-9619
   keywords:
-  - Advertising
   - Aircraft
   - Alcohol and alcoholic beverages
   - Antitrust
   - Armed forces
   - Arms and munitions
   - Arson
-  - Authority delegations (Government agencies)
   - Bankruptcy
   - Beer
   - Caribbean Basin initiative
@@ -455,7 +453,6 @@ departments:
   - Electronic funds transfers
   - Excise taxes
   - Explosives
-  - Exports
   - Food additives
   - Foods
   - Foreign trade zones
@@ -471,8 +468,6 @@ departments:
   - Military personnel
   - Packaging and containers
   - Puerto Rico
-  - Research
-  - Safety
   - Science and technology
   - Scientific equipment
   - Security measures
@@ -482,7 +477,6 @@ departments:
   - Surety bonds
   - Tobacco
   - Trade practices
-  - Transportation
   - Vessels
   - Vinegar
   - Virgin Islands
@@ -911,20 +905,16 @@ departments:
   fax: 202-307-8556
   keywords:
   - Arms and munitions
-  - Authority delegations (Government agencies)
   - Chemicals
   - Communications equipment
   - Copyright
-  - Courts
   - Crime
   - Drug abuse
   - Drug traffic control
-  - Exports
   - Gambling
   - Imports
   - Motor vehicles
   - Prescription drugs
-  - Research
   - Security measures
   - Seizures and forfeitures
   - Whistleblowing
@@ -1119,7 +1109,6 @@ departments:
   - Aliens
   - Citizenship and naturalization
   - Immigration
-  - Lawyers
   - Legal services
   misc:
     Senior Associate General Counsel, Office of the General Counsel:
@@ -1475,7 +1464,6 @@ departments:
   keywords:
   - Classified information
   - Computer technology
-  - Courts
   - Crime
   - Law enforcement officers
   - Security measures
@@ -1597,7 +1585,6 @@ departments:
   emails:
   - ogc_efoia@bop.gov
   keywords:
-  - Lawyers
   - Legal services
   - Prisoners
   misc:
@@ -2329,7 +2316,6 @@ departments:
   - Crime
   - Disability benefits
   - Educational facilities
-  - Educational study programs
   - Emergency medical services
   - Firefighters
   - Grant programs-law
@@ -2337,8 +2323,6 @@ departments:
   - Motor vehicle safety
   - Motor vehicles
   - Schools
-  - Student aid
-  - Transportation
   - Victim compensation
   misc:
     Government Information Specialist:
@@ -3556,9 +3540,7 @@ keywords:
 - Aliens
 - American Samoa
 - Antitrust
-- Archives and records
 - Arms and munitions
-- Authority delegations (Government agencies)
 - Bankruptcy
 - Blind
 - Broadband
@@ -3577,7 +3559,6 @@ keywords:
 - Computer technology
 - Consumer protection
 - Copyright
-- Courts
 - Crime
 - Cultural exchange programs
 - Customs duties and inspection
@@ -3586,30 +3567,23 @@ keywords:
 - Domestic violence
 - Drug abuse
 - Drug traffic control
-- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
-- Educational study programs
 - Elections
 - Electric power
 - Electric power rates
 - Electric utilities
 - Elementary and secondary education
 - Emergency medical services
-- Environmental impact statements
 - Environmental protection
-- Equal educational opportunity
 - Ethics
 - Excise taxes
 - Explosives
-- Exports
-- Federal buildings and facilities
 - Federally affected areas
 - Firefighters
 - Foreign officials
 - Foreign relations
-- Fraud
 - Gambling
 - Government property
 - Government property management
@@ -3620,7 +3594,6 @@ keywords:
 - Guam
 - Hazardous substances
 - Health care
-- Health facilities
 - Health insurance
 - Highways and roads
 - Historic preservation
@@ -3638,20 +3611,15 @@ keywords:
 - Juvenile delinquency
 - Labor
 - Law enforcement officers
-- Lawyers
 - Legal services
-- Loan programs
 - Loan programs-agriculture
 - Loan programs-communications
 - Loan programs-energy
 - Loan programs-housing and community development
-- Manpower training programs
 - Maritime carriers
 - Mass transportation
-- Migrant labor
 - Military personnel
 - Mortgage insurance
-- Mortgages
 - Motor vehicle safety
 - Motor vehicles
 - Nonprofit organizations
@@ -3667,10 +3635,6 @@ keywords:
 - Probation and parole
 - Radioactive materials
 - Railroads
-- Religious discrimination
-- Research
-- Rural areas
-- Safety
 - Scholarships and fellowships
 - School construction
 - Schools
@@ -3682,35 +3646,27 @@ keywords:
 - Seizures and forfeitures
 - Sex discrimination
 - Small businesses
-- State and local governments
-- Student aid
 - Students
 - Sunshine Act
 - Surety bonds
 - Teachers
 - Technical assistance
 - Telecommunications
-- Telephone
 - Terrorism
 - Tobacco
-- Transportation
 - Treaties
 - Trusts and trustees
 - Underground mining
 - Uranium
 - Urban areas
 - Vessels
-- Veterans
 - Victim compensation
 - Virgin Islands
 - Vocational education
-- Vocational rehabilitation
-- Wages
 - Warehouses
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
-- Water supply
 - Watersheds
 - Whistleblowing
 - Wiretapping and electronic surveillance

@@ -9,8 +9,7 @@ departments:
     street: 1500 Pennsylvania Avenue, NW
     zip: '20220'
   fax: 202-622-3895
-  keywords:
-  - Courts
+  keywords: []
   misc:
     Director, Disclosure Services:
       name: Ryan Law
@@ -47,12 +46,10 @@ departments:
   - ttbfoia@ttb.gov
   fax: 202-453-2331
   keywords:
-  - Advertising
   - Aircraft
   - Alcohol and alcoholic beverages
   - Armed forces
   - Arms and munitions
-  - Authority delegations (Government agencies)
   - Beer
   - Caribbean Basin initiative
   - Chemicals
@@ -65,7 +62,6 @@ departments:
   - Electronic funds transfers
   - Excise taxes
   - Explosives
-  - Exports
   - Food additives
   - Foreign trade zones
   - Fruit juices
@@ -78,8 +74,6 @@ departments:
   - Military personnel
   - Packaging and containers
   - Puerto Rico
-  - Research
-  - Safety
   - Scientific equipment
   - Security measures
   - Seizures and forfeitures
@@ -88,7 +82,6 @@ departments:
   - Surety bonds
   - Tobacco
   - Trade practices
-  - Transportation
   - Vessels
   - Vinegar
   - Virgin Islands
@@ -164,14 +157,11 @@ departments:
   - foia-pa@occ.treas.gov
   keywords:
   - Accountants
-  - Advertising
   - Antitrust
-  - Authority delegations (Government agencies)
   - Bank deposit insurance
   - Brokers
   - Community development
   - Computer technology
-  - Confidential business information
   - Consumer protection
   - Credit unions
   - Crime
@@ -180,7 +170,6 @@ departments:
   - Equal access to justice
   - Estates
   - Ethics
-  - Exports
   - Fair housing
   - Federal Reserve System
   - Flood insurance
@@ -193,17 +182,13 @@ departments:
   - Insurance companies
   - Investment companies
   - Investments
-  - Lawyers
   - Loan programs-housing and community development
   - Low and moderate income housing
   - Manufactured homes
   - Marital status discrimination
   - Minority businesses
-  - Mortgages
   - National banks
   - Nonprofit organizations
-  - Religious discrimination
-  - Rural areas
   - Savings associations
   - Security measures
   - Sex discrimination
@@ -250,14 +235,12 @@ departments:
     authorities.
   fax: 703-905-5126
   keywords:
-  - Authority delegations (Government agencies)
   - Brokers
   - Currency
   - Federal home loan banks
   - Foreign banking
   - Foreign currencies
   - Gambling
-  - Mortgages
   - Terrorism
   misc:
     Disclosure (FOIA) Office:
@@ -293,14 +276,12 @@ departments:
   - Air traffic controllers
   - Alcoholism
   - Alimony
-  - Archives and records
   - Black lung benefits
   - Blind
   - Bonds
   - Cemeteries
   - Child support
   - Child welfare
-  - Courts
   - Crime
   - Disability benefits
   - Drug abuse
@@ -310,7 +291,6 @@ departments:
   - Flags
   - Foreign banking
   - Forgery
-  - Fraud
   - Government property
   - Government securities
   - Housing
@@ -318,7 +298,6 @@ departments:
   - Insurance companies
   - Inventions and patents
   - Law enforcement officers
-  - Loan programs
   - Medicaid
   - Parking
   - Railroad retirement
@@ -333,9 +312,6 @@ departments:
   - Travel and transportation expenses
   - Treaties
   - Unemployment compensation
-  - Veterans
-  - Vocational rehabilitation
-  - Wages
   misc:
     Disclosure Officer:
       name: Cynthia Sydnor/Denise Nelson
@@ -366,7 +342,6 @@ departments:
     tax laws.
   fax: 877-807-9215
   keywords:
-  - Advertising
   - Advisory committees
   - Alimony
   - Bankruptcy
@@ -377,7 +352,6 @@ departments:
   - Child support
   - Consumer protection
   - Continental shelf
-  - Courts
   - Crime
   - Drugs
   - Employee benefit plans
@@ -407,13 +381,10 @@ departments:
   - Railroad retirement
   - Seals and insignia
   - Social security
-  - State and local governments
   - Statistics
   - Sunshine Act
   - Taxes
   - Technical assistance
-  - Telephone
-  - Transportation
   - Trusts and trustees
   - Unemployment compensation
   - Women
@@ -508,7 +479,6 @@ description: The Department of the Treasury manages Federal finances by collecti
 keywords:
 - Accountants
 - Adult education
-- Advertising
 - Advisory committees
 - Afghanistan
 - Agricultural commodities
@@ -526,11 +496,9 @@ keywords:
 - Animals
 - Antidumping
 - Antitrust
-- Archives and records
 - Armed forces
 - Arms and munitions
 - Arson
-- Authority delegations (Government agencies)
 - Bank deposit insurance
 - Bankruptcy
 - Beer
@@ -561,13 +529,11 @@ keywords:
 - Communications
 - Community development
 - Computer technology
-- Confidential business information
 - Consumer protection
 - Continental shelf
 - Copyright
 - Cosmetics
 - Countervailing duties
-- Courts
 - Credit unions
 - Crime
 - Cuba
@@ -581,11 +547,9 @@ keywords:
 - Drug abuse
 - Drug traffic control
 - Drugs
-- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
-- Educational study programs
 - Electric power
 - Electric power rates
 - Electric utilities
@@ -595,13 +559,11 @@ keywords:
 - Employee benefit plans
 - Employment taxes
 - Equal access to justice
-- Equal educational opportunity
 - Estate taxes
 - Estates
 - Ethics
 - Excise taxes
 - Explosives
-- Exports
 - Fair housing
 - Federal Reserve System
 - Federal home loan banks
@@ -622,7 +584,6 @@ keywords:
 - Foreign trade zones
 - Forgery
 - Foundations
-- Fraud
 - Freight
 - Freight forwarders
 - Fruit juices
@@ -644,7 +605,6 @@ keywords:
 - Hazardous substances
 - Health
 - Health care
-- Health facilities
 - Health insurance
 - Health records
 - Holding companies
@@ -668,12 +628,10 @@ keywords:
 - Labeling
 - Laboratories
 - Law enforcement officers
-- Lawyers
 - Lebanon
 - Liberia
 - Libya
 - Liquors
-- Loan programs
 - Loan programs-agriculture
 - Loan programs-communications
 - Loan programs-energy
@@ -681,7 +639,6 @@ keywords:
 - Loan programs-housing and community development
 - Lobbying
 - Low and moderate income housing
-- Manpower training programs
 - Manufactured homes
 - Marine resources
 - Marital status discrimination
@@ -690,11 +647,9 @@ keywords:
 - Medical devices
 - Mexico
 - Midway Islands
-- Migrant labor
 - Military personnel
 - Minority businesses
 - Mortgage insurance
-- Mortgages
 - Motor carriers
 - Motor vehicles
 - National banks
@@ -717,12 +672,8 @@ keywords:
 - Railroad retirement
 - Railroad unemployment insurance
 - Railroads
-- Religious discrimination
-- Research
 - Retirement
-- Rural areas
 - Russian Federation
-- Safety
 - Savings associations
 - Scholarships and fellowships
 - School construction
@@ -739,10 +690,8 @@ keywords:
 - Social security
 - Specially Designated Nationals
 - Spices and flavorings
-- State and local governments
 - Statistics
 - Stills
-- Student aid
 - Sudan
 - Sunshine Act
 - Supplemental Security Income (SSI)
@@ -751,13 +700,11 @@ keywords:
 - Teachers
 - Technical assistance
 - Telecommunications
-- Telephone
 - Terrorism
 - Tobacco
 - Trade agreements
 - Trade practices
 - Trademarks
-- Transportation
 - Travel and transportation expenses
 - Travel restrictions
 - Treaties
@@ -768,19 +715,15 @@ keywords:
 - Uranium
 - Urban areas
 - Vessels
-- Veterans
 - Vietnam
 - Vinegar
 - Virgin Islands
 - Vocational education
-- Vocational rehabilitation
-- Wages
 - Wake Island
 - Warehouses
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
-- Water supply
 - Watersheds
 - Western Balkans
 - Wildlife

@@ -8,7 +8,7 @@ import yaml
 import numpy as np
 
 # Threshold set to 30ish percentile of scores
-THRESHOLD = np.float64(0.940983)
+THRESHOLD = np.float64(1.0)
 
 """
 This script uses the Term Frequency–Inverse Document Frequency statistic

@@ -288,16 +288,12 @@ departments:
   - Computer technology
   - Day care
   - Dental health
-  - Education of disadvantaged
-  - Fraud
   - Grant programs-health
   - Grant programs-social programs
   - Health care
-  - Health facilities
   - Homeless
   - Immigration
   - Loan programs-social programs
-  - Manpower training programs
   - Maternal and child health
   - Medicaid
   - Medicare
@@ -307,7 +303,6 @@ departments:
   - Real property acquisition
   - Social security
   - Technical assistance
-  - Transportation
   - Unemployment compensation
   - Vocational education
   - Youth
@@ -534,7 +529,6 @@ departments:
   - Coal
   - Grant programs-health
   - Health care
-  - Health facilities
   - Laboratories
   - Medicaid
   - Medicare
@@ -542,7 +536,6 @@ departments:
   - Packaging and containers
   - Passports and visas
   - Public health
-  - Transportation
   name: Centers for Disease Control and Prevention
   phone: 770-488-6399
   public_liaison:
@@ -693,7 +686,6 @@ departments:
     phone:
     - 410-786-5353
   keywords:
-  - Advertising
   - Advisory committees
   - Aid to Families with Dependent Children
   - Brokers
@@ -701,18 +693,15 @@ departments:
   - Computer technology
   - Consumer protection
   - Drugs
-  - Education of disadvantaged
   - Emergency medical services
   - Employee benefit plans
   - Excise taxes
   - Family planning
-  - Fraud
   - Grant programs-health
   - Grant programs-social programs
   - Guam
   - Health
   - Health care
-  - Health facilities
   - Health insurance
   - Health maintenance organizations (HMO)
   - Health records
@@ -720,7 +709,6 @@ departments:
   - Hospitals
   - Kidney diseases
   - Laboratories
-  - Loan programs
   - Loan programs-health
   - Maternal and child health
   - Medicaid
@@ -733,15 +721,11 @@ departments:
   - Public assistance programs
   - Public health
   - Puerto Rico
-  - Rural areas
-  - Safety
   - Social security
-  - State and local governments
   - Sunshine Act
   - Supplemental Security Income (SSI)
   - Technical assistance
   - Virgin Islands
-  - Wages
   - Women
   - X-rays
   - Youth
@@ -859,12 +843,10 @@ departments:
   fax: 301-827-9267
   keywords:
   - Adhesives
-  - Advertising
   - Advisory committees
   - Animal drugs
   - Animal feeds
   - Animal foods
-  - Authority delegations (Government agencies)
   - Beverages
   - Biologics
   - Blood
@@ -872,17 +854,13 @@ departments:
   - Color additives
   - Communicable diseases
   - Computer technology
-  - Confidential business information
   - Consumer protection
   - Cosmetics
-  - Courts
   - Cream
   - Dietary foods
   - Drugs
   - Eggs and egg products
   - Electronic products
-  - Environmental impact statements
-  - Exports
   - Fish
   - Food additives
   - Food grades and standards
@@ -895,7 +873,6 @@ departments:
   - HIV/AIDS
   - Health
   - Health care
-  - Health facilities
   - Health records
   - Hospitals
   - Human research subjects
@@ -916,7 +893,6 @@ departments:
   - Public health
   - Quarantine
   - Radiation protection
-  - Safety
   - Seafood
   - Signs and symbols
   - Smoking
@@ -926,7 +902,6 @@ departments:
   - Tobacco
   - Travel restrictions
   - Warehouses
-  - Water supply
   - X-rays
   - Yogurt
   misc:
@@ -1057,30 +1032,24 @@ departments:
   keywords:
   - Biologics
   - Communicable diseases
-  - Courts
   - Dental health
   - Drugs
   - Educational facilities
-  - Educational study programs
-  - Fraud
   - Grant programs-education
   - Grant programs-health
   - HIV/AIDS
   - Health
   - Health care
-  - Health facilities
   - Health insurance
   - Hospitals
   - Immunization
   - Insurance companies
-  - Loan programs
   - Maternal and child health
   - Medical and dental schools
   - Medical devices
   - Public health
   - Scholarships and fellowships
   - Smallpox
-  - Student aid
   name: Health Resources and Services Administration
   phone: 301-443-3376
   public_liaison:
@@ -1187,7 +1156,6 @@ departments:
   - Grant programs-Indians
   - Health
   - Health care
-  - Health facilities
   - Indians-business and finance
   - Medicare
   name: Indian Health Service
@@ -1302,7 +1270,6 @@ departments:
     - 301-496-5633
   keywords:
   - Animal welfare
-  - Education of disadvantaged
   - Grant programs-health
   - Medical research
   - Occupational safety and health
@@ -1456,7 +1423,6 @@ departments:
   - Drug abuse
   - Emergency medical services
   - Grant programs-health
-  - Health facilities
   - Health records
   - Mental health programs
   - Methadone
@@ -1553,7 +1519,6 @@ keywords:
 - Adhesives
 - Adoption and foster care
 - Adult education
-- Advertising
 - Advisory committees
 - Aid to Families with Dependent Children
 - Airports
@@ -1566,8 +1531,6 @@ keywords:
 - Animal foods
 - Animal welfare
 - Animals
-- Archives and records
-- Authority delegations (Government agencies)
 - Beverages
 - Biologics
 - Black lung benefits
@@ -1587,11 +1550,9 @@ keywords:
 - Communications
 - Community development
 - Computer technology
-- Confidential business information
 - Consumer protection
 - Copyright
 - Cosmetics
-- Courts
 - Cream
 - Cuba
 - Cultural exchange programs
@@ -1601,11 +1562,9 @@ keywords:
 - Disaster assistance
 - Drug abuse
 - Drugs
-- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
-- Educational study programs
 - Eggs and egg products
 - Electric power
 - Electric power rates
@@ -1614,12 +1573,9 @@ keywords:
 - Elementary and secondary education
 - Emergency medical services
 - Employee benefit plans
-- Environmental impact statements
 - Equal access to justice
-- Equal educational opportunity
 - Ethics
 - Excise taxes
-- Exports
 - Family planning
 - Federally affected areas
 - Fish
@@ -1629,7 +1585,6 @@ keywords:
 - Food packaging
 - Foods
 - Foreign relations
-- Fraud
 - Fruit juices
 - Fruits
 - Government procurement
@@ -1647,7 +1602,6 @@ keywords:
 - Hazardous substances
 - Health
 - Health care
-- Health facilities
 - Health insurance
 - Health maintenance organizations (HMO)
 - Health records
@@ -1674,8 +1628,8 @@ keywords:
 - Labor
 - Laboratories
 - Lebanon
+- Legal services
 - Libraries
-- Loan programs
 - Loan programs-agriculture
 - Loan programs-communications
 - Loan programs-energy
@@ -1683,7 +1637,6 @@ keywords:
 - Loan programs-housing and community development
 - Loan programs-social programs
 - Lung diseases
-- Manpower training programs
 - Maternal and child health
 - Medicaid
 - Medical and dental schools
@@ -1692,12 +1645,10 @@ keywords:
 - Medicare
 - Mental health programs
 - Methadone
-- Migrant labor
 - Milk
 - Mine safety and health
 - Miners
 - Mortgage insurance
-- Mortgages
 - News media
 - Nonprofit organizations
 - Northern Mariana Islands
@@ -1721,10 +1672,6 @@ keywords:
 - Radioactive materials
 - Real property acquisition
 - Refugees
-- Religious discrimination
-- Research
-- Rural areas
-- Safety
 - Scholarships and fellowships
 - School construction
 - Schools
@@ -1739,8 +1686,6 @@ keywords:
 - Smoking
 - Social security
 - Spices and flavorings
-- State and local governments
-- Student aid
 - Students
 - Sunshine Act
 - Supplemental Security Income (SSI)
@@ -1749,23 +1694,17 @@ keywords:
 - Teachers
 - Technical assistance
 - Telecommunications
-- Telephone
 - Television
 - Tobacco
-- Transportation
 - Travel restrictions
 - Unemployment compensation
 - Urban areas
-- Veterans
 - Virgin Islands
 - Vocational education
-- Vocational rehabilitation
-- Wages
 - Warehouses
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
-- Water supply
 - Watersheds
 - Whistleblowing
 - Women

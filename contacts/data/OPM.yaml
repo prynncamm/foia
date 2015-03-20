@@ -106,14 +106,11 @@ description: OPM manages the civil service of the federal government, coordinate
   benefits programs. OPM also provides resources for locating student jobs, summer
   jobs, scholarships, and internships.
 keywords:
-- Advertising
 - Air traffic controllers
 - Alcohol abuse
 - Alcoholism
 - Alimony
-- Archives and records
 - Armed forces reserves
-- Authority delegations (Government agencies)
 - Blind
 - Cemeteries
 - Charitable contributions
@@ -121,7 +118,6 @@ keywords:
 - Civil defense
 - Colleges and universities
 - Computer technology
-- Courts
 - Crime
 - Day care
 - Disability benefits
@@ -135,7 +131,7 @@ keywords:
 - Government property
 - Government publications
 - Health
-- Health facilities
+- Health care
 - Health insurance
 - Health records
 - Holidays
@@ -148,10 +144,8 @@ keywords:
 - Labor management relations
 - Labor unions
 - Law enforcement officers
-- Lawyers
 - Lebanon
 - Life insurance
-- Loan programs
 - Medicaid
 - Military personnel
 - Motor vehicles
@@ -171,9 +165,6 @@ keywords:
 - Taxes
 - Travel and transportation expenses
 - Treaties
-- Veterans
-- Vocational rehabilitation
-- Wages
 name: Office of Personnel Management
 request_time_stats:
   '2008':

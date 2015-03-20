@@ -132,16 +132,12 @@ departments:
   keywords:
   - Air carriers
   - Alimony
-  - Archives and records
   - Aviation safety
   - Child support
   - Civil defense
   - Civil disorders
-  - Courts
   - Disaster assistance
-  - Environmental impact statements
   - Environmental protection
-  - Federal buildings and facilities
   - Foreign relations
   - Inventions and patents
   - Military air transportation
@@ -149,8 +145,6 @@ departments:
   - Military personnel
   - Motion pictures
   - Motor vehicles
-  - Safety
-  - State and local governments
   - Wake Island
   misc:
     FOIA Contact:
@@ -266,7 +260,6 @@ departments:
   fax: 703-428-6522
   keywords:
   - Air pollution control
-  - Archives and records
   - Armed forces
   - Biologics
   - Cemeteries
@@ -274,9 +267,7 @@ departments:
   - Crime
   - Disaster assistance
   - District of Columbia
-  - Environmental impact statements
   - Environmental protection
-  - Federal buildings and facilities
   - Government procurement
   - Government property
   - Hazardous substances
@@ -292,10 +283,7 @@ departments:
   - Noise control
   - Occupational safety and health
   - Radiation protection
-  - Research
-  - Safety
   - Traffic regulations
-  - Veterans
   - Waste treatment and disposal
   - Water pollution control
   misc:
@@ -399,15 +387,11 @@ departments:
   keywords:
   - Aircraft
   - Alimony
-  - Archives and records
   - Armed forces
   - Child support
-  - Courts
   - Crime
   - Educational research
   - Endangered and threatened species
-  - Environmental impact statements
-  - Federal buildings and facilities
   - Fish
   - Government property
   - Government property management
@@ -415,14 +399,12 @@ departments:
   - Historic preservation
   - Housing
   - Law
-  - Lawyers
   - Legal services
   - Marine safety
   - Military law
   - Military personnel
   - National defense
   - Navigation (water)
-  - Research
   - Seals and insignia
   - Security measures
   - Surplus Government property
@@ -3204,7 +3186,6 @@ description: The Department of Defense provides the military forces needed to de
   war, and to protect the security of the United States.
 keywords:
 - Adult education
-- Advertising
 - Advisory committees
 - Air carriers
 - Air pollution control
@@ -3216,7 +3197,6 @@ keywords:
 - Alcoholism
 - Alimony
 - American Samoa
-- Archives and records
 - Armed forces
 - Armed forces reserves
 - Arms and munitions
@@ -3241,7 +3221,6 @@ keywords:
 - Consumer protection
 - Continental shelf
 - Copyright
-- Courts
 - Credit unions
 - Crime
 - Cultural exchange programs
@@ -3254,11 +3233,9 @@ keywords:
 - Disaster assistance
 - District of Columbia
 - Drug abuse
-- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
-- Educational study programs
 - Elections
 - Electric power
 - Electric power rates
@@ -3266,10 +3243,7 @@ keywords:
 - Elementary and secondary education
 - Endangered and threatened species
 - Energy
-- Environmental impact statements
 - Environmental protection
-- Equal educational opportunity
-- Federal buildings and facilities
 - Federally affected areas
 - Fire prevention
 - Fish
@@ -3277,7 +3251,6 @@ keywords:
 - Food assistance programs
 - Foreign currencies
 - Foreign relations
-- Fraud
 - Government procurement
 - Government property
 - Government property management
@@ -3292,7 +3265,6 @@ keywords:
 - Hazardous substances
 - Health
 - Health care
-- Health facilities
 - Health insurance
 - Health records
 - Highway safety
@@ -3314,29 +3286,24 @@ keywords:
 - Labor unions
 - Law
 - Law enforcement officers
-- Lawyers
 - Lebanon
 - Legal services
 - Life insurance
-- Loan programs
 - Loan programs-agriculture
 - Loan programs-communications
 - Loan programs-education
 - Loan programs-energy
 - Loan programs-housing and community development
 - Loan programs-veterans
-- Manpower training programs
 - Marine safety
 - Medical and dental schools
 - Medical devices
 - Medical research
 - Mental health programs
-- Migrant labor
 - Military air transportation
 - Military law
 - Military personnel
 - Mortgage insurance
-- Mortgages
 - Motion pictures
 - Motor vehicles
 - National defense
@@ -3355,12 +3322,8 @@ keywords:
 - Public lands
 - Radiation protection
 - Real property acquisition
-- Religious discrimination
-- Research
 - Reservoirs
 - Rights-of-way
-- Rural areas
-- Safety
 - Scholarships and fellowships
 - School construction
 - Schools
@@ -3369,31 +3332,23 @@ keywords:
 - Seamen
 - Security measures
 - Sex discrimination
-- State and local governments
 - Statistics
-- Student aid
 - Surplus Government property
 - Taxes
 - Teachers
 - Technical assistance
 - Telecommunications
-- Telephone
 - Traffic regulations
-- Transportation
 - Travel and transportation expenses
 - Trusts and trustees
 - Urban areas
 - Vessels
-- Veterans
 - Virgin Islands
 - Vocational education
-- Vocational rehabilitation
-- Wages
 - Wake Island
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
-- Water supply
 - Watersheds
 - Waterways
 - Wildlife

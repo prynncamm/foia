@@ -28,7 +28,6 @@ departments:
     phone:
     - 202-720-3785
   keywords:
-  - Advertising
   - Advisory committees
   - Agricultural commodities
   - Agricultural research
@@ -36,7 +35,6 @@ departments:
   - Animals
   - Apples
   - Apricots
-  - Archives and records
   - Avocados
   - Blueberries
   - Brokers
@@ -50,7 +48,6 @@ departments:
   - Dairy products
   - Dates
   - Eggs and egg products
-  - Exports
   - Filberts
   - Fish
   - Food grades and standards
@@ -94,7 +91,6 @@ departments:
   - Poultry and poultry products
   - Prunes
   - Raisins
-  - Research
   - Seals and insignia
   - Seeds
   - Sheep
@@ -192,7 +188,6 @@ departments:
   - Animal feeds
   - Animal welfare
   - Animals
-  - Authority delegations (Government agencies)
   - Bees
   - Bison
   - Cattle
@@ -204,7 +199,6 @@ departments:
   - District of Columbia
   - Endangered and threatened species
   - Equal access to justice
-  - Exports
   - Fruits
   - Goats
   - Guam
@@ -230,13 +224,11 @@ departments:
   - Poultry and poultry products
   - Puerto Rico
   - Quarantine
-  - Research
   - Rice
   - Seeds
   - Seizures and forfeitures
   - Sheep
   - Straw
-  - Transportation
   - Travel and transportation expenses
   - Tuberculosis
   - Vegetables
@@ -414,7 +406,6 @@ departments:
   - Communications
   - Communications equipment
   - Community development
-  - Confidential business information
   - Cooperatives
   - Copyright
   - Cotton
@@ -425,28 +416,24 @@ departments:
   - Dairy products
   - Disaster assistance
   - Drug traffic control
-  - Education of disadvantaged
   - Education of individuals with disabilities
   - Educational facilities
   - Educational research
-  - Educational study programs
   - Electric power
   - Electric power rates
   - Electric utilities
   - Elementary and secondary education
   - Energy
   - Energy conservation
-  - Environmental impact statements
   - Environmental protection
-  - Equal educational opportunity
   - Fair housing
   - Federally affected areas
   - Feed grains
+  - Fire prevention
   - Fish
   - Flood insurance
   - Flood plains
   - Forests and forest products
-  - Fraud
   - Fruits
   - Government procurement
   - Government property
@@ -474,6 +461,7 @@ departments:
   - Housing standards
   - Human research subjects
   - Imports
+  - Income taxes
   - Indemnity payments
   - Indians-education
   - International organizations
@@ -481,7 +469,6 @@ departments:
   - Investments
   - Legal services
   - Livestock
-  - Loan programs
   - Loan programs-Indians
   - Loan programs-agriculture
   - Loan programs-business
@@ -491,15 +478,13 @@ departments:
   - Loan programs-natural resources
   - Lobbying
   - Low and moderate income housing
-  - Manpower training programs
   - Manufactured homes
   - Marital status discrimination
   - Marketing quotas
-  - Migrant labor
   - Military personnel
   - Milk
+  - Minimum wages
   - Mortgage insurance
-  - Mortgages
   - National defense
   - Natural resources
   - Nonprofit organizations
@@ -518,7 +503,6 @@ departments:
   - Public housing
   - Rent subsidies
   - Rice
-  - Rural areas
   - Scholarships and fellowships
   - School construction
   - Schools
@@ -529,31 +513,25 @@ departments:
   - Small businesses
   - Soil conservation
   - Soybeans
-  - State and local governments
-  - Student aid
   - Sugar
   - Surety bonds
   - Surplus Government property
   - Taxes
   - Teachers
   - Telecommunications
-  - Telephone
   - Television
   - Tobacco
-  - Transportation
   - Trees
   - Truth in lending
+  - Uranium
   - Urban areas
-  - Veterans
   - Virgin Islands
   - Vocational education
-  - Vocational rehabilitation
   - Volunteers
   - Warehouses
   - Waste treatment and disposal
   - Water pollution control
   - Water resources
-  - Water supply
   - Watersheds
   - Wheat
   - Wildlife
@@ -727,10 +705,8 @@ departments:
   keywords:
   - Animal diseases
   - Animal welfare
-  - Confidential business information
   - Crime
   - Eggs and egg products
-  - Exports
   - Food additives
   - Food grades and standards
   - Food labeling
@@ -747,7 +723,6 @@ departments:
   - Poultry and poultry products
   - Seizures and forfeitures
   - Signs and symbols
-  - Transportation
   misc:
     FOIA Contact:
       name: Shelia Wright
@@ -837,7 +812,6 @@ departments:
   keywords:
   - Agricultural commodities
   - Cheese
-  - Exports
   - Food assistance programs
   - Foreign aid
   - Government procurement
@@ -931,9 +905,7 @@ departments:
   - Crime
   - Crop insurance
   - Electric power
-  - Environmental impact statements
   - Environmental protection
-  - Exports
   - Fire prevention
   - Fish
   - Forests and forest products
@@ -954,14 +926,11 @@ departments:
   - Public lands
   - Range management
   - Reclamation
-  - Research
   - Rights-of-way
   - Science and technology
   - Seizures and forfeitures
-  - State and local governments
   - Surety bonds
   - Traffic regulations
-  - Transportation
   - Water resources
   - Wilderness areas
   - Wildlife
@@ -1055,9 +1024,6 @@ departments:
   fax: 202-690-2755
   keywords:
   - Agricultural commodities
-  - Archives and records
-  - Confidential business information
-  - Exports
   - Grains
   - Hogs
   - Livestock
@@ -1246,7 +1212,6 @@ departments:
   - Animals
   - Disaster assistance
   - Endangered and threatened species
-  - Environmental impact statements
   - Environmental protection
   - Fishing
   - Flood plains
@@ -1254,9 +1219,7 @@ departments:
   - Hunting
   - Natural Resources Conservation Service
   - Natural resources
-  - Rural areas
   - Soil conservation
-  - State and local governments
   - Technical assistance
   - Water resources
   - Wildlife
@@ -1407,16 +1370,13 @@ departments:
   - Community development
   - Copyright
   - Cultural exchange programs
-  - Education of disadvantaged
   - Education of individuals with disabilities
   - Educational facilities
   - Educational research
-  - Educational study programs
   - Electric power
   - Electric power rates
   - Electric utilities
   - Elementary and secondary education
-  - Equal educational opportunity
   - Federally affected areas
   - Grant programs-education
   - Grant programs-health
@@ -1429,38 +1389,27 @@ departments:
   - Indians-education
   - International organizations
   - Inventions and patents
-  - Loan programs
   - Loan programs-agriculture
   - Loan programs-communications
   - Loan programs-energy
   - Loan programs-housing and community development
-  - Manpower training programs
-  - Migrant labor
   - Mortgage insurance
-  - Mortgages
   - Nonprofit organizations
   - Northern Mariana Islands
   - Pacific Islands Trust Territory
   - Private schools
-  - Rural areas
   - Scholarships and fellowships
   - School construction
   - Schools
   - Science and technology
-  - State and local governments
-  - Student aid
   - Teachers
   - Telecommunications
-  - Telephone
   - Urban areas
-  - Veterans
   - Virgin Islands
   - Vocational education
-  - Vocational rehabilitation
   - Waste treatment and disposal
   - Water pollution control
   - Water resources
-  - Water supply
   - Watersheds
   - Women
   name: Office of the Chief Financial Officer
@@ -1992,7 +1941,6 @@ emails:
 keywords:
 - Acreage allotments
 - Adult education
-- Advertising
 - Advisory committees
 - Agricultural commodities
 - Agricultural research
@@ -2009,8 +1957,6 @@ keywords:
 - Antitrust
 - Apples
 - Apricots
-- Archives and records
-- Authority delegations (Government agencies)
 - Avocados
 - Bankruptcy
 - Barley
@@ -2037,12 +1983,10 @@ keywords:
 - Community development
 - Computer technology
 - Concessions
-- Confidential business information
 - Cooperatives
 - Copyright
 - Cotton
 - Cottonseeds
-- Courts
 - Cranberries
 - Crime
 - Crop insurance
@@ -2055,11 +1999,9 @@ keywords:
 - District of Columbia
 - Drug abuse
 - Drug traffic control
-- Education of disadvantaged
 - Education of individuals with disabilities
 - Educational facilities
 - Educational research
-- Educational study programs
 - Eggs and egg products
 - Electric power
 - Electric power rates
@@ -2068,15 +2010,11 @@ keywords:
 - Endangered and threatened species
 - Energy
 - Energy conservation
-- Environmental impact statements
 - Environmental protection
 - Equal access to justice
-- Equal educational opportunity
 - Ethics
-- Exports
 - Fair housing
 - Federal Crop Insurance Corporation
-- Federal buildings and facilities
 - Federally affected areas
 - Feed grains
 - Filberts
@@ -2095,7 +2033,6 @@ keywords:
 - Food stamps
 - Foreign aid
 - Forests and forest products
-- Fraud
 - Frozen foods
 - Fruit juices
 - Fruits
@@ -2124,7 +2061,6 @@ keywords:
 - Guam
 - Hay
 - Hazelnuts
-- Health facilities
 - Health insurance
 - Highways and roads
 - Historic preservation
@@ -2152,13 +2088,11 @@ keywords:
 - Kuwait
 - Labeling
 - Laboratories
-- Lawyers
 - Lebanon
 - Legal services
 - Libraries
 - Limes
 - Livestock
-- Loan programs
 - Loan programs-Indians
 - Loan programs-agriculture
 - Loan programs-business
@@ -2168,7 +2102,6 @@ keywords:
 - Loan programs-natural resources
 - Lobbying
 - Low and moderate income housing
-- Manpower training programs
 - Manufactured homes
 - Marine mammals
 - Marital status discrimination
@@ -2182,7 +2115,6 @@ keywords:
 - Meat inspection
 - Medical research
 - Melons
-- Migrant labor
 - Military personnel
 - Milk
 - Milk marketing orders
@@ -2190,8 +2122,8 @@ keywords:
 - Mineral royalties
 - Miners
 - Mines
+- Minimum wages
 - Mortgage insurance
-- Mortgages
 - Motion pictures
 - Museums
 - Mushrooms
@@ -2243,12 +2175,9 @@ keywords:
 - Range management
 - Real property acquisition
 - Reclamation
-- Religious discrimination
 - Rent subsidies
-- Research
 - Rice
 - Rights-of-way
-- Rural areas
 - Scholarships and fellowships
 - School breakfast and lunch programs
 - School construction
@@ -2267,10 +2196,8 @@ keywords:
 - Soil conservation
 - Soybeans
 - Spearmint oil
-- State and local governments
 - Stockyards
 - Straw
-- Student aid
 - Students
 - Sugar
 - Surety bonds
@@ -2281,35 +2208,30 @@ keywords:
 - Teachers
 - Technical assistance
 - Telecommunications
-- Telephone
 - Television
 - Tobacco
 - Tomatoes
 - Trade adjustment assistance
 - Trade practices
 - Traffic regulations
-- Transportation
 - Travel and transportation expenses
 - Trees
 - Truth in lending
 - Tuberculosis
 - Unemployment compensation
 - Uniform System of Accounts
+- Uranium
 - Urban areas
 - Vegetables
-- Veterans
 - Veterinarians
 - Virgin Islands
 - Vocational education
-- Vocational rehabilitation
 - Volunteers
-- Wages
 - Walnuts
 - Warehouses
 - Waste treatment and disposal
 - Water pollution control
 - Water resources
-- Water supply
 - Watermelons
 - Watersheds
 - Waterways
